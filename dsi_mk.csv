@@ -1,0 +1,171 @@
+Kode MK,Nama MK,Prodi MK,SKS,Praktikum,Kewajiban
+CIE61101,Perkembangan Peserta Didik,Pendidikan Teknologi Informasi,3,0,1
+CIE61102,Filsafat Pendidikan dan Sains,Pendidikan Teknologi Informasi,4,0,1
+CIE61103,Komunikasi dan Teknologi Pendidikan,Pendidikan Teknologi Informasi,3,0,1
+CIE61108,Penilaian Hasil Belajar,Pendidikan Teknologi Informasi,3,0,1
+CIE61109,Pembelajaran Mikro,Pendidikan Teknologi Informasi,3,1,1
+CIE61110,Perancangan Pembelajaran,Pendidikan Teknologi Informasi,3,0,1
+CIE61111,Pengenalan Lapangan Persekolahan 1,Pendidikan Teknologi Informasi,1,0,1
+CIE61112,Pengenalan Lapangan Persekolahan 2,Pendidikan Teknologi Informasi,3,0,1
+CIE61113,Pengembangan Program Pelatihan Teknologi Informasi,Pendidikan Teknologi Informasi,3,0,0
+CIE61114,Pendidikan Orang Dewasa dan Berkelanjutan,Pendidikan Teknologi Informasi,3,0,0
+CIE61115,Manajemen Sistem Pendidikan,Pendidikan Teknologi Informasi,3,0,0
+CIE61119,Multimodal Storytelling,Pendidikan Teknologi Informasi,3,0,0
+CIE61120,Literasi Digital,Pendidikan Teknologi Informasi,3,0,0
+CIE61205,Pemrograman Web,Pendidikan Teknologi Informasi,3,1,1
+CIE61206,Jaringan Komputer,Pendidikan Teknologi Informasi,3,1,1
+CIE61208,Basis Data,Pendidikan Teknologi Informasi,3,1,1
+CIE61215,Pengembangan Aplikasi Peranti Bergerak,Pendidikan Teknologi Informasi,3,0,0
+CIE61301,Kalkulus dan Aljabar Linear,Pendidikan Teknologi Informasi,3,0,1
+CIE61402,Paradigma Berpikir Komputasi,Pendidikan Teknologi Informasi,3,0,0
+CIE61403,Paradigma Berpikir Sistem dan Desain,Pendidikan Teknologi Informasi,3,0,0
+CIE61404,Manajemen Proyek Teknologi Informasi,Pendidikan Teknologi Informasi,3,0,0
+CIE62104,Pengembangan Kurikulum,Pendidikan Teknologi Informasi,3,0,1
+CIE62105,Pembelajaran Berdiferensiasi,Pendidikan Teknologi Informasi,2,0,1
+CIE62106,Teori dan Sains Belajar,Pendidikan Teknologi Informasi,3,0,1
+CIE62107,Lingkungan Pembelajaran Digital,Pendidikan Teknologi Informasi,3,1,1
+CIE62116,Teknologi Komputasi Awan,Pendidikan Teknologi Informasi,3,0,0
+CIE62117,Teknologi Peranti Internet,Pendidikan Teknologi Informasi,3,0,0
+CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,Pendidikan Teknologi Informasi,3,0,0
+CIE62201,Perancangan Antarmuka Pengguna,Pendidikan Teknologi Informasi,3,1,1
+CIE62202,Teknologi Platform,Pendidikan Teknologi Informasi,2,0,1
+CIE62203,Pemrograman Berbasis Objek,Pendidikan Teknologi Informasi,3,1,1
+CIE62204,Paradigma Sistem,Pendidikan Teknologi Informasi,2,0,1
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak,Pendidikan Teknologi Informasi,3,1,1
+CIE62303,Kecerdasan Artifisial,Pendidikan Teknologi Informasi,3,0,1
+CIE62305,Pembelajaran Emosional Sosial,Pendidikan Teknologi Informasi,3,0,0
+CIE62306,Pembelajaran Inklusif,Pendidikan Teknologi Informasi,3,0,0
+CIE62307,"Sistem Pembelajaran Berbasis Multimedia, Gim, dan Peranti Bergerak",Pendidikan Teknologi Informasi,3,0,0
+CIE62308,Sistem Pembelajaran Jarak Jauh,Pendidikan Teknologi Informasi,3,0,0
+CIE62401,Inovasi Digital Kompetitif,Pendidikan Teknologi Informasi,3,0,1
+CIS60101,Perkembangan dan Tren Teknologi Digital,Sistem Informasi,2,0,0
+CIS60102,Pengembangan Aplikasi Multiplatform,Sistem Informasi,2,0,0
+CIS60103,Pemrograman Web Lanjut,Sistem Informasi,3,0,0
+CIS60104,Transformasi Pemerintah,Sistem Informasi,2,0,0
+CIS60105,Strategi Transformasi Digital,Sistem Informasi,2,0,0
+CIS60106,Sistem Informasi Berkelanjutan,Sistem Informasi,2,0,0
+CSD60709,Gudang Data,Sistem Informasi,3,0,0
+CIS61102,Infrastruktur Teknologi Informasi,Sistem Informasi,2,0,1
+CIS61103,Manajemen Bisnis,Sistem Informasi,2,0,1
+CIS61104,Pengantar Sistem informasi,Sistem Informasi,2,0,1
+CIS61106,Keamanan dan Privasi Data,Sistem Informasi,2,0,1
+CIS61107,Manajemen Produk,Sistem Informasi,3,0,1
+CIS61108,Rekayasa Sistem Informasi,Sistem Informasi,5,1,1
+CIS61110,Pengembangan Aplikasi Mobile,Sistem Informasi,3,0,1
+CIS61111,Sistem Informasi berbasis Kecerdasan Buatan,Sistem Informasi,2,0,1
+CIS61112,Dasar Manajemen Proyek,Sistem Informasi,2,0,1
+CIS61113,Sistem Enterprise,Sistem Informasi,3,0,1
+CIS61115,Komunikasi Profesional,Sistem Informasi,2,0,1
+CIS61118,Rekayasa Kebutuhan Sistem Informasi,Sistem Informasi,2,0,0
+CIS61119,Manajemen Risiko dan Kontrol Sistem Informasi,Sistem Informasi,2,0,0
+CIS61120,Perbaikan Proses Bisnis,Sistem Informasi,2,0,0
+CIS61123,Enterprise Architecture II,Sistem Informasi,3,1,0
+CIS61124,Pengembangan Gim,Sistem Informasi,2,0,0
+CIS61125,Pengantar GeoInformasi,Sistem Informasi,3,1,0
+CIS61127,Pengembangan Berorientasi Penggunaan Ulang,Sistem Informasi,2,0,0
+CIS61128,Keamanan Jaringan dan Siber,Sistem Informasi,3,0,0
+CIS62102,Desain Antar Muka Pengguna,Sistem Informasi,3,0,1
+CIS62103,Jaringan dan Komputasi Awan,Sistem Informasi,2,0,1
+CIS62104,Pemodelan Proses Bisnis,Sistem Informasi,3,1,1
+CIS62105,Pengantar Sains Data,Sistem Informasi,2,0,1
+CIS62106,Pemrograman Web,Sistem Informasi,4,0,1
+CIS62108,Enterprise Architecture I,Sistem Informasi,2,0,1
+CIS62109,Pengujian dan Evaluasi Sistem Informasi,Sistem Informasi,2,0,0
+CIS62110,Perencanaan Strategis Sistem Informasi,Sistem Informasi,3,0,0
+CIS62112,Kecerdasan Bisnis dan Analitik,Sistem Informasi,3,0,1
+CIS62113,Pola-Pola Perancangan,Sistem Informasi,2,0,0
+CIS62114,Pengembangan Aplikasi Mobile Lanjut,Sistem Informasi,3,0,0
+CIS62115,Manajemen Investasi Teknologi Informasi,Sistem Informasi,3,0,0
+CIS62117,Manajemen Rantai Suplai,Sistem Informasi,2,0,0
+CIS62125,GeoInformasi Lanjut,Sistem Informasi,3,1,0
+CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,Sistem Informasi,3,0,0
+CIT60031,Manajemen Proyek Teknologi Informasi,Teknologi Informasi,3,0,0
+CIT60033,Sistem Forensik Digital,Teknologi Informasi,3,0,0
+CIT60036,Teknologi Berbasis Cloud,Teknologi Informasi,3,0,0
+CIT60039,Pengembangan Aplikasi Web Lanjut,Teknologi Informasi,3,0,0
+CIT60042,Teknologi Blockchain dan Platform Keuangan Digital,Teknologi Informasi,2,0,0
+CIT60044,Keamanan Data dan Privasi,Teknologi Informasi,3,1,0
+CIT60045,Kriptografi,Teknologi Informasi,3,0,0
+CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,Teknologi Informasi,2,0,0
+CIT60048,Information Retrieval,Teknologi Informasi,2,0,0
+CIT60049,Teknologi Basis Data Non Relational,Teknologi Informasi,3,0,0
+CIT60051,Teknologi Smart City,Teknologi Informasi,2,0,0
+CIT60052,Pengembangan Aplikasi Mobile Terapan,Teknologi Informasi,3,0,0
+CIT60053,Pengembangan Gim,Teknologi Informasi,3,0,0
+CIT61006,Pengembangan Aplikasi Web,Teknologi Informasi,4,1,1
+CIT61015,Jaringan Komputer,Teknologi Informasi,4,1,1
+CIT61016,Data Sains,Teknologi Informasi,3,0,1
+CIT61021,Data Warehouse,Teknologi Informasi,3,0,0
+CIT61024,Teknologi Keamanan Siber,Teknologi Informasi,3,0,1
+CIT61026,Internet of Things,Teknologi Informasi,4,1,1
+CIT62001,Dasar Desain Antarmuka Pengguna,Teknologi Informasi,3,0,1
+CIT62003,Dasar Pengembangan Sistem informasi,Teknologi Informasi,3,1,1
+CIT62010,Sistem Operasi,Teknologi Informasi,3,0,0
+CIT62011,Aljabar Linear dan Matriks,Teknologi Informasi,3,0,1
+CIT62012,Pengembangan Aplikasi Mobile,Teknologi Informasi,4,1,1
+CIT62015,Administrasi Sistem,Teknologi Informasi,4,1,1
+CIT62017,Teknologi Integrasi Sistem,Teknologi Informasi,4,1,1
+CIT62022,Implementasi dan Pengujian Sistem Informasi,Teknologi Informasi,2,0,1
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,3,0,1
+COM60004,Algoritma dan Struktur Data,Teknologi Informasi,3,1,1
+COM60011,Arsitektur dan Organisasi Komputer,Teknologi Informasi,2,0,1
+COM60014,Pemrograman Dasar,Pendidikan Teknologi Informasi,5,1,1
+COM60015,Matematika Diskret,Pendidikan Teknologi Informasi,2,0,1
+COM60016,Pengantar Keilmuan Komputer,Pendidikan Teknologi Informasi,2,0,1
+COM60024,Pemrograman Lanjut,Sistem Informasi,5,1,1
+COM60025,Kalkulus,Teknologi Informasi,2,0,1
+COM60051,Metodologi Penelitian dan Penulisan Ilmiah,Pendidikan Teknologi Informasi,3,0,1
+COM60052,Etika Profesi,Pendidikan Teknologi Informasi,2,0,1
+COM60061,Capstone Project,Pendidikan Teknologi Informasi,3,0,1
+CSD60701,Manajemen Layanan Teknologi Informasi,Pendidikan Teknologi Informasi,3,0,0
+CSD60702,Sistem Pendukung Keputusan,Pendidikan Teknologi Informasi,3,1,0
+CSD60703,Tata Kelola Teknologi Informasi,Sistem Informasi,3,0,1
+CSD60704,Desain Basis Data,Sistem Informasi,2,0,1
+CSD60705,Pemrograman SQL,Sistem Informasi,3,1,1
+CSD60706,Administrasi Basis Data,Sistem Informasi,3,1,1
+CSD60707,Big Data dan Analitik,Sistem Informasi,2,0,0
+CSD60708,Penambangan Data,Pendidikan Teknologi Informasi,3,0,1
+CSD60709,Keamanan Siber,Pendidikan Teknologi Informasi,2,0,1
+CSD60710,Sistem Informasi Geografis,Sistem Informasi,3,1,0
+CSD60711,Perancangan Pengalaman Pengguna,Pendidikan Teknologi Informasi,3,1,0
+CSD60712,Probabilitas dan Statistika,Pendidikan Teknologi Informasi,3,0,1
+CSD60713,Jaringan Terapan,Pendidikan Teknologi Informasi,3,0,0
+CSD60714,Jaminan Kualitas Perangkat Lunak,Pendidikan Teknologi Informasi,3,0,0
+CSD60715,Analisis Data Penelitian Kuantitatif,Pendidikan Teknologi Informasi,3,0,0
+CSD60716,Analisis Data Penelitian Kualitatif,Pendidikan Teknologi Informasi,3,0,0
+CSD60717,Teknologi Blockchain dan Platform Keuangan Digital,Sistem Informasi,2,0,0
+UBU60003,Kewirausahaan,Pendidikan Teknologi Informasi,2,0,1
+COM60014,Pemrograman Dasar,Sistem Informasi,5,1,1
+COM60015,Matematika Diskret,Sistem Informasi,2,0,1
+COM60016,Pengantar Keilmuan Komputer,Sistem Informasi,2,0,1
+COM60051,Metodologi Penelitian dan Penulisan Ilmiah,Sistem Informasi,3,0,1
+COM60052,Etika Profesi,Sistem Informasi,2,0,1
+COM60061,Capstone Project,Sistem Informasi,3,0,1
+CSD60701,Manajemen Layanan Teknologi Informasi,Sistem Informasi,2,0,0
+CSD60702,Sistem Pendukung Keputusan,Sistem Informasi,3,0,0
+CSD60708,Penambangan Data,Sistem Informasi,3,0,0
+CSD60711,Perancangan Pengalaman Pengguna,Sistem Informasi,3,0,1
+CSD60712,Probabilitas dan Statistika,Sistem Informasi,3,0,1
+CSD60715,Analisis Data Penelitian Kuantitatif,Sistem Informasi,3,0,1
+CSD60716,Analisis Data Penelitian Kualitatif,Sistem Informasi,3,0,0
+UBU60003,Kewirausahaan,Sistem Informasi,2,0,1
+COM60014,Pemrograman Dasar,Teknologi Informasi,5,1,1
+COM60015,Matematika Diskret,Teknologi Informasi,2,0,1
+COM60016,Pengantar Keilmuan Komputer,Teknologi Informasi,2,0,1
+COM60024,Pemrograman Lanjut,Teknologi Informasi,5,1,1
+COM60051,Metodologi Penelitian dan Penulisan Ilmiah,Teknologi Informasi,3,0,1
+COM60052,Etika Profesi,Teknologi Informasi,2,0,1
+COM60061,Capstone Project,Teknologi Informasi,3,0,1
+CSD60703,Tata Kelola Teknologi Informasi,Teknologi Informasi,3,0,1
+CSD60704,Desain Basis Data,Teknologi Informasi,2,0,1
+CSD60705,Pemrograman SQL,Teknologi Informasi,3,1,1
+CSD60706,Administrasi Basis Data,Teknologi Informasi,3,0,0
+CSD60707,Big Data dan Analitik,Teknologi Informasi,3,0,0
+CSD60708,Penambangan Data,Teknologi Informasi,3,0,0
+CSD60709,Keamanan Siber,Teknologi Informasi,2,0,1
+CSD60710,Sistem Informasi Geografis,Teknologi Informasi,3,1,0
+CSD60711,Perancangan Pengalaman Pengguna,Teknologi Informasi,3,1,0
+CSD60712,Probabilitas dan Statistika,Teknologi Informasi,3,0,1
+CSD60713,Jaringan Terapan,Teknologi Informasi,3,1,0
+CSD60714,Jaminan Kualitas Perangkat Lunak,Teknologi Informasi,3,0,0
+UBU60003,Kewirausahaan,Teknologi Informasi,2,0,1
