@@ -1,0 +1,2473 @@
+algo,kode_MK,nama,type,day,hour,room,lecturer
+COA,CSD60706,Administrasi Basis Data,lecture,Fri,10,F3.7a,72
+COA,CSD60706,Administrasi Basis Data,lecture,Fri,17,F3.18,72
+COA,CSD60706,Administrasi Basis Data,practicum,Thu,10,70,Asprak
+COA,CSD60706,Administrasi Basis Data,lecture,Fri,16,F3.7a,102
+COA,CSD60706,Administrasi Basis Data,lecture,Wed,16,F3.8,102
+COA,CSD60706,Administrasi Basis Data,practicum,Wed,15,22,Asprak
+COA,CSD60706,Administrasi Basis Data,lecture,Fri,7,F3.8,75
+COA,CSD60706,Administrasi Basis Data,lecture,Wed,14,F3.12,75
+COA,CSD60706,Administrasi Basis Data,practicum,Fri,10,37,Asprak
+COA,CSD60706,Administrasi Basis Data,lecture,Tue,7,F3.16,91
+COA,CSD60706,Administrasi Basis Data,lecture,Mon,10,F4.11,91
+COA,CSD60706,Administrasi Basis Data,practicum,Mon,9,53,Asprak
+COA,CSD60706,Administrasi Basis Data,lecture,Fri,9,F3.12,102
+COA,CSD60706,Administrasi Basis Data,lecture,Tue,16,F3.1,102
+COA,CSD60706,Administrasi Basis Data,lecture,Mon,15,F4.7,102
+COA,CSD60706,Administrasi Basis Data,lecture,Tue,7,F2.6,102
+COA,CSD60706,Administrasi Basis Data,lecture,Mon,17,F4.13,102
+COA,CSD60706,Administrasi Basis Data,lecture,Mon,8,F4.2,102
+COA,CSD60706,Administrasi Basis Data,lecture,Thu,7,F2.1,75
+COA,CSD60706,Administrasi Basis Data,lecture,Mon,8,F3.4,75
+COA,CSD60706,Administrasi Basis Data,lecture,Mon,9,F4.13,75
+COA,CSD60706,Administrasi Basis Data,lecture,Thu,17,F4.6,91
+COA,CSD60706,Administrasi Basis Data,lecture,Thu,15,F3.7a,91
+COA,CSD60706,Administrasi Basis Data,lecture,Tue,13,F3.15,91
+COA,CIT62015,Administrasi Sistem,lecture,Fri,15,F3.17,75
+COA,CIT62015,Administrasi Sistem,lecture,Fri,17,F2.6,75
+COA,CIT62015,Administrasi Sistem,lecture,Wed,9,F3.9,75
+COA,CIT62015,Administrasi Sistem,practicum,Fri,16,31,Asprak
+COA,CIT62015,Administrasi Sistem,lecture,Wed,10,F2.1,104
+COA,CIT62015,Administrasi Sistem,lecture,Thu,11,F4.3,104
+COA,CIT62015,Administrasi Sistem,lecture,Mon,10,F2.5,104
+COA,CIT62015,Administrasi Sistem,practicum,Wed,16,75,Asprak
+COA,CIT62015,Administrasi Sistem,lecture,Thu,15,F4.12,65
+COA,CIT62015,Administrasi Sistem,lecture,Tue,16,F3.13,65
+COA,CIT62015,Administrasi Sistem,lecture,Mon,15,F4.9,65
+COA,CIT62015,Administrasi Sistem,practicum,Wed,11,50,Asprak
+COA,COM60004,Algoritma dan Struktur Data,lecture,Tue,13,F11.4,31
+COA,COM60004,Algoritma dan Struktur Data,lecture,Wed,7,F2.4,31
+COA,COM60004,Algoritma dan Struktur Data,practicum,Thu,8,58,Asprak
+COA,COM60004,Algoritma dan Struktur Data,lecture,Mon,7,F4.3,75
+COA,COM60004,Algoritma dan Struktur Data,lecture,Fri,8,F2.4,75
+COA,COM60004,Algoritma dan Struktur Data,practicum,Thu,8,47,Asprak
+COA,COM60004,Algoritma dan Struktur Data,lecture,Thu,17,F4.3,3
+COA,COM60004,Algoritma dan Struktur Data,lecture,Wed,13,F2.5,3
+COA,COM60004,Algoritma dan Struktur Data,practicum,Fri,10,48,Asprak
+COA,CIT62011,Aljabar Linear dan Matriks,lecture,Tue,8,F2.4,92
+COA,CIT62011,Aljabar Linear dan Matriks,lecture,Mon,11,F11.4,92
+COA,CIT62011,Aljabar Linear dan Matriks,lecture,Tue,8,F3.5a,92
+COA,CIT62011,Aljabar Linear dan Matriks,lecture,Fri,14,F3.7b,16
+COA,CIT62011,Aljabar Linear dan Matriks,lecture,Tue,7,F4.12,16
+COA,CIT62011,Aljabar Linear dan Matriks,lecture,Fri,17,F3.10,16
+COA,CIT62011,Aljabar Linear dan Matriks,lecture,Fri,16,F3.16,54
+COA,CIT62011,Aljabar Linear dan Matriks,lecture,Wed,9,F2.1,54
+COA,CIT62011,Aljabar Linear dan Matriks,lecture,Wed,13,F3.16,54
+COA,CIT62011,Aljabar Linear dan Matriks,lecture,Thu,11,F3.9,63
+COA,CIT62011,Aljabar Linear dan Matriks,lecture,Fri,10,F3.13,63
+COA,CIT62011,Aljabar Linear dan Matriks,lecture,Thu,10,F3.14,63
+COA,CIT62011,Aljabar Linear dan Matriks,lecture,Wed,10,F3.1,77
+COA,CIT62011,Aljabar Linear dan Matriks,lecture,Fri,7,F3.6,77
+COA,CIT62011,Aljabar Linear dan Matriks,lecture,Mon,9,F2.1,77
+COA,CIT62011,Aljabar Linear dan Matriks,lecture,Tue,13,F4.3,93
+COA,CIT62011,Aljabar Linear dan Matriks,lecture,Mon,15,F3.5a,93
+COA,CIT62011,Aljabar Linear dan Matriks,lecture,Wed,8,F3.14,93
+COA,CIT62011,Aljabar Linear dan Matriks,lecture,Mon,8,F4.10,100
+COA,CIT62011,Aljabar Linear dan Matriks,lecture,Mon,8,F3.7b,100
+COA,CIT62011,Aljabar Linear dan Matriks,lecture,Tue,7,F3.10,100
+COA,CIT62011,Aljabar Linear dan Matriks,lecture,Tue,8,F3.7a,107
+COA,CIT62011,Aljabar Linear dan Matriks,lecture,Mon,10,F11.4,107
+COA,CIT62011,Aljabar Linear dan Matriks,lecture,Wed,7,F3.9,107
+COA,CIT62011,Aljabar Linear dan Matriks,lecture,Mon,8,F4.12,103
+COA,CIT62011,Aljabar Linear dan Matriks,lecture,Mon,15,F3.10,103
+COA,CIT62011,Aljabar Linear dan Matriks,lecture,Tue,7,F3.6,103
+COA,CSD60716,Analisis Data Penelitian Kualitatif,lecture,Mon,16,F2.5,12
+COA,CSD60716,Analisis Data Penelitian Kualitatif,lecture,Tue,17,F3.11,12
+COA,CSD60716,Analisis Data Penelitian Kualitatif,lecture,Thu,14,F2.8,12
+COA,CSD60716,Analisis Data Penelitian Kualitatif,lecture,Fri,10,F3.17,12
+COA,CSD60716,Analisis Data Penelitian Kualitatif,lecture,Tue,13,F3.11,12
+COA,CSD60716,Analisis Data Penelitian Kualitatif,lecture,Mon,9,F4.12,12
+COA,CSD60716,Analisis Data Penelitian Kualitatif,lecture,Fri,9,F4.13,100
+COA,CSD60716,Analisis Data Penelitian Kualitatif,lecture,Wed,17,F2.9,100
+COA,CSD60716,Analisis Data Penelitian Kualitatif,lecture,Mon,11,F4.12,100
+COA,CSD60716,Analisis Data Penelitian Kualitatif,lecture,Mon,14,F3.18,87
+COA,CSD60716,Analisis Data Penelitian Kualitatif,lecture,Thu,14,F4.4,87
+COA,CSD60716,Analisis Data Penelitian Kualitatif,lecture,Thu,16,F3.4,87
+COA,CSD60716,Analisis Data Penelitian Kualitatif,lecture,Wed,16,F2.6,37
+COA,CSD60716,Analisis Data Penelitian Kualitatif,lecture,Thu,11,F2.1,37
+COA,CSD60716,Analisis Data Penelitian Kualitatif,lecture,Fri,7,F3.9,37
+COA,CSD60716,Analisis Data Penelitian Kualitatif,lecture,Fri,9,F3.10,37
+COA,CSD60716,Analisis Data Penelitian Kualitatif,lecture,Mon,7,F3.6,37
+COA,CSD60716,Analisis Data Penelitian Kualitatif,lecture,Fri,17,F2.4,37
+COA,CSD60716,Analisis Data Penelitian Kualitatif,lecture,Tue,15,F4.5,37
+COA,CSD60716,Analisis Data Penelitian Kualitatif,lecture,Tue,13,F3.3,37
+COA,CSD60716,Analisis Data Penelitian Kualitatif,lecture,Mon,16,F3.13,37
+COA,CSD60716,Analisis Data Penelitian Kualitatif,lecture,Wed,11,F2.1,100
+COA,CSD60716,Analisis Data Penelitian Kualitatif,lecture,Tue,14,F3.2,100
+COA,CSD60716,Analisis Data Penelitian Kualitatif,lecture,Mon,9,F3.14,100
+COA,CSD60716,Analisis Data Penelitian Kualitatif,lecture,Fri,17,F11.4,12
+COA,CSD60716,Analisis Data Penelitian Kualitatif,lecture,Tue,9,F2.4,12
+COA,CSD60716,Analisis Data Penelitian Kualitatif,lecture,Tue,9,F3.15,12
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Mon,17,F3.4,11
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Tue,7,F11.3,11
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Fri,16,F3.15,11
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Fri,15,F3.7b,16
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Tue,14,F2.6,16
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Tue,7,F4.9,16
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Tue,15,F3.16,63
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Tue,17,F4.5,63
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Mon,16,F4.7,63
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Mon,8,F3.14,63
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Wed,13,F4.14,63
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Thu,15,F3.4,63
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Tue,16,F3.9,63
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Thu,15,F2.5,63
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Tue,10,F3.14,63
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Wed,15,F3.5a,100
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Tue,8,F3.17,100
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Mon,14,F4.3,100
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Tue,15,F3.18,87
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Mon,8,F4.6,87
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Fri,16,F2.8,87
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Wed,14,F4.10,16
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Mon,14,F4.12,16
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Wed,17,F4.11,16
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Tue,14,F3.7b,37
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Wed,9,F4.12,37
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Tue,8,F4.5,37
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Tue,17,F3.16,40
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Tue,14,F4.4,40
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Thu,11,F2.2,40
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Thu,7,F2.6,40
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Wed,13,F3.4,40
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Wed,14,F3.8,40
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Tue,10,F4.4,100
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Tue,16,F3.15,100
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Fri,16,F4.11,100
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Thu,17,F3.5b,108
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Fri,15,F4.3,108
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Tue,10,F3.15,108
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Mon,9,F2.8,11
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Tue,17,F3.4,11
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Wed,8,F4.4,11
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Fri,14,F3.1,12
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Thu,8,F4.14,12
+COA,CSD60715,Analisis Data Penelitian Kuantitatif,lecture,Wed,14,F3.4,12
+COA,COM60011,Arsitektur dan Organisasi Komputer,lecture,Wed,11,F3.5b,103
+COA,COM60011,Arsitektur dan Organisasi Komputer,lecture,Wed,16,F4.10,103
+COA,CIE61208,Basis Data,lecture,Mon,8,F2.2,4
+COA,CIE61208,Basis Data,lecture,Mon,16,F3.12,4
+COA,CIE61208,Basis Data,practicum,Fri,17,58,Asprak
+COA,CIE61208,Basis Data,lecture,Mon,13,F3.7b,60
+COA,CIE61208,Basis Data,lecture,Fri,10,F3.4,60
+COA,CIE61208,Basis Data,practicum,Wed,7,73,Asprak
+COA,CIE61208,Basis Data,lecture,Tue,8,F3.5b,75
+COA,CIE61208,Basis Data,lecture,Fri,10,F2.4,75
+COA,CIE61208,Basis Data,practicum,Tue,14,4,Asprak
+COA,CIE61208,Basis Data,lecture,Fri,10,F3.3,91
+COA,CIE61208,Basis Data,lecture,Fri,10,F3.9,91
+COA,CIE61208,Basis Data,practicum,Thu,14,63,Asprak
+COA,CIE61208,Basis Data,lecture,Wed,7,F2.2,102
+COA,CIE61208,Basis Data,lecture,Mon,15,F3.14,102
+COA,CIE61208,Basis Data,practicum,Fri,8,91,Asprak
+COA,CIE61208,Basis Data,lecture,Wed,15,F4.9,108
+COA,CIE61208,Basis Data,lecture,Fri,15,F4.4,108
+COA,CIE61208,Basis Data,practicum,Fri,9,94,Asprak
+COA,CSD60707,Big Data dan Analitik,lecture,Fri,13,F3.14,72
+COA,CSD60707,Big Data dan Analitik,lecture,Fri,13,F2.1,72
+COA,CSD60707,Big Data dan Analitik,lecture,Mon,7,F2.2,52
+COA,CSD60707,Big Data dan Analitik,lecture,Tue,11,F3.3,52
+COA,CSD60707,Big Data dan Analitik,lecture,Thu,10,F3.5b,16
+COA,CSD60707,Big Data dan Analitik,lecture,Mon,9,F3.7b,16
+COA,CSD60707,Big Data dan Analitik,lecture,Mon,14,F11.3,20
+COA,CSD60707,Big Data dan Analitik,lecture,Tue,7,F4.5,20
+COA,CSD60707,Big Data dan Analitik,lecture,Mon,16,F3.9,80
+COA,CSD60707,Big Data dan Analitik,lecture,Wed,17,F3.6,80
+COA,CSD60707,Big Data dan Analitik,lecture,Wed,9,F3.18,102
+COA,CSD60707,Big Data dan Analitik,lecture,Thu,11,F3.7a,102
+COA,CSD60707,Big Data dan Analitik,lecture,Fri,7,F4.6,89
+COA,CSD60707,Big Data dan Analitik,lecture,Wed,10,F3.4,89
+COA,CSD60707,Big Data dan Analitik,lecture,Tue,15,F3.12,52
+COA,CSD60707,Big Data dan Analitik,lecture,Mon,9,F4.6,52
+COA,CSD60707,Big Data dan Analitik,lecture,Mon,9,F4.5,52
+COA,CSD60707,Big Data dan Analitik,lecture,Wed,15,F3.5b,20
+COA,CSD60707,Big Data dan Analitik,lecture,Tue,14,F4.11,20
+COA,CSD60707,Big Data dan Analitik,lecture,Mon,11,F3.14,20
+COA,CSD60707,Big Data dan Analitik,lecture,Mon,14,F3.12,48
+COA,CSD60707,Big Data dan Analitik,lecture,Mon,7,F3.11,48
+COA,CSD60707,Big Data dan Analitik,lecture,Wed,16,F11.1,48
+COA,CSD60707,Big Data dan Analitik,lecture,Thu,10,F4.6,48
+COA,CSD60707,Big Data dan Analitik,lecture,Fri,7,F11.1,48
+COA,CSD60707,Big Data dan Analitik,lecture,Mon,13,F3.4,48
+COA,CSD60707,Big Data dan Analitik,lecture,Fri,13,F3.12,80
+COA,CSD60707,Big Data dan Analitik,lecture,Tue,14,F11.4,80
+COA,CSD60707,Big Data dan Analitik,lecture,Wed,8,F2.8,80
+COA,CSD60707,Big Data dan Analitik,lecture,Tue,10,F3.5b,93
+COA,CSD60707,Big Data dan Analitik,lecture,Fri,10,F3.10,93
+COA,CSD60707,Big Data dan Analitik,lecture,Thu,13,F11.1,93
+COA,CSD60707,Big Data dan Analitik,lecture,Thu,17,F2.8,102
+COA,CSD60707,Big Data dan Analitik,lecture,Thu,9,F4.10,102
+COA,CSD60707,Big Data dan Analitik,lecture,Wed,8,F3.17,102
+COA,CSD60707,Big Data dan Analitik,lecture,Mon,17,F3.7b,89
+COA,CSD60707,Big Data dan Analitik,lecture,Tue,13,F2.8,89
+COA,CSD60707,Big Data dan Analitik,lecture,Thu,15,F11.1,89
+COA,COM60061,Capstone Project,lecture,Fri,17,F3.11,4
+COA,COM60061,Capstone Project,lecture,Wed,16,F3.11,4
+COA,COM60061,Capstone Project,lecture,Wed,15,F4.6,4
+COA,COM60061,Capstone Project,lecture,Mon,15,F4.14,22
+COA,COM60061,Capstone Project,lecture,Mon,9,F3.8,22
+COA,COM60061,Capstone Project,lecture,Tue,16,F3.2,22
+COA,COM60061,Capstone Project,lecture,Fri,13,F4.13,40
+COA,COM60061,Capstone Project,lecture,Fri,9,F4.12,40
+COA,COM60061,Capstone Project,lecture,Tue,7,F3.3,40
+COA,COM60061,Capstone Project,lecture,Mon,17,F3.5b,76
+COA,COM60061,Capstone Project,lecture,Mon,10,F3.14,76
+COA,COM60061,Capstone Project,lecture,Tue,13,F3.9,76
+COA,COM60061,Capstone Project,lecture,Wed,17,F4.14,76
+COA,COM60061,Capstone Project,lecture,Wed,10,F3.13,76
+COA,COM60061,Capstone Project,lecture,Tue,13,F3.8,76
+COA,COM60061,Capstone Project,lecture,Fri,10,F3.5b,47
+COA,COM60061,Capstone Project,lecture,Mon,16,F4.5,47
+COA,COM60061,Capstone Project,lecture,Mon,7,F4.4,47
+COA,COM60061,Capstone Project,lecture,Mon,14,F4.11,48
+COA,COM60061,Capstone Project,lecture,Thu,15,F4.2,48
+COA,COM60061,Capstone Project,lecture,Mon,8,F3.10,48
+COA,COM60061,Capstone Project,lecture,Wed,16,F3.5a,47
+COA,COM60061,Capstone Project,lecture,Tue,14,F3.3,47
+COA,COM60061,Capstone Project,lecture,Wed,9,F4.14,47
+COA,COM60061,Capstone Project,lecture,Tue,14,F3.9,87
+COA,COM60061,Capstone Project,lecture,Wed,9,F2.2,87
+COA,COM60061,Capstone Project,lecture,Thu,7,F3.16,87
+COA,COM60061,Capstone Project,lecture,Wed,14,F4.13,4
+COA,COM60061,Capstone Project,lecture,Wed,14,F3.17,4
+COA,COM60061,Capstone Project,lecture,Fri,13,F3.10,4
+COA,COM60061,Capstone Project,lecture,Wed,8,F4.9,108
+COA,COM60061,Capstone Project,lecture,Tue,7,F3.5a,108
+COA,COM60061,Capstone Project,lecture,Mon,14,F3.7a,108
+COA,COM60061,Capstone Project,lecture,Thu,9,F3.13,22
+COA,COM60061,Capstone Project,lecture,Thu,9,F3.3,22
+COA,COM60061,Capstone Project,lecture,Thu,13,F3.10,22
+COA,COM60061,Capstone Project,lecture,Wed,9,F4.3,40
+COA,COM60061,Capstone Project,lecture,Mon,8,F11.4,40
+COA,COM60061,Capstone Project,lecture,Thu,8,F3.14,40
+COA,COM60061,Capstone Project,lecture,Thu,15,F4.13,76
+COA,COM60061,Capstone Project,lecture,Tue,17,F3.13,76
+COA,COM60061,Capstone Project,lecture,Thu,16,F4.3,76
+COA,COM60061,Capstone Project,lecture,Thu,14,F3.16,14
+COA,COM60061,Capstone Project,lecture,Thu,10,F3.15,14
+COA,COM60061,Capstone Project,lecture,Mon,8,F2.8,14
+COA,COM60061,Capstone Project,lecture,Mon,15,F3.5b,4
+COA,COM60061,Capstone Project,lecture,Tue,8,F3.2,4
+COA,COM60061,Capstone Project,lecture,Wed,8,F4.2,4
+COA,COM60061,Capstone Project,lecture,Mon,7,F3.15,47
+COA,COM60061,Capstone Project,lecture,Fri,15,F4.6,47
+COA,COM60061,Capstone Project,lecture,Thu,11,F3.11,47
+COA,COM60061,Capstone Project,lecture,Tue,9,F11.3,22
+COA,COM60061,Capstone Project,lecture,Wed,11,F4.6,22
+COA,COM60061,Capstone Project,lecture,Mon,11,F4.7,22
+COA,COM60061,Capstone Project,lecture,Wed,10,F11.4,48
+COA,COM60061,Capstone Project,lecture,Thu,11,F4.10,48
+COA,COM60061,Capstone Project,lecture,Fri,10,F11.3,48
+COA,COM60061,Capstone Project,lecture,Wed,8,F3.7a,76
+COA,COM60061,Capstone Project,lecture,Wed,9,F4.6,76
+COA,COM60061,Capstone Project,lecture,Mon,10,F4.12,76
+COA,CIT62001,Dasar Desain Antarmuka Pengguna,lecture,Fri,17,F3.15,22
+COA,CIT62001,Dasar Desain Antarmuka Pengguna,lecture,Tue,8,F4.13,22
+COA,CIT62001,Dasar Desain Antarmuka Pengguna,lecture,Tue,14,F3.12,22
+COA,CIT62001,Dasar Desain Antarmuka Pengguna,lecture,Fri,17,F3.7a,45
+COA,CIT62001,Dasar Desain Antarmuka Pengguna,lecture,Fri,10,F3.15,45
+COA,CIT62001,Dasar Desain Antarmuka Pengguna,lecture,Thu,9,F3.17,45
+COA,CIT62001,Dasar Desain Antarmuka Pengguna,lecture,Fri,17,F4.12,47
+COA,CIT62001,Dasar Desain Antarmuka Pengguna,lecture,Tue,14,F3.17,47
+COA,CIT62001,Dasar Desain Antarmuka Pengguna,lecture,Mon,17,F3.11,47
+COA,CIT62001,Dasar Desain Antarmuka Pengguna,lecture,Thu,8,F4.12,4
+COA,CIT62001,Dasar Desain Antarmuka Pengguna,lecture,Thu,11,F4.6,4
+COA,CIT62001,Dasar Desain Antarmuka Pengguna,lecture,Wed,15,F4.14,4
+COA,CIT62001,Dasar Desain Antarmuka Pengguna,lecture,Tue,14,F4.3,16
+COA,CIT62001,Dasar Desain Antarmuka Pengguna,lecture,Thu,10,F4.12,16
+COA,CIT62001,Dasar Desain Antarmuka Pengguna,lecture,Thu,13,F2.8,16
+COA,CIT62001,Dasar Desain Antarmuka Pengguna,lecture,Mon,9,F11.3,62
+COA,CIT62001,Dasar Desain Antarmuka Pengguna,lecture,Wed,13,F3.1,62
+COA,CIT62001,Dasar Desain Antarmuka Pengguna,lecture,Thu,9,F2.1,62
+COA,CIS61112,Dasar Manajemen Proyek,lecture,Tue,10,F3.16,47
+COA,CIS61112,Dasar Manajemen Proyek,lecture,Tue,11,F4.12,47
+COA,CIS61112,Dasar Manajemen Proyek,lecture,Thu,11,F11.4,6
+COA,CIS61112,Dasar Manajemen Proyek,lecture,Fri,15,F3.5b,6
+COA,CIS61112,Dasar Manajemen Proyek,lecture,Fri,13,F2.4,67
+COA,CIS61112,Dasar Manajemen Proyek,lecture,Fri,9,F3.9,67
+COA,CIS61112,Dasar Manajemen Proyek,lecture,Thu,8,F3.16,76
+COA,CIS61112,Dasar Manajemen Proyek,lecture,Fri,16,F3.17,76
+COA,CIS61112,Dasar Manajemen Proyek,lecture,Wed,9,F4.2,87
+COA,CIS61112,Dasar Manajemen Proyek,lecture,Tue,17,F3.5a,87
+COA,CIS61112,Dasar Manajemen Proyek,lecture,Fri,9,F11.3,102
+COA,CIS61112,Dasar Manajemen Proyek,lecture,Thu,8,F11.4,102
+COA,CIT62003,Dasar Pengembangan Sistem informasi,lecture,Tue,9,F3.7a,4
+COA,CIT62003,Dasar Pengembangan Sistem informasi,lecture,Mon,10,F4.14,4
+COA,CIT62003,Dasar Pengembangan Sistem informasi,practicum,Wed,8,67,Asprak
+COA,CIT62003,Dasar Pengembangan Sistem informasi,lecture,Wed,14,F4.14,31
+COA,CIT62003,Dasar Pengembangan Sistem informasi,lecture,Tue,9,F3.4,31
+COA,CIT62003,Dasar Pengembangan Sistem informasi,practicum,Thu,11,9,Asprak
+COA,CIT62003,Dasar Pengembangan Sistem informasi,lecture,Thu,10,F4.5,67
+COA,CIT62003,Dasar Pengembangan Sistem informasi,lecture,Fri,10,F11.4,67
+COA,CIT62003,Dasar Pengembangan Sistem informasi,practicum,Thu,14,30,Asprak
+COA,CIT62003,Dasar Pengembangan Sistem informasi,lecture,Tue,16,F3.10,108
+COA,CIT62003,Dasar Pengembangan Sistem informasi,lecture,Tue,16,F4.2,108
+COA,CIT62003,Dasar Pengembangan Sistem informasi,practicum,Thu,14,75,Asprak
+COA,CIT61016,Data Sains,lecture,Tue,16,F2.8,15
+COA,CIT61016,Data Sains,lecture,Mon,8,F3.13,15
+COA,CIT61016,Data Sains,lecture,Mon,17,F2.4,15
+COA,CIT61016,Data Sains,lecture,Fri,10,F3.1,89
+COA,CIT61016,Data Sains,lecture,Tue,10,F3.11,89
+COA,CIT61016,Data Sains,lecture,Mon,15,F3.12,89
+COA,CIT61021,Data Warehouse,lecture,Thu,13,F3.18,73
+COA,CIT61021,Data Warehouse,lecture,Tue,17,F4.7,73
+COA,CIT61021,Data Warehouse,lecture,Fri,17,F3.2,73
+COA,CIT61021,Data Warehouse,lecture,Mon,7,F3.17,102
+COA,CIT61021,Data Warehouse,lecture,Wed,13,F3.11,102
+COA,CIT61021,Data Warehouse,lecture,Tue,10,F3.9,102
+COA,CIT61021,Data Warehouse,lecture,Thu,16,F4.10,16
+COA,CIT61021,Data Warehouse,lecture,Thu,14,F3.7a,16
+COA,CIT61021,Data Warehouse,lecture,Thu,13,F3.6,16
+COA,CIT61021,Data Warehouse,lecture,Tue,9,F4.13,16
+COA,CIT61021,Data Warehouse,lecture,Tue,14,F3.4,16
+COA,CIT61021,Data Warehouse,lecture,Fri,15,F3.5a,16
+COA,CIS62102,Desain Antar Muka Pengguna,lecture,Thu,7,F4.6,22
+COA,CIS62102,Desain Antar Muka Pengguna,lecture,Tue,15,F3.7b,22
+COA,CIS62102,Desain Antar Muka Pengguna,lecture,Wed,13,F3.8,22
+COA,CIS62102,Desain Antar Muka Pengguna,lecture,Mon,9,F3.16,45
+COA,CIS62102,Desain Antar Muka Pengguna,lecture,Thu,8,F4.9,45
+COA,CIS62102,Desain Antar Muka Pengguna,lecture,Tue,11,F3.18,45
+COA,CIS62102,Desain Antar Muka Pengguna,lecture,Mon,9,F3.13,47
+COA,CIS62102,Desain Antar Muka Pengguna,lecture,Fri,8,F3.8,47
+COA,CIS62102,Desain Antar Muka Pengguna,lecture,Thu,13,F3.3,47
+COA,CIS62102,Desain Antar Muka Pengguna,lecture,Wed,8,F3.11,4
+COA,CIS62102,Desain Antar Muka Pengguna,lecture,Thu,9,F4.5,4
+COA,CIS62102,Desain Antar Muka Pengguna,lecture,Thu,15,F4.11,4
+COA,CIS62102,Desain Antar Muka Pengguna,lecture,Tue,15,F4.2,16
+COA,CIS62102,Desain Antar Muka Pengguna,lecture,Thu,9,F3.7b,16
+COA,CIS62102,Desain Antar Muka Pengguna,lecture,Tue,17,F11.1,16
+COA,CIS62102,Desain Antar Muka Pengguna,lecture,Mon,7,F11.1,12
+COA,CIS62102,Desain Antar Muka Pengguna,lecture,Fri,9,F3.5a,12
+COA,CIS62102,Desain Antar Muka Pengguna,lecture,Wed,14,F4.3,12
+COA,CIS62102,Desain Antar Muka Pengguna,lecture,Thu,16,F3.6,37
+COA,CIS62102,Desain Antar Muka Pengguna,lecture,Mon,10,F3.16,37
+COA,CIS62102,Desain Antar Muka Pengguna,lecture,Thu,9,F4.11,37
+COA,CIS62102,Desain Antar Muka Pengguna,lecture,Tue,14,F4.13,62
+COA,CIS62102,Desain Antar Muka Pengguna,lecture,Fri,9,F3.3,62
+COA,CIS62102,Desain Antar Muka Pengguna,lecture,Wed,11,F4.11,62
+COA,CIS62102,Desain Antar Muka Pengguna,lecture,Wed,13,F3.5a,87
+COA,CIS62102,Desain Antar Muka Pengguna,lecture,Tue,10,F4.14,87
+COA,CIS62102,Desain Antar Muka Pengguna,lecture,Thu,13,F3.16,87
+COA,CIS62102,Desain Antar Muka Pengguna,lecture,Fri,15,F3.8,70
+COA,CIS62102,Desain Antar Muka Pengguna,lecture,Mon,9,F3.5a,70
+COA,CIS62102,Desain Antar Muka Pengguna,lecture,Thu,11,F2.6,70
+COA,CSD60704,Desain Basis Data,lecture,Tue,9,F3.2,72
+COA,CSD60704,Desain Basis Data,lecture,Fri,15,F3.9,72
+COA,CSD60704,Desain Basis Data,lecture,Thu,15,F3.18,102
+COA,CSD60704,Desain Basis Data,lecture,Wed,7,F3.11,102
+COA,CSD60704,Desain Basis Data,lecture,Mon,13,F4.4,108
+COA,CSD60704,Desain Basis Data,lecture,Mon,17,F2.9,108
+COA,CSD60704,Desain Basis Data,lecture,Mon,11,F3.17,75
+COA,CSD60704,Desain Basis Data,lecture,Tue,10,F3.13,75
+COA,CSD60704,Desain Basis Data,lecture,Thu,7,F2.5,91
+COA,CSD60704,Desain Basis Data,lecture,Thu,15,F3.11,91
+COA,CSD60704,Desain Basis Data,lecture,Fri,13,F3.7b,22
+COA,CSD60704,Desain Basis Data,lecture,Tue,9,F3.7b,22
+COA,CSD60704,Desain Basis Data,lecture,Thu,14,F3.4,102
+COA,CSD60704,Desain Basis Data,lecture,Wed,13,F3.10,102
+COA,CSD60704,Desain Basis Data,lecture,Wed,17,F2.8,1
+COA,CSD60704,Desain Basis Data,lecture,Fri,8,F3.16,1
+COA,CSD60704,Desain Basis Data,lecture,Fri,14,F2.4,16
+COA,CSD60704,Desain Basis Data,lecture,Fri,7,F3.11,16
+COA,CSD60704,Desain Basis Data,lecture,Fri,16,F3.10,20
+COA,CSD60704,Desain Basis Data,lecture,Thu,16,F3.16,20
+COA,CSD60704,Desain Basis Data,lecture,Thu,16,F3.5b,29
+COA,CSD60704,Desain Basis Data,lecture,Thu,10,F2.5,29
+COA,CSD60704,Desain Basis Data,lecture,Wed,17,F3.9,29
+COA,CSD60704,Desain Basis Data,lecture,Thu,17,F3.1,29
+COA,CSD60704,Desain Basis Data,lecture,Mon,16,F3.7b,73
+COA,CSD60704,Desain Basis Data,lecture,Thu,11,F11.1,73
+COA,CSD60704,Desain Basis Data,lecture,Mon,9,F4.11,75
+COA,CSD60704,Desain Basis Data,lecture,Mon,14,F3.5b,75
+COA,CSD60704,Desain Basis Data,lecture,Thu,16,F2.1,91
+COA,CSD60704,Desain Basis Data,lecture,Wed,13,F11.1,91
+COA,CSD60704,Desain Basis Data,lecture,Wed,15,F3.6,98
+COA,CSD60704,Desain Basis Data,lecture,Mon,17,F3.3,98
+COA,CSD60704,Desain Basis Data,lecture,Mon,8,F4.3,108
+COA,CSD60704,Desain Basis Data,lecture,Mon,7,F4.14,108
+COA,CIS62108,Enterprise Architecture I,lecture,Wed,8,F4.5,13
+COA,CIS62108,Enterprise Architecture I,lecture,Wed,7,F11.4,13
+COA,CIS62108,Enterprise Architecture I,lecture,Thu,10,F3.1,6
+COA,CIS62108,Enterprise Architecture I,lecture,Tue,16,F4.10,6
+COA,CIS62108,Enterprise Architecture I,lecture,Mon,13,F4.13,55
+COA,CIS62108,Enterprise Architecture I,lecture,Fri,8,F2.1,55
+COA,CIS62108,Enterprise Architecture I,lecture,Wed,15,F4.5,62
+COA,CIS62108,Enterprise Architecture I,lecture,Wed,17,F11.3,62
+COA,CIS62108,Enterprise Architecture I,lecture,Tue,17,F3.12,76
+COA,CIS62108,Enterprise Architecture I,lecture,Wed,16,F2.2,76
+COA,CIS62108,Enterprise Architecture I,lecture,Wed,8,F3.5b,87
+COA,CIS62108,Enterprise Architecture I,lecture,Mon,16,F3.6,87
+COA,CIS62108,Enterprise Architecture I,lecture,Thu,8,F4.5,87
+COA,CIS62108,Enterprise Architecture I,lecture,Thu,15,F3.14,87
+COA,CIS61123,Enterprise Architecture II,lecture,Wed,16,F2.8,76
+COA,CIS61123,Enterprise Architecture II,lecture,Mon,7,F3.9,76
+COA,CIS61123,Enterprise Architecture II,practicum,Wed,13,88,Asprak
+COA,CIS61123,Enterprise Architecture II,lecture,Wed,14,F4.12,87
+COA,CIS61123,Enterprise Architecture II,lecture,Thu,8,F3.5b,87
+COA,CIS61123,Enterprise Architecture II,practicum,Wed,13,68,Asprak
+COA,CIS61123,Enterprise Architecture II,lecture,Wed,13,F3.2,6
+COA,CIS61123,Enterprise Architecture II,lecture,Tue,7,F3.7a,6
+COA,CIS61123,Enterprise Architecture II,practicum,Tue,7,35,Asprak
+COA,COM60052,Etika Profesi,lecture,Wed,17,F4.9,94
+COA,COM60052,Etika Profesi,lecture,Tue,8,F3.15,94
+COA,COM60052,Etika Profesi,lecture,Thu,14,F3.11,4
+COA,COM60052,Etika Profesi,lecture,Thu,8,F2.2,4
+COA,COM60052,Etika Profesi,lecture,Mon,14,F3.3,22
+COA,COM60052,Etika Profesi,lecture,Mon,9,F4.14,22
+COA,COM60052,Etika Profesi,lecture,Tue,10,F4.11,48
+COA,COM60052,Etika Profesi,lecture,Wed,14,F4.2,48
+COA,COM60052,Etika Profesi,lecture,Tue,10,F4.13,77
+COA,COM60052,Etika Profesi,lecture,Mon,16,F2.1,77
+COA,COM60052,Etika Profesi,lecture,Wed,11,F4.7,77
+COA,COM60052,Etika Profesi,lecture,Fri,16,F4.13,77
+COA,COM60052,Etika Profesi,lecture,Mon,13,F3.3,59
+COA,COM60052,Etika Profesi,lecture,Thu,16,F3.13,59
+COA,COM60052,Etika Profesi,lecture,Wed,7,F4.7,87
+COA,COM60052,Etika Profesi,lecture,Fri,7,F4.3,87
+COA,COM60052,Etika Profesi,lecture,Fri,15,F2.1,4
+COA,COM60052,Etika Profesi,lecture,Fri,8,F2.8,4
+COA,COM60052,Etika Profesi,lecture,Mon,17,F4.12,4
+COA,COM60052,Etika Profesi,lecture,Thu,14,F2.9,4
+COA,COM60052,Etika Profesi,lecture,Fri,16,F3.11,96
+COA,COM60052,Etika Profesi,lecture,Tue,14,F11.3,96
+COA,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,lecture,Thu,13,F4.13,45
+COA,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,lecture,Mon,13,F3.18,45
+COA,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,lecture,Wed,9,F4.7,45
+COA,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,lecture,Thu,15,F4.10,4
+COA,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,lecture,Fri,13,F4.7,4
+COA,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,lecture,Tue,7,F11.4,4
+COA,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,lecture,Thu,13,F4.11,12
+COA,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,lecture,Thu,8,F3.17,12
+COA,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,lecture,Tue,8,F3.14,12
+COA,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,lecture,Thu,13,F4.6,16
+COA,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,lecture,Fri,14,F3.18,16
+COA,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,lecture,Tue,17,F3.5b,16
+COA,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,lecture,Fri,14,F4.6,47
+COA,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,lecture,Fri,15,F3.3,47
+COA,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,lecture,Tue,11,F4.7,47
+COA,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,lecture,Tue,16,F3.14,55
+COA,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,lecture,Thu,16,F3.18,55
+COA,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,lecture,Mon,9,F3.5b,55
+COA,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,lecture,Tue,9,F3.16,62
+COA,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,lecture,Fri,13,F4.12,62
+COA,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,lecture,Wed,9,F3.3,62
+COA,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,lecture,Thu,17,F2.1,60
+COA,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,lecture,Tue,17,F4.9,60
+COA,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,lecture,Tue,9,F4.2,60
+COA,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,lecture,Fri,9,F3.7a,83
+COA,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,lecture,Thu,14,F3.1,83
+COA,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,lecture,Wed,10,F3.16,83
+COA,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,lecture,Tue,16,F3.16,87
+COA,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,lecture,Wed,7,F4.5,87
+COA,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,lecture,Tue,14,F3.15,87
+COA,CIE61102,Filsafat Pendidikan dan Sains,lecture,Wed,13,F4.3,59
+COA,CIE61102,Filsafat Pendidikan dan Sains,lecture,Thu,17,F3.12,59
+COA,CIE61102,Filsafat Pendidikan dan Sains,lecture,Wed,11,F4.3,59
+COA,CIE61102,Filsafat Pendidikan dan Sains,lecture,Fri,14,F4.13,59
+COA,CIE61102,Filsafat Pendidikan dan Sains,lecture,Mon,10,F4.2,103
+COA,CIE61102,Filsafat Pendidikan dan Sains,lecture,Fri,16,F3.7b,103
+COA,CIE61102,Filsafat Pendidikan dan Sains,lecture,Tue,13,F4.9,103
+COA,CIE61102,Filsafat Pendidikan dan Sains,lecture,Thu,16,F11.3,103
+COA,CIS62125,GeoInformasi Lanjut,lecture,Wed,8,F11.4,11
+COA,CIS62125,GeoInformasi Lanjut,lecture,Tue,13,F3.12,11
+COA,CIS62125,GeoInformasi Lanjut,practicum,Tue,17,9,Asprak
+COA,CIS62125,GeoInformasi Lanjut,lecture,Thu,7,F11.3,87
+COA,CIS62125,GeoInformasi Lanjut,lecture,Wed,13,F11.3,87
+COA,CIS62125,GeoInformasi Lanjut,practicum,Fri,16,71,Asprak
+COA,CSD60709,Gudang Data,lecture,Tue,16,F3.5b,72
+COA,CSD60709,Gudang Data,lecture,Thu,8,F2.9,72
+COA,CSD60709,Gudang Data,lecture,Fri,16,F11.3,72
+COA,CSD60709,Gudang Data,lecture,Thu,7,F4.14,73
+COA,CSD60709,Gudang Data,lecture,Thu,14,F4.9,73
+COA,CSD60709,Gudang Data,lecture,Mon,14,F3.13,73
+COA,CSD60709,Gudang Data,lecture,Mon,11,F4.4,102
+COA,CSD60709,Gudang Data,lecture,Thu,17,F4.7,102
+COA,CSD60709,Gudang Data,lecture,Fri,9,F2.1,102
+COA,CSD60709,Gudang Data,lecture,Mon,13,F11.1,16
+COA,CSD60709,Gudang Data,lecture,Mon,16,F3.3,16
+COA,CSD60709,Gudang Data,lecture,Tue,11,F4.2,16
+COA,CIT62022,Implementasi dan Pengujian Sistem Informasi,lecture,Tue,16,F11.4,94
+COA,CIT62022,Implementasi dan Pengujian Sistem Informasi,lecture,Thu,10,F2.2,94
+COA,CIT62022,Implementasi dan Pengujian Sistem Informasi,lecture,Fri,13,F3.7a,4
+COA,CIT62022,Implementasi dan Pengujian Sistem Informasi,lecture,Tue,10,F3.1,4
+COA,CIT62022,Implementasi dan Pengujian Sistem Informasi,lecture,Thu,8,F3.10,1
+COA,CIT62022,Implementasi dan Pengujian Sistem Informasi,lecture,Thu,11,F3.17,1
+COA,CIT62022,Implementasi dan Pengujian Sistem Informasi,lecture,Thu,15,F4.6,6
+COA,CIT62022,Implementasi dan Pengujian Sistem Informasi,lecture,Mon,13,F3.9,6
+COA,CIT62022,Implementasi dan Pengujian Sistem Informasi,lecture,Wed,8,F3.9,16
+COA,CIT62022,Implementasi dan Pengujian Sistem Informasi,lecture,Fri,13,F4.3,16
+COA,CIT62022,Implementasi dan Pengujian Sistem Informasi,lecture,Wed,10,F3.11,31
+COA,CIT62022,Implementasi dan Pengujian Sistem Informasi,lecture,Thu,17,F3.3,31
+COA,CIT62022,Implementasi dan Pengujian Sistem Informasi,lecture,Thu,16,F3.7b,40
+COA,CIT62022,Implementasi dan Pengujian Sistem Informasi,lecture,Thu,9,F4.12,40
+COA,CIT62022,Implementasi dan Pengujian Sistem Informasi,lecture,Tue,14,F4.9,40
+COA,CIT62022,Implementasi dan Pengujian Sistem Informasi,lecture,Tue,8,F3.13,40
+COA,CIT62022,Implementasi dan Pengujian Sistem Informasi,lecture,Fri,9,F3.17,67
+COA,CIT62022,Implementasi dan Pengujian Sistem Informasi,lecture,Wed,15,F3.17,67
+COA,CIT60048,Information Retrieval,lecture,Wed,11,F2.2,52
+COA,CIT60048,Information Retrieval,lecture,Wed,7,F3.7b,52
+COA,CIT60048,Information Retrieval,lecture,Tue,8,F4.7,107
+COA,CIT60048,Information Retrieval,lecture,Thu,7,F3.10,107
+COA,CIT60048,Information Retrieval,lecture,Fri,8,F3.11,1
+COA,CIT60048,Information Retrieval,lecture,Wed,11,F4.12,1
+COA,CIT60048,Information Retrieval,lecture,Tue,8,F3.9,80
+COA,CIT60048,Information Retrieval,lecture,Wed,8,F4.3,80
+COA,CIT60048,Information Retrieval,lecture,Mon,17,F3.2,93
+COA,CIT60048,Information Retrieval,lecture,Wed,8,F3.5a,93
+COA,CIT60048,Information Retrieval,lecture,Fri,17,F2.2,47
+COA,CIT60048,Information Retrieval,lecture,Thu,7,F2.2,47
+COA,CIT60048,Information Retrieval,lecture,Tue,10,F3.17,89
+COA,CIT60048,Information Retrieval,lecture,Mon,14,F2.5,89
+COA,CIT60048,Information Retrieval,lecture,Tue,13,F11.1,97
+COA,CIT60048,Information Retrieval,lecture,Thu,7,F2.9,97
+COA,CIS61102,Infrastruktur Teknologi Informasi,lecture,Wed,7,F3.3,17
+COA,CIS61102,Infrastruktur Teknologi Informasi,lecture,Mon,7,F4.10,17
+COA,CIS61102,Infrastruktur Teknologi Informasi,lecture,Thu,7,F2.4,103
+COA,CIS61102,Infrastruktur Teknologi Informasi,lecture,Fri,16,F3.2,103
+COA,CIE62401,Inovasi Digital Kompetitif,lecture,Tue,17,F3.10,47
+COA,CIE62401,Inovasi Digital Kompetitif,lecture,Mon,16,F3.1,47
+COA,CIE62401,Inovasi Digital Kompetitif,lecture,Mon,9,F3.12,47
+COA,CIE62401,Inovasi Digital Kompetitif,lecture,Fri,8,F3.10,4
+COA,CIE62401,Inovasi Digital Kompetitif,lecture,Thu,13,F11.3,4
+COA,CIE62401,Inovasi Digital Kompetitif,lecture,Tue,7,F3.5b,4
+COA,CIE62401,Inovasi Digital Kompetitif,lecture,Thu,8,F3.3,6
+COA,CIE62401,Inovasi Digital Kompetitif,lecture,Wed,9,F4.13,6
+COA,CIE62401,Inovasi Digital Kompetitif,lecture,Fri,16,F3.4,6
+COA,CIE62401,Inovasi Digital Kompetitif,lecture,Fri,7,F3.12,45
+COA,CIE62401,Inovasi Digital Kompetitif,lecture,Thu,10,F4.10,45
+COA,CIE62401,Inovasi Digital Kompetitif,lecture,Tue,16,F3.4,45
+COA,CIT61026,Internet of Things,lecture,Wed,10,F4.14,90
+COA,CIT61026,Internet of Things,lecture,Fri,9,F4.10,90
+COA,CIT61026,Internet of Things,lecture,Wed,14,F3.16,90
+COA,CIT61026,Internet of Things,practicum,Thu,9,79,Asprak
+COA,CIT61026,Internet of Things,lecture,Mon,14,F3.7b,17
+COA,CIT61026,Internet of Things,lecture,Mon,17,F4.3,17
+COA,CIT61026,Internet of Things,lecture,Tue,16,F2.1,17
+COA,CIT61026,Internet of Things,practicum,Tue,13,46,Asprak
+COA,CIT61026,Internet of Things,lecture,Mon,8,F3.16,35
+COA,CIT61026,Internet of Things,lecture,Fri,7,F3.14,35
+COA,CIT61026,Internet of Things,lecture,Mon,17,F3.14,35
+COA,CIT61026,Internet of Things,practicum,Thu,10,9,Asprak
+COA,CIT61026,Internet of Things,lecture,Tue,11,F3.8,96
+COA,CIT61026,Internet of Things,lecture,Thu,11,F3.4,96
+COA,CIT61026,Internet of Things,lecture,Fri,8,F3.1,96
+COA,CIT61026,Internet of Things,practicum,Tue,9,62,Asprak
+COA,CSD60714,Jaminan Kualitas Perangkat Lunak,lecture,Thu,17,F2.2,4
+COA,CSD60714,Jaminan Kualitas Perangkat Lunak,lecture,Tue,16,F11.3,4
+COA,CSD60714,Jaminan Kualitas Perangkat Lunak,lecture,Wed,15,F4.12,4
+COA,CSD60714,Jaminan Kualitas Perangkat Lunak,lecture,Tue,10,F4.2,1
+COA,CSD60714,Jaminan Kualitas Perangkat Lunak,lecture,Fri,14,F2.8,1
+COA,CSD60714,Jaminan Kualitas Perangkat Lunak,lecture,Wed,14,F4.7,1
+COA,CSD60714,Jaminan Kualitas Perangkat Lunak,lecture,Thu,9,F3.2,6
+COA,CSD60714,Jaminan Kualitas Perangkat Lunak,lecture,Fri,13,F3.18,6
+COA,CSD60714,Jaminan Kualitas Perangkat Lunak,lecture,Tue,15,F3.10,6
+COA,CSD60714,Jaminan Kualitas Perangkat Lunak,lecture,Mon,14,F3.14,67
+COA,CSD60714,Jaminan Kualitas Perangkat Lunak,lecture,Fri,16,F3.6,67
+COA,CSD60714,Jaminan Kualitas Perangkat Lunak,lecture,Thu,13,F3.11,67
+COA,CSD60714,Jaminan Kualitas Perangkat Lunak,lecture,Thu,10,F3.7a,40
+COA,CSD60714,Jaminan Kualitas Perangkat Lunak,lecture,Fri,16,F3.5a,40
+COA,CSD60714,Jaminan Kualitas Perangkat Lunak,lecture,Fri,8,F2.9,40
+COA,CSD60714,Jaminan Kualitas Perangkat Lunak,lecture,Fri,14,F4.5,4
+COA,CSD60714,Jaminan Kualitas Perangkat Lunak,lecture,Mon,11,F4.5,4
+COA,CSD60714,Jaminan Kualitas Perangkat Lunak,lecture,Thu,7,F4.13,4
+COA,CSD60714,Jaminan Kualitas Perangkat Lunak,lecture,Fri,7,F3.2,1
+COA,CSD60714,Jaminan Kualitas Perangkat Lunak,lecture,Tue,10,F4.10,1
+COA,CSD60714,Jaminan Kualitas Perangkat Lunak,lecture,Wed,16,F3.12,1
+COA,CSD60714,Jaminan Kualitas Perangkat Lunak,lecture,Fri,7,F2.5,40
+COA,CSD60714,Jaminan Kualitas Perangkat Lunak,lecture,Fri,16,F3.5b,40
+COA,CSD60714,Jaminan Kualitas Perangkat Lunak,lecture,Fri,8,F4.13,40
+COA,CSD60714,Jaminan Kualitas Perangkat Lunak,lecture,Wed,10,F2.2,60
+COA,CSD60714,Jaminan Kualitas Perangkat Lunak,lecture,Mon,9,F4.9,60
+COA,CSD60714,Jaminan Kualitas Perangkat Lunak,lecture,Fri,7,F4.14,60
+COA,CSD60714,Jaminan Kualitas Perangkat Lunak,lecture,Fri,14,F3.8,67
+COA,CSD60714,Jaminan Kualitas Perangkat Lunak,lecture,Mon,10,F3.5b,67
+COA,CSD60714,Jaminan Kualitas Perangkat Lunak,lecture,Thu,11,F3.5b,67
+COA,CIE61206,Jaringan Komputer,lecture,Mon,10,F4.9,17
+COA,CIE61206,Jaringan Komputer,lecture,Fri,8,F11.4,17
+COA,CIE61206,Jaringan Komputer,practicum,Thu,11,29,Asprak
+COA,CIE61206,Jaringan Komputer,lecture,Thu,16,F2.9,39
+COA,CIE61206,Jaringan Komputer,lecture,Tue,8,F4.11,39
+COA,CIE61206,Jaringan Komputer,practicum,Thu,10,21,Asprak
+COA,CIE61206,Jaringan Komputer,lecture,Tue,10,F3.5a,75
+COA,CIE61206,Jaringan Komputer,lecture,Wed,7,F3.16,75
+COA,CIE61206,Jaringan Komputer,practicum,Tue,9,48,Asprak
+COA,CIE61206,Jaringan Komputer,lecture,Wed,9,F2.8,79
+COA,CIE61206,Jaringan Komputer,lecture,Thu,16,F4.12,79
+COA,CIE61206,Jaringan Komputer,practicum,Mon,11,70,Asprak
+COA,CIT61015,Jaringan Komputer,lecture,Wed,9,F2.9,79
+COA,CIT61015,Jaringan Komputer,lecture,Wed,10,F3.5b,79
+COA,CIT61015,Jaringan Komputer,lecture,Thu,10,F4.11,79
+COA,CIT61015,Jaringan Komputer,practicum,Thu,13,29,Asprak
+COA,CIT61015,Jaringan Komputer,lecture,Wed,17,F2.1,17
+COA,CIT61015,Jaringan Komputer,lecture,Fri,16,F4.12,17
+COA,CIT61015,Jaringan Komputer,lecture,Wed,16,F4.12,17
+COA,CIT61015,Jaringan Komputer,practicum,Fri,9,107,Asprak
+COA,CIT61015,Jaringan Komputer,lecture,Thu,14,F3.5b,35
+COA,CIT61015,Jaringan Komputer,lecture,Wed,8,F3.4,35
+COA,CIT61015,Jaringan Komputer,lecture,Mon,15,F2.9,35
+COA,CIT61015,Jaringan Komputer,practicum,Thu,7,53,Asprak
+COA,CIT61015,Jaringan Komputer,lecture,Thu,9,F3.10,75
+COA,CIT61015,Jaringan Komputer,lecture,Fri,8,F3.12,75
+COA,CIT61015,Jaringan Komputer,lecture,Mon,13,F2.6,75
+COA,CIT61015,Jaringan Komputer,practicum,Thu,11,74,Asprak
+COA,CIT61015,Jaringan Komputer,lecture,Thu,15,F3.2,90
+COA,CIT61015,Jaringan Komputer,lecture,Wed,11,F4.4,90
+COA,CIT61015,Jaringan Komputer,lecture,Thu,9,F11.1,90
+COA,CIT61015,Jaringan Komputer,practicum,Fri,17,72,Asprak
+COA,CIT61015,Jaringan Komputer,lecture,Thu,10,F4.3,104
+COA,CIT61015,Jaringan Komputer,lecture,Fri,13,F3.2,104
+COA,CIT61015,Jaringan Komputer,lecture,Mon,9,F3.11,104
+COA,CIT61015,Jaringan Komputer,practicum,Wed,10,45,Asprak
+COA,CIT61015,Jaringan Komputer,lecture,Thu,9,F3.11,46
+COA,CIT61015,Jaringan Komputer,lecture,Thu,11,F3.15,46
+COA,CIT61015,Jaringan Komputer,lecture,Tue,11,F3.7b,46
+COA,CIT61015,Jaringan Komputer,practicum,Tue,17,93,Asprak
+COA,CSD60713,Jaringan Terapan,lecture,Thu,7,F3.3,17
+COA,CSD60713,Jaringan Terapan,lecture,Fri,7,F11.4,17
+COA,CSD60713,Jaringan Terapan,lecture,Wed,7,F3.7a,17
+COA,CSD60713,Jaringan Terapan,lecture,Mon,13,F3.16,90
+COA,CSD60713,Jaringan Terapan,lecture,Wed,10,F3.18,90
+COA,CSD60713,Jaringan Terapan,lecture,Mon,10,F3.15,90
+COA,CSD60713,Jaringan Terapan,lecture,Wed,14,F11.1,79
+COA,CSD60713,Jaringan Terapan,lecture,Thu,14,F4.7,79
+COA,CSD60713,Jaringan Terapan,practicum,Tue,7,65,Asprak
+COA,CSD60713,Jaringan Terapan,lecture,Wed,15,F3.13,90
+COA,CSD60713,Jaringan Terapan,lecture,Fri,10,F4.14,90
+COA,CSD60713,Jaringan Terapan,practicum,Mon,7,84,Asprak
+COA,CIS62103,Jaringan dan Komputasi Awan,lecture,Thu,16,F2.8,16
+COA,CIS62103,Jaringan dan Komputasi Awan,lecture,Wed,14,F3.14,16
+COA,CIS62103,Jaringan dan Komputasi Awan,lecture,Thu,9,F4.3,17
+COA,CIS62103,Jaringan dan Komputasi Awan,lecture,Thu,8,F3.7a,17
+COA,CIS62103,Jaringan dan Komputasi Awan,lecture,Fri,16,F3.13,20
+COA,CIS62103,Jaringan dan Komputasi Awan,lecture,Wed,17,F3.5b,20
+COA,CIS62103,Jaringan dan Komputasi Awan,lecture,Wed,7,F11.1,41
+COA,CIS62103,Jaringan dan Komputasi Awan,lecture,Fri,9,F4.9,41
+COA,CIS62103,Jaringan dan Komputasi Awan,lecture,Wed,7,F2.9,75
+COA,CIS62103,Jaringan dan Komputasi Awan,lecture,Tue,9,F2.8,75
+COA,CIS62103,Jaringan dan Komputasi Awan,lecture,Wed,10,F11.3,21
+COA,CIS62103,Jaringan dan Komputasi Awan,lecture,Mon,9,F2.6,21
+COA,CIS62103,Jaringan dan Komputasi Awan,lecture,Thu,7,F3.14,65
+COA,CIS62103,Jaringan dan Komputasi Awan,lecture,Fri,16,F4.3,65
+COA,CIS62103,Jaringan dan Komputasi Awan,lecture,Wed,10,F4.9,79
+COA,CIS62103,Jaringan dan Komputasi Awan,lecture,Tue,16,F2.6,79
+COA,COM60025,Kalkulus,lecture,Tue,15,F2.2,100
+COA,COM60025,Kalkulus,lecture,Tue,11,F11.1,100
+COA,COM60025,Kalkulus,lecture,Wed,16,F4.14,75
+COA,COM60025,Kalkulus,lecture,Tue,17,F4.12,75
+COA,COM60025,Kalkulus,lecture,Tue,9,F3.6,103
+COA,COM60025,Kalkulus,lecture,Tue,17,F3.7a,103
+COA,CIE61301,Kalkulus dan Aljabar Linear,lecture,Tue,13,F2.9,103
+COA,CIE61301,Kalkulus dan Aljabar Linear,lecture,Fri,15,F3.1,103
+COA,CIE61301,Kalkulus dan Aljabar Linear,lecture,Thu,15,F2.2,103
+COA,CIE61301,Kalkulus dan Aljabar Linear,lecture,Fri,17,F4.6,100
+COA,CIE61301,Kalkulus dan Aljabar Linear,lecture,Mon,13,F3.8,100
+COA,CIE61301,Kalkulus dan Aljabar Linear,lecture,Fri,16,F11.4,100
+COA,CIE61301,Kalkulus dan Aljabar Linear,lecture,Mon,8,F3.15,75
+COA,CIE61301,Kalkulus dan Aljabar Linear,lecture,Fri,10,F3.16,75
+COA,CIE61301,Kalkulus dan Aljabar Linear,lecture,Tue,16,F3.18,75
+COA,CIT60044,Keamanan Data dan Privasi,lecture,Tue,8,F3.7b,46
+COA,CIT60044,Keamanan Data dan Privasi,lecture,Wed,10,F3.15,46
+COA,CIT60044,Keamanan Data dan Privasi,practicum,Mon,15,69,Asprak
+COA,CIT60044,Keamanan Data dan Privasi,lecture,Tue,9,F3.3,17
+COA,CIT60044,Keamanan Data dan Privasi,lecture,Tue,7,F11.1,17
+COA,CIT60044,Keamanan Data dan Privasi,practicum,Thu,11,48,Asprak
+COA,CIT60044,Keamanan Data dan Privasi,lecture,Tue,8,F4.12,35
+COA,CIT60044,Keamanan Data dan Privasi,lecture,Mon,7,F2.4,35
+COA,CIT60044,Keamanan Data dan Privasi,practicum,Thu,13,57,Asprak
+COA,CIT60044,Keamanan Data dan Privasi,lecture,Fri,17,F3.5a,41
+COA,CIT60044,Keamanan Data dan Privasi,lecture,Thu,17,F4.13,41
+COA,CIT60044,Keamanan Data dan Privasi,practicum,Wed,16,52,Asprak
+COA,CIT60044,Keamanan Data dan Privasi,lecture,Wed,11,F3.8,63
+COA,CIT60044,Keamanan Data dan Privasi,lecture,Fri,14,F3.10,63
+COA,CIT60044,Keamanan Data dan Privasi,practicum,Fri,13,80,Asprak
+COA,CIT60044,Keamanan Data dan Privasi,lecture,Thu,13,F2.2,65
+COA,CIT60044,Keamanan Data dan Privasi,lecture,Tue,15,F2.6,65
+COA,CIT60044,Keamanan Data dan Privasi,practicum,Wed,9,96,Asprak
+COA,CIT60044,Keamanan Data dan Privasi,lecture,Tue,9,F2.9,75
+COA,CIT60044,Keamanan Data dan Privasi,lecture,Wed,15,F4.11,75
+COA,CIT60044,Keamanan Data dan Privasi,practicum,Fri,7,62,Asprak
+COA,CIS61128,Keamanan Jaringan dan Siber,lecture,Mon,15,F4.5,17
+COA,CIS61128,Keamanan Jaringan dan Siber,lecture,Thu,15,F4.7,17
+COA,CIS61128,Keamanan Jaringan dan Siber,lecture,Fri,9,F2.8,17
+COA,CSD60709,Keamanan Siber,lecture,Mon,10,F3.18,14
+COA,CSD60709,Keamanan Siber,lecture,Fri,10,F11.1,14
+COA,CSD60709,Keamanan Siber,lecture,Tue,14,F3.18,17
+COA,CSD60709,Keamanan Siber,lecture,Wed,8,F3.13,17
+COA,CSD60709,Keamanan Siber,lecture,Thu,11,F3.10,94
+COA,CSD60709,Keamanan Siber,lecture,Wed,17,F4.10,94
+COA,CSD60709,Keamanan Siber,lecture,Wed,15,F4.4,41
+COA,CSD60709,Keamanan Siber,lecture,Thu,13,F2.9,41
+COA,CSD60709,Keamanan Siber,lecture,Tue,8,F2.5,63
+COA,CSD60709,Keamanan Siber,lecture,Wed,8,F4.10,63
+COA,CSD60709,Keamanan Siber,lecture,Fri,17,F2.1,65
+COA,CSD60709,Keamanan Siber,lecture,Wed,17,F3.18,65
+COA,CSD60709,Keamanan Siber,lecture,Tue,9,F4.5,75
+COA,CSD60709,Keamanan Siber,lecture,Mon,10,F4.3,75
+COA,CSD60709,Keamanan Siber,lecture,Mon,7,F11.4,94
+COA,CSD60709,Keamanan Siber,lecture,Fri,14,F3.5a,94
+COA,CSD60709,Keamanan Siber,lecture,Mon,7,F2.1,17
+COA,CSD60709,Keamanan Siber,lecture,Fri,13,F11.1,17
+COA,CSD60709,Keamanan Siber,lecture,Tue,15,F4.7,41
+COA,CSD60709,Keamanan Siber,lecture,Thu,9,F3.14,41
+COA,CSD60709,Keamanan Siber,lecture,Mon,17,F4.7,46
+COA,CSD60709,Keamanan Siber,lecture,Fri,16,F3.12,46
+COA,CSD60709,Keamanan Siber,lecture,Tue,14,F3.6,63
+COA,CSD60709,Keamanan Siber,lecture,Mon,17,F4.9,63
+COA,CSD60709,Keamanan Siber,lecture,Wed,7,F3.5b,65
+COA,CSD60709,Keamanan Siber,lecture,Tue,14,F2.8,65
+COA,CSD60709,Keamanan Siber,lecture,Mon,14,F3.16,75
+COA,CSD60709,Keamanan Siber,lecture,Thu,8,F2.6,75
+COA,CIS61106,Keamanan dan Privasi Data,lecture,Thu,15,F3.10,17
+COA,CIS61106,Keamanan dan Privasi Data,lecture,Thu,11,F2.9,17
+COA,CIS61106,Keamanan dan Privasi Data,lecture,Fri,7,F3.15,75
+COA,CIS61106,Keamanan dan Privasi Data,lecture,Mon,16,F3.5b,75
+COA,CIS61106,Keamanan dan Privasi Data,lecture,Mon,17,F2.2,108
+COA,CIS61106,Keamanan dan Privasi Data,lecture,Mon,16,F3.16,108
+COA,CIE62303,Kecerdasan Artifisial,lecture,Tue,11,F3.5a,92
+COA,CIE62303,Kecerdasan Artifisial,lecture,Thu,17,F3.16,92
+COA,CIE62303,Kecerdasan Artifisial,lecture,Tue,15,F3.14,92
+COA,CIE62303,Kecerdasan Artifisial,lecture,Mon,7,F3.3,94
+COA,CIE62303,Kecerdasan Artifisial,lecture,Wed,11,F4.13,94
+COA,CIE62303,Kecerdasan Artifisial,lecture,Wed,10,F2.4,94
+COA,CIE62303,Kecerdasan Artifisial,lecture,Tue,10,F3.12,30
+COA,CIE62303,Kecerdasan Artifisial,lecture,Wed,14,F3.7a,30
+COA,CIE62303,Kecerdasan Artifisial,lecture,Thu,8,F11.1,30
+COA,CIE62303,Kecerdasan Artifisial,lecture,Fri,10,F4.3,107
+COA,CIE62303,Kecerdasan Artifisial,lecture,Mon,11,F3.5b,107
+COA,CIE62303,Kecerdasan Artifisial,lecture,Tue,9,F3.5a,107
+COA,CIE62303,Kecerdasan Artifisial,lecture,Thu,17,F2.5,16
+COA,CIE62303,Kecerdasan Artifisial,lecture,Mon,13,F4.3,16
+COA,CIE62303,Kecerdasan Artifisial,lecture,Thu,17,F4.2,16
+COA,CIE62303,Kecerdasan Artifisial,lecture,Tue,15,F3.13,20
+COA,CIE62303,Kecerdasan Artifisial,lecture,Fri,8,F4.5,20
+COA,CIE62303,Kecerdasan Artifisial,lecture,Thu,16,F3.7a,20
+COA,CIE62303,Kecerdasan Artifisial,lecture,Wed,11,F11.1,29
+COA,CIE62303,Kecerdasan Artifisial,lecture,Mon,9,F2.5,29
+COA,CIE62303,Kecerdasan Artifisial,lecture,Thu,8,F2.1,29
+COA,CIE62303,Kecerdasan Artifisial,lecture,Thu,13,F3.1,52
+COA,CIE62303,Kecerdasan Artifisial,lecture,Wed,11,F3.7a,52
+COA,CIE62303,Kecerdasan Artifisial,lecture,Wed,10,F4.7,52
+COA,CIE62303,Kecerdasan Artifisial,lecture,Tue,11,F4.3,97
+COA,CIE62303,Kecerdasan Artifisial,lecture,Mon,13,F2.9,97
+COA,CIE62303,Kecerdasan Artifisial,lecture,Fri,9,F3.14,97
+COA,CIS62112,Kecerdasan Bisnis dan Analitik,lecture,Mon,9,F3.10,72
+COA,CIS62112,Kecerdasan Bisnis dan Analitik,lecture,Fri,8,F4.14,72
+COA,CIS62112,Kecerdasan Bisnis dan Analitik,lecture,Fri,10,F3.14,72
+COA,CIS62112,Kecerdasan Bisnis dan Analitik,lecture,Mon,11,F2.5,94
+COA,CIS62112,Kecerdasan Bisnis dan Analitik,lecture,Wed,11,F3.5a,94
+COA,CIS62112,Kecerdasan Bisnis dan Analitik,lecture,Thu,9,F3.8,94
+COA,CIS62112,Kecerdasan Bisnis dan Analitik,lecture,Mon,8,F4.11,102
+COA,CIS62112,Kecerdasan Bisnis dan Analitik,lecture,Wed,11,F4.2,102
+COA,CIS62112,Kecerdasan Bisnis dan Analitik,lecture,Fri,13,F4.9,102
+COA,CIS62112,Kecerdasan Bisnis dan Analitik,lecture,Thu,9,F3.9,87
+COA,CIS62112,Kecerdasan Bisnis dan Analitik,lecture,Tue,16,F4.6,87
+COA,CIS62112,Kecerdasan Bisnis dan Analitik,lecture,Mon,13,F3.2,87
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Tue,11,F11.4,94
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Thu,15,F2.8,94
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Fri,8,F3.17,94
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Thu,16,F4.5,30
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Wed,16,F3.13,30
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Thu,8,F4.2,30
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Mon,14,F2.1,52
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Wed,16,F3.7b,52
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Tue,11,F3.14,52
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Fri,14,F3.7b,92
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Fri,17,F3.6,92
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Thu,7,F4.5,92
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Wed,11,F3.9,93
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Thu,11,F4.7,93
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Fri,13,F3.4,93
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Tue,9,F4.7,107
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Tue,14,F3.13,107
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Tue,15,F11.4,107
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Mon,13,F3.13,20
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Fri,15,F2.8,20
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Fri,13,F3.1,20
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Mon,8,F3.5a,29
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Tue,11,F4.11,29
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Tue,8,F2.9,29
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Fri,15,F4.10,37
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Thu,17,F3.7a,37
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Fri,15,F11.3,37
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Tue,11,F2.5,48
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Fri,13,F11.4,48
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Wed,13,F11.4,48
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Fri,13,F3.13,63
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Tue,15,F4.14,63
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Thu,15,F3.9,63
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Mon,9,F11.4,97
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Wed,16,F11.3,97
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Mon,17,F2.8,97
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Wed,9,F3.14,3
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Thu,9,F4.4,3
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Mon,16,F3.2,3
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Wed,15,F3.18,16
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Fri,15,F3.16,16
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Thu,11,F2.4,16
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Mon,15,F3.6,89
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Fri,14,F3.13,89
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Wed,14,F2.6,89
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Tue,7,F2.1,96
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Tue,14,F2.9,96
+COA,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,lecture,Tue,15,F3.5a,96
+COA,UBU60003,Kewirausahaan,lecture,Mon,7,F3.8,62
+COA,UBU60003,Kewirausahaan,lecture,Thu,17,F3.18,62
+COA,UBU60003,Kewirausahaan,lecture,Thu,7,F3.17,87
+COA,UBU60003,Kewirausahaan,lecture,Wed,10,F3.2,87
+COA,UBU60003,Kewirausahaan,lecture,Mon,9,F3.6,47
+COA,UBU60003,Kewirausahaan,lecture,Mon,15,F3.8,47
+COA,UBU60003,Kewirausahaan,lecture,Mon,14,F2.9,62
+COA,UBU60003,Kewirausahaan,lecture,Tue,17,F4.2,62
+COA,UBU60003,Kewirausahaan,lecture,Fri,16,F3.8,15
+COA,UBU60003,Kewirausahaan,lecture,Wed,16,F2.5,15
+COA,UBU60003,Kewirausahaan,lecture,Fri,13,F3.9,47
+COA,UBU60003,Kewirausahaan,lecture,Thu,11,F3.18,47
+COA,UBU60003,Kewirausahaan,lecture,Wed,7,F4.3,62
+COA,UBU60003,Kewirausahaan,lecture,Thu,14,F4.14,62
+COA,UBU60003,Kewirausahaan,lecture,Thu,8,F3.7b,96
+COA,UBU60003,Kewirausahaan,lecture,Wed,15,F2.6,96
+COA,CIE61103,Komunikasi dan Teknologi Pendidikan,lecture,Mon,14,F4.9,103
+COA,CIE61103,Komunikasi dan Teknologi Pendidikan,lecture,Thu,7,F3.13,103
+COA,CIE61103,Komunikasi dan Teknologi Pendidikan,lecture,Tue,15,F3.1,103
+COA,CIE61103,Komunikasi dan Teknologi Pendidikan,lecture,Fri,13,F3.6,39
+COA,CIE61103,Komunikasi dan Teknologi Pendidikan,lecture,Tue,14,F4.6,39
+COA,CIE61103,Komunikasi dan Teknologi Pendidikan,lecture,Wed,10,F4.6,39
+COA,CIS61115,Komunikasi Profesional,lecture,Fri,15,F11.1,87
+COA,CIS61115,Komunikasi Profesional,lecture,Fri,10,F4.6,87
+COA,CIS61115,Komunikasi Profesional,lecture,Tue,10,F2.8,108
+COA,CIS61115,Komunikasi Profesional,lecture,Fri,13,F3.17,108
+COA,CIT60045,Kriptografi,lecture,Tue,14,F3.1,14
+COA,CIT60045,Kriptografi,lecture,Thu,16,F3.11,14
+COA,CIT60045,Kriptografi,lecture,Wed,11,F11.4,14
+COA,CIT60045,Kriptografi,lecture,Tue,10,F3.2,75
+COA,CIT60045,Kriptografi,lecture,Mon,11,F3.18,75
+COA,CIT60045,Kriptografi,lecture,Tue,9,F3.8,75
+COA,CIE62107,Lingkungan Pembelajaran Digital,lecture,Thu,11,F4.5,47
+COA,CIE62107,Lingkungan Pembelajaran Digital,lecture,Mon,13,F2.2,47
+COA,CIE62107,Lingkungan Pembelajaran Digital,practicum,Fri,7,26,Asprak
+COA,CIE62107,Lingkungan Pembelajaran Digital,lecture,Fri,14,F2.6,103
+COA,CIE62107,Lingkungan Pembelajaran Digital,lecture,Tue,10,F11.4,103
+COA,CIE62107,Lingkungan Pembelajaran Digital,practicum,Wed,13,70,Asprak
+COA,CIE62107,Lingkungan Pembelajaran Digital,lecture,Thu,16,F2.4,40
+COA,CIE62107,Lingkungan Pembelajaran Digital,lecture,Wed,15,F3.16,40
+COA,CIE62107,Lingkungan Pembelajaran Digital,practicum,Tue,9,74,Asprak
+COA,CIE62107,Lingkungan Pembelajaran Digital,lecture,Wed,15,F11.3,40
+COA,CIE62107,Lingkungan Pembelajaran Digital,lecture,Tue,15,F4.12,40
+COA,CIE62107,Lingkungan Pembelajaran Digital,practicum,Tue,9,42,Asprak
+COA,CIE61120,Literasi Digital,lecture,Tue,14,F3.5b,11
+COA,CIE61120,Literasi Digital,lecture,Tue,11,F2.2,11
+COA,CIE61120,Literasi Digital,lecture,Thu,14,F4.3,11
+COA,CIE61120,Literasi Digital,lecture,Wed,16,F3.14,11
+COA,CIE61120,Literasi Digital,lecture,Wed,8,F2.9,11
+COA,CIE61120,Literasi Digital,lecture,Thu,17,F11.4,11
+COA,CIE61120,Literasi Digital,lecture,Wed,11,F3.3,11
+COA,CIE61120,Literasi Digital,lecture,Thu,13,F4.5,11
+COA,CIE61120,Literasi Digital,lecture,Wed,9,F3.16,11
+COA,CIE61120,Literasi Digital,lecture,Wed,17,F3.2,12
+COA,CIE61120,Literasi Digital,lecture,Wed,13,F4.10,12
+COA,CIE61120,Literasi Digital,lecture,Mon,17,F4.14,12
+COA,CIE61120,Literasi Digital,lecture,Mon,16,F3.8,103
+COA,CIE61120,Literasi Digital,lecture,Mon,11,F3.1,103
+COA,CIE61120,Literasi Digital,lecture,Fri,8,F3.4,103
+COA,CIS61103,Manajemen Bisnis,lecture,Wed,9,F3.13,87
+COA,CIS61103,Manajemen Bisnis,lecture,Mon,16,F11.1,87
+COA,CIS61103,Manajemen Bisnis,lecture,Fri,7,F2.2,108
+COA,CIS61103,Manajemen Bisnis,lecture,Fri,17,F11.1,108
+COA,CIS62115,Manajemen Investasi Teknologi Informasi,lecture,Fri,7,F4.12,94
+COA,CIS62115,Manajemen Investasi Teknologi Informasi,lecture,Fri,14,F3.7a,94
+COA,CIS62115,Manajemen Investasi Teknologi Informasi,lecture,Wed,11,F3.2,94
+COA,CIS62115,Manajemen Investasi Teknologi Informasi,lecture,Mon,8,F2.1,62
+COA,CIS62115,Manajemen Investasi Teknologi Informasi,lecture,Tue,13,F4.5,62
+COA,CIS62115,Manajemen Investasi Teknologi Informasi,lecture,Mon,8,F4.4,62
+COA,CIS62115,Manajemen Investasi Teknologi Informasi,lecture,Tue,17,F4.11,6
+COA,CIS62115,Manajemen Investasi Teknologi Informasi,lecture,Mon,10,F3.12,6
+COA,CIS62115,Manajemen Investasi Teknologi Informasi,lecture,Wed,14,F2.5,6
+COA,CIS62115,Manajemen Investasi Teknologi Informasi,lecture,Thu,15,F11.3,13
+COA,CIS62115,Manajemen Investasi Teknologi Informasi,lecture,Fri,7,F2.1,13
+COA,CIS62115,Manajemen Investasi Teknologi Informasi,lecture,Wed,16,F4.5,13
+COA,CIS62115,Manajemen Investasi Teknologi Informasi,lecture,Tue,17,F3.9,22
+COA,CIS62115,Manajemen Investasi Teknologi Informasi,lecture,Fri,9,F4.4,22
+COA,CIS62115,Manajemen Investasi Teknologi Informasi,lecture,Fri,15,F2.6,22
+COA,CIS62115,Manajemen Investasi Teknologi Informasi,lecture,Mon,14,F4.13,49
+COA,CIS62115,Manajemen Investasi Teknologi Informasi,lecture,Mon,7,F4.6,49
+COA,CIS62115,Manajemen Investasi Teknologi Informasi,lecture,Thu,14,F3.7b,49
+COA,CIS62115,Manajemen Investasi Teknologi Informasi,lecture,Thu,7,F11.1,60
+COA,CIS62115,Manajemen Investasi Teknologi Informasi,lecture,Fri,17,F3.14,60
+COA,CIS62115,Manajemen Investasi Teknologi Informasi,lecture,Fri,7,F4.9,60
+COA,CIS62115,Manajemen Investasi Teknologi Informasi,lecture,Thu,14,F3.12,87
+COA,CIS62115,Manajemen Investasi Teknologi Informasi,lecture,Fri,13,F2.8,87
+COA,CIS62115,Manajemen Investasi Teknologi Informasi,lecture,Thu,11,F2.8,87
+COA,CIS62115,Manajemen Investasi Teknologi Informasi,lecture,Fri,7,F2.2,53
+COA,CIS62115,Manajemen Investasi Teknologi Informasi,lecture,Wed,15,F3.15,53
+COA,CIS62115,Manajemen Investasi Teknologi Informasi,lecture,Wed,10,F3.8,53
+COA,CSD60701,Manajemen Layanan Teknologi Informasi,lecture,Fri,9,F3.6,108
+COA,CSD60701,Manajemen Layanan Teknologi Informasi,lecture,Thu,9,F11.3,108
+COA,CSD60701,Manajemen Layanan Teknologi Informasi,lecture,Thu,10,F11.4,108
+COA,CSD60701,Manajemen Layanan Teknologi Informasi,lecture,Mon,15,F2.4,6
+COA,CSD60701,Manajemen Layanan Teknologi Informasi,lecture,Fri,8,F4.4,6
+COA,CSD60701,Manajemen Layanan Teknologi Informasi,lecture,Tue,14,F3.8,6
+COA,CSD60701,Manajemen Layanan Teknologi Informasi,lecture,Wed,7,F4.10,94
+COA,CSD60701,Manajemen Layanan Teknologi Informasi,lecture,Mon,14,F2.6,94
+COA,CSD60701,Manajemen Layanan Teknologi Informasi,lecture,Wed,17,F2.5,108
+COA,CSD60701,Manajemen Layanan Teknologi Informasi,lecture,Mon,7,F3.7a,108
+COA,CSD60701,Manajemen Layanan Teknologi Informasi,lecture,Mon,15,F2.6,6
+COA,CSD60701,Manajemen Layanan Teknologi Informasi,lecture,Tue,9,F4.12,6
+COA,CSD60701,Manajemen Layanan Teknologi Informasi,lecture,Mon,13,F4.11,15
+COA,CSD60701,Manajemen Layanan Teknologi Informasi,lecture,Wed,10,F3.3,15
+COA,CSD60701,Manajemen Layanan Teknologi Informasi,lecture,Fri,7,F3.1,21
+COA,CSD60701,Manajemen Layanan Teknologi Informasi,lecture,Fri,14,F3.6,21
+COA,CSD60701,Manajemen Layanan Teknologi Informasi,lecture,Tue,10,F3.7a,87
+COA,CSD60701,Manajemen Layanan Teknologi Informasi,lecture,Tue,15,F4.13,87
+COA,CSD60701,Manajemen Layanan Teknologi Informasi,lecture,Tue,15,F3.17,47
+COA,CSD60701,Manajemen Layanan Teknologi Informasi,lecture,Tue,9,F3.12,47
+COA,CSD60701,Manajemen Layanan Teknologi Informasi,lecture,Thu,17,F4.4,22
+COA,CSD60701,Manajemen Layanan Teknologi Informasi,lecture,Mon,10,F2.8,22
+COA,CIS61107,Manajemen Produk,lecture,Mon,7,F2.6,47
+COA,CIS61107,Manajemen Produk,lecture,Wed,14,F3.5a,47
+COA,CIS61107,Manajemen Produk,lecture,Fri,16,F2.2,47
+COA,CIS61107,Manajemen Produk,lecture,Thu,13,F11.4,60
+COA,CIS61107,Manajemen Produk,lecture,Wed,14,F3.9,60
+COA,CIS61107,Manajemen Produk,lecture,Mon,10,F3.9,60
+COA,CIE61404,Manajemen Proyek Teknologi Informasi,lecture,Mon,10,F3.6,6
+COA,CIE61404,Manajemen Proyek Teknologi Informasi,lecture,Wed,16,F3.3,6
+COA,CIE61404,Manajemen Proyek Teknologi Informasi,lecture,Thu,10,F4.9,6
+COA,CIE61404,Manajemen Proyek Teknologi Informasi,lecture,Thu,11,F3.3,60
+COA,CIE61404,Manajemen Proyek Teknologi Informasi,lecture,Wed,11,F3.10,60
+COA,CIE61404,Manajemen Proyek Teknologi Informasi,lecture,Tue,9,F2.6,60
+COA,CIE61404,Manajemen Proyek Teknologi Informasi,lecture,Tue,16,F4.5,67
+COA,CIE61404,Manajemen Proyek Teknologi Informasi,lecture,Fri,14,F4.2,67
+COA,CIE61404,Manajemen Proyek Teknologi Informasi,lecture,Thu,7,F3.6,67
+COA,CIE61404,Manajemen Proyek Teknologi Informasi,lecture,Tue,10,F3.18,76
+COA,CIE61404,Manajemen Proyek Teknologi Informasi,lecture,Thu,9,F3.18,76
+COA,CIE61404,Manajemen Proyek Teknologi Informasi,lecture,Mon,10,F2.4,76
+COA,CIE61404,Manajemen Proyek Teknologi Informasi,lecture,Mon,16,F4.13,62
+COA,CIE61404,Manajemen Proyek Teknologi Informasi,lecture,Mon,17,F3.18,62
+COA,CIE61404,Manajemen Proyek Teknologi Informasi,lecture,Wed,17,F2.4,62
+COA,CIE61404,Manajemen Proyek Teknologi Informasi,lecture,Tue,13,F3.14,105
+COA,CIE61404,Manajemen Proyek Teknologi Informasi,lecture,Mon,17,F11.3,105
+COA,CIE61404,Manajemen Proyek Teknologi Informasi,lecture,Fri,10,F4.2,105
+COA,CIT60031,Manajemen Proyek Teknologi Informasi,lecture,Fri,14,F2.1,94
+COA,CIT60031,Manajemen Proyek Teknologi Informasi,lecture,Wed,11,F3.11,94
+COA,CIT60031,Manajemen Proyek Teknologi Informasi,lecture,Wed,17,F3.13,94
+COA,CIT60031,Manajemen Proyek Teknologi Informasi,lecture,Tue,9,F3.10,6
+COA,CIT60031,Manajemen Proyek Teknologi Informasi,lecture,Mon,10,F3.13,6
+COA,CIT60031,Manajemen Proyek Teknologi Informasi,lecture,Mon,11,F4.2,6
+COA,CIT60031,Manajemen Proyek Teknologi Informasi,lecture,Fri,17,F3.3,13
+COA,CIT60031,Manajemen Proyek Teknologi Informasi,lecture,Wed,10,F3.14,13
+COA,CIT60031,Manajemen Proyek Teknologi Informasi,lecture,Mon,7,F3.10,13
+COA,CIT60031,Manajemen Proyek Teknologi Informasi,lecture,Mon,9,F4.7,22
+COA,CIT60031,Manajemen Proyek Teknologi Informasi,lecture,Wed,13,F3.17,22
+COA,CIT60031,Manajemen Proyek Teknologi Informasi,lecture,Tue,11,F3.16,22
+COA,CIT60031,Manajemen Proyek Teknologi Informasi,lecture,Wed,10,F4.13,40
+COA,CIT60031,Manajemen Proyek Teknologi Informasi,lecture,Mon,7,F3.18,40
+COA,CIT60031,Manajemen Proyek Teknologi Informasi,lecture,Tue,7,F2.5,40
+COA,CIT60031,Manajemen Proyek Teknologi Informasi,lecture,Mon,15,F4.2,48
+COA,CIT60031,Manajemen Proyek Teknologi Informasi,lecture,Mon,16,F2.2,48
+COA,CIT60031,Manajemen Proyek Teknologi Informasi,lecture,Tue,14,F3.7a,48
+COA,CIS62117,Manajemen Rantai Suplai,lecture,Mon,9,F2.4,53
+COA,CIS62117,Manajemen Rantai Suplai,lecture,Wed,7,F3.2,53
+COA,CIS62117,Manajemen Rantai Suplai,lecture,Thu,7,F11.4,94
+COA,CIS62117,Manajemen Rantai Suplai,lecture,Fri,10,F2.5,94
+COA,CIS62117,Manajemen Rantai Suplai,lecture,Wed,17,F3.16,22
+COA,CIS62117,Manajemen Rantai Suplai,lecture,Fri,17,F4.5,22
+COA,CIS62117,Manajemen Rantai Suplai,lecture,Mon,10,F4.7,108
+COA,CIS62117,Manajemen Rantai Suplai,lecture,Thu,16,F4.4,108
+COA,CIS62117,Manajemen Rantai Suplai,lecture,Mon,17,F3.13,108
+COA,CIS62117,Manajemen Rantai Suplai,lecture,Wed,9,F11.3,108
+COA,CIS61119,Manajemen Risiko dan Kontrol Sistem Informasi,lecture,Tue,17,F4.3,6
+COA,CIS61119,Manajemen Risiko dan Kontrol Sistem Informasi,lecture,Tue,13,F3.5b,6
+COA,CIS61119,Manajemen Risiko dan Kontrol Sistem Informasi,lecture,Thu,7,F3.4,47
+COA,CIS61119,Manajemen Risiko dan Kontrol Sistem Informasi,lecture,Thu,16,F2.6,47
+COA,CIE61115,Manajemen Sistem Pendidikan,lecture,Fri,7,F4.12,39
+COA,CIE61115,Manajemen Sistem Pendidikan,lecture,Thu,16,F3.10,39
+COA,CIE61115,Manajemen Sistem Pendidikan,lecture,Tue,11,F4.13,39
+COA,COM60015,Matematika Diskret,lecture,Mon,9,F4.4,103
+COA,COM60015,Matematika Diskret,lecture,Fri,8,F4.10,103
+COA,COM60015,Matematika Diskret,lecture,Mon,15,F3.7a,100
+COA,COM60015,Matematika Diskret,lecture,Fri,8,F11.1,100
+COA,COM60015,Matematika Diskret,lecture,Tue,13,F3.7b,100
+COA,COM60015,Matematika Diskret,lecture,Fri,10,F3.7a,100
+COA,COM60015,Matematika Diskret,lecture,Fri,15,F3.11,103
+COA,COM60015,Matematika Diskret,lecture,Mon,7,F4.13,103
+COA,COM60015,Matematika Diskret,lecture,Tue,11,F4.6,100
+COA,COM60015,Matematika Diskret,lecture,Fri,16,F2.6,100
+COA,COM60015,Matematika Diskret,lecture,Fri,13,F4.10,103
+COA,COM60015,Matematika Diskret,lecture,Mon,7,F2.8,103
+COA,COM60051,Metodologi Penelitian dan Penulisan Ilmiah,lecture,Thu,10,F3.6,100
+COA,COM60051,Metodologi Penelitian dan Penulisan Ilmiah,lecture,Mon,14,F3.15,100
+COA,COM60051,Metodologi Penelitian dan Penulisan Ilmiah,lecture,Mon,8,F3.8,100
+COA,COM60051,Metodologi Penelitian dan Penulisan Ilmiah,lecture,Thu,16,F3.5a,100
+COA,COM60051,Metodologi Penelitian dan Penulisan Ilmiah,lecture,Thu,9,F3.5a,100
+COA,COM60051,Metodologi Penelitian dan Penulisan Ilmiah,lecture,Tue,9,F4.11,100
+COA,COM60051,Metodologi Penelitian dan Penulisan Ilmiah,lecture,Tue,10,F2.4,103
+COA,COM60051,Metodologi Penelitian dan Penulisan Ilmiah,lecture,Fri,8,F3.3,103
+COA,COM60051,Metodologi Penelitian dan Penulisan Ilmiah,lecture,Mon,17,F4.2,103
+COA,COM60051,Metodologi Penelitian dan Penulisan Ilmiah,lecture,Fri,17,F4.13,87
+COA,COM60051,Metodologi Penelitian dan Penulisan Ilmiah,lecture,Fri,15,F4.9,87
+COA,COM60051,Metodologi Penelitian dan Penulisan Ilmiah,lecture,Tue,13,F4.7,87
+COA,COM60051,Metodologi Penelitian dan Penulisan Ilmiah,lecture,Tue,9,F3.18,100
+COA,COM60051,Metodologi Penelitian dan Penulisan Ilmiah,lecture,Wed,15,F3.9,100
+COA,COM60051,Metodologi Penelitian dan Penulisan Ilmiah,lecture,Wed,14,F3.9,100
+COA,COM60051,Metodologi Penelitian dan Penulisan Ilmiah,lecture,Thu,14,F4.13,103
+COA,COM60051,Metodologi Penelitian dan Penulisan Ilmiah,lecture,Tue,17,F2.6,103
+COA,COM60051,Metodologi Penelitian dan Penulisan Ilmiah,lecture,Fri,10,F3.11,103
+COA,COM60051,Metodologi Penelitian dan Penulisan Ilmiah,lecture,Tue,8,F4.14,103
+COA,COM60051,Metodologi Penelitian dan Penulisan Ilmiah,lecture,Mon,7,F3.2,103
+COA,COM60051,Metodologi Penelitian dan Penulisan Ilmiah,lecture,Mon,10,F4.10,103
+COA,CIE61119,Multimodal Storytelling,lecture,Wed,9,F4.5,47
+COA,CIE61119,Multimodal Storytelling,lecture,Fri,15,F3.7a,47
+COA,CIE61119,Multimodal Storytelling,lecture,Thu,9,F3.4,47
+COA,CIE61119,Multimodal Storytelling,lecture,Tue,17,F11.3,47
+COA,CIE61119,Multimodal Storytelling,lecture,Fri,16,F3.8,47
+COA,CIE61119,Multimodal Storytelling,lecture,Tue,7,F3.8,47
+COA,CIE61402,Paradigma Berpikir Komputasi,lecture,Mon,11,F3.7a,47
+COA,CIE61402,Paradigma Berpikir Komputasi,lecture,Fri,10,F4.13,47
+COA,CIE61402,Paradigma Berpikir Komputasi,lecture,Thu,13,F3.17,47
+COA,CIE61403,Paradigma Berpikir Sistem dan Desain,lecture,Thu,16,F4.6,47
+COA,CIE61403,Paradigma Berpikir Sistem dan Desain,lecture,Mon,11,F2.1,47
+COA,CIE61403,Paradigma Berpikir Sistem dan Desain,lecture,Tue,8,F2.6,47
+COA,CIE62204,Paradigma Sistem,lecture,Tue,8,F4.3,6
+COA,CIE62204,Paradigma Sistem,lecture,Mon,15,F3.16,6
+COA,CIE62105,Pembelajaran Berdiferensiasi,lecture,Fri,10,F4.11,105
+COA,CIE62105,Pembelajaran Berdiferensiasi,lecture,Wed,14,F3.2,105
+COA,CIE62105,Pembelajaran Berdiferensiasi,lecture,Wed,7,F4.12,103
+COA,CIE62105,Pembelajaran Berdiferensiasi,lecture,Wed,15,F3.8,103
+COA,CIE62105,Pembelajaran Berdiferensiasi,lecture,Wed,13,F4.9,103
+COA,CIE62105,Pembelajaran Berdiferensiasi,lecture,Tue,8,F3.10,103
+COA,CIE62305,Pembelajaran Emosional Sosial,lecture,Tue,9,F3.1,97
+COA,CIE62305,Pembelajaran Emosional Sosial,lecture,Thu,17,F3.8,97
+COA,CIE62305,Pembelajaran Emosional Sosial,lecture,Tue,17,F3.6,97
+COA,CIE62305,Pembelajaran Emosional Sosial,lecture,Wed,13,F3.14,97
+COA,CIE62305,Pembelajaran Emosional Sosial,lecture,Mon,9,F3.3,97
+COA,CIE62305,Pembelajaran Emosional Sosial,lecture,Wed,8,F4.11,97
+COA,CIE62306,Pembelajaran Inklusif,lecture,Mon,14,F4.7,47
+COA,CIE62306,Pembelajaran Inklusif,lecture,Fri,16,F2.4,47
+COA,CIE62306,Pembelajaran Inklusif,lecture,Fri,17,F11.3,47
+COA,CIE62306,Pembelajaran Inklusif,lecture,Thu,7,F4.7,47
+COA,CIE62306,Pembelajaran Inklusif,lecture,Fri,10,F4.13,47
+COA,CIE62306,Pembelajaran Inklusif,lecture,Tue,11,F3.10,47
+COA,CIE62306,Pembelajaran Inklusif,lecture,Mon,16,F4.3,47
+COA,CIE62306,Pembelajaran Inklusif,lecture,Thu,9,F3.16,47
+COA,CIE62306,Pembelajaran Inklusif,lecture,Fri,9,F2.9,47
+COA,CIE62306,Pembelajaran Inklusif,lecture,Mon,16,F2.2,59
+COA,CIE62306,Pembelajaran Inklusif,lecture,Tue,11,F2.6,59
+COA,CIE62306,Pembelajaran Inklusif,lecture,Fri,15,F3.13,59
+COA,CIE62306,Pembelajaran Inklusif,lecture,Wed,13,F3.18,103
+COA,CIE62306,Pembelajaran Inklusif,lecture,Tue,7,F4.7,103
+COA,CIE62306,Pembelajaran Inklusif,lecture,Mon,10,F11.1,103
+COA,CIE61109,Pembelajaran Mikro,lecture,Tue,16,F2.2,39
+COA,CIE61109,Pembelajaran Mikro,lecture,Fri,15,F2.5,39
+COA,CIE61109,Pembelajaran Mikro,practicum,Wed,14,11,Asprak
+COA,CIE61109,Pembelajaran Mikro,lecture,Fri,10,F3.7b,100
+COA,CIE61109,Pembelajaran Mikro,lecture,Thu,17,F3.14,100
+COA,CIE61109,Pembelajaran Mikro,practicum,Tue,14,63,Asprak
+COA,CIS62104,Pemodelan Proses Bisnis,lecture,Thu,10,F3.5a,13
+COA,CIS62104,Pemodelan Proses Bisnis,lecture,Wed,13,F2.1,13
+COA,CIS62104,Pemodelan Proses Bisnis,practicum,Mon,14,56,Asprak
+COA,CIS62104,Pemodelan Proses Bisnis,lecture,Thu,15,F3.17,53
+COA,CIS62104,Pemodelan Proses Bisnis,lecture,Wed,7,F3.6,53
+COA,CIS62104,Pemodelan Proses Bisnis,practicum,Wed,11,17,Asprak
+COA,CIS62104,Pemodelan Proses Bisnis,lecture,Tue,10,F3.10,6
+COA,CIS62104,Pemodelan Proses Bisnis,lecture,Thu,8,F3.2,6
+COA,CIS62104,Pemodelan Proses Bisnis,practicum,Mon,10,53,Asprak
+COA,CIS62104,Pemodelan Proses Bisnis,lecture,Fri,14,F3.17,16
+COA,CIS62104,Pemodelan Proses Bisnis,lecture,Fri,10,F4.5,16
+COA,CIS62104,Pemodelan Proses Bisnis,practicum,Mon,11,109,Asprak
+COA,CIS62104,Pemodelan Proses Bisnis,lecture,Tue,13,F2.2,49
+COA,CIS62104,Pemodelan Proses Bisnis,lecture,Mon,14,F3.9,49
+COA,CIS62104,Pemodelan Proses Bisnis,practicum,Wed,17,82,Asprak
+COA,CIS62104,Pemodelan Proses Bisnis,lecture,Tue,17,F4.4,55
+COA,CIS62104,Pemodelan Proses Bisnis,lecture,Mon,11,F3.2,55
+COA,CIS62104,Pemodelan Proses Bisnis,practicum,Thu,8,50,Asprak
+COA,CIS62104,Pemodelan Proses Bisnis,lecture,Tue,15,F3.2,108
+COA,CIS62104,Pemodelan Proses Bisnis,lecture,Fri,15,F3.10,108
+COA,CIS62104,Pemodelan Proses Bisnis,practicum,Mon,7,73,Asprak
+COA,CIE62203,Pemrograman Berbasis Objek,lecture,Tue,7,F4.11,98
+COA,CIE62203,Pemrograman Berbasis Objek,lecture,Tue,15,F4.9,98
+COA,CIE62203,Pemrograman Berbasis Objek,practicum,Mon,15,21,Asprak
+COA,CIE62203,Pemrograman Berbasis Objek,lecture,Tue,9,F2.2,4
+COA,CIE62203,Pemrograman Berbasis Objek,lecture,Tue,15,F2.4,4
+COA,CIE62203,Pemrograman Berbasis Objek,practicum,Fri,13,47,Asprak
+COA,CIE62203,Pemrograman Berbasis Objek,lecture,Tue,17,F3.15,16
+COA,CIE62203,Pemrograman Berbasis Objek,lecture,Wed,10,F3.10,16
+COA,CIE62203,Pemrograman Berbasis Objek,practicum,Wed,13,12,Asprak
+COA,CIE62203,Pemrograman Berbasis Objek,lecture,Tue,10,F2.6,20
+COA,CIE62203,Pemrograman Berbasis Objek,lecture,Wed,10,F4.10,20
+COA,CIE62203,Pemrograman Berbasis Objek,practicum,Mon,10,22,Asprak
+COA,CIE62203,Pemrograman Berbasis Objek,lecture,Wed,11,F3.6,52
+COA,CIE62203,Pemrograman Berbasis Objek,lecture,Mon,8,F3.12,52
+COA,CIE62203,Pemrograman Berbasis Objek,practicum,Wed,14,102,Asprak
+COA,CIE62203,Pemrograman Berbasis Objek,lecture,Thu,15,F3.6,67
+COA,CIE62203,Pemrograman Berbasis Objek,lecture,Fri,9,F4.3,67
+COA,CIE62203,Pemrograman Berbasis Objek,practicum,Mon,15,18,Asprak
+COA,CIE62203,Pemrograman Berbasis Objek,lecture,Thu,16,F3.12,70
+COA,CIE62203,Pemrograman Berbasis Objek,lecture,Mon,15,F3.1,70
+COA,CIE62203,Pemrograman Berbasis Objek,practicum,Wed,16,19,Asprak
+COA,CIE62203,Pemrograman Berbasis Objek,lecture,Wed,15,F11.1,75
+COA,CIE62203,Pemrograman Berbasis Objek,lecture,Fri,15,F2.2,75
+COA,CIE62203,Pemrograman Berbasis Objek,practicum,Tue,17,78,Asprak
+COA,CIE62203,Pemrograman Berbasis Objek,lecture,Wed,11,F2.5,76
+COA,CIE62203,Pemrograman Berbasis Objek,lecture,Fri,16,F3.1,76
+COA,CIE62203,Pemrograman Berbasis Objek,practicum,Tue,7,9,Asprak
+COA,CIE62203,Pemrograman Berbasis Objek,lecture,Mon,10,F3.5a,91
+COA,CIE62203,Pemrograman Berbasis Objek,lecture,Fri,8,F4.3,91
+COA,CIE62203,Pemrograman Berbasis Objek,practicum,Tue,13,3,Asprak
+COA,COM60014,Pemrograman Dasar,lecture,Mon,15,F4.4,47
+COA,COM60014,Pemrograman Dasar,lecture,Mon,16,F11.3,47
+COA,COM60014,Pemrograman Dasar,lecture,Thu,16,F4.11,47
+COA,COM60014,Pemrograman Dasar,lecture,Fri,7,F2.6,47
+COA,COM60014,Pemrograman Dasar,practicum,Thu,11,72,Asprak
+COA,COM60014,Pemrograman Dasar,lecture,Fri,16,F4.9,4
+COA,COM60014,Pemrograman Dasar,lecture,Mon,9,F3.2,4
+COA,COM60014,Pemrograman Dasar,lecture,Fri,8,F3.5a,4
+COA,COM60014,Pemrograman Dasar,lecture,Wed,13,F3.13,4
+COA,COM60014,Pemrograman Dasar,practicum,Tue,17,37,Asprak
+COA,COM60014,Pemrograman Dasar,lecture,Wed,17,F3.12,67
+COA,COM60014,Pemrograman Dasar,lecture,Thu,9,F2.4,67
+COA,COM60014,Pemrograman Dasar,lecture,Tue,10,F4.5,67
+COA,COM60014,Pemrograman Dasar,lecture,Wed,17,F3.4,67
+COA,COM60014,Pemrograman Dasar,practicum,Tue,13,60,Asprak
+COA,COM60014,Pemrograman Dasar,lecture,Tue,11,F4.9,75
+COA,COM60014,Pemrograman Dasar,lecture,Wed,16,F2.4,75
+COA,COM60014,Pemrograman Dasar,lecture,Tue,7,F3.9,75
+COA,COM60014,Pemrograman Dasar,lecture,Thu,8,F3.6,75
+COA,COM60014,Pemrograman Dasar,practicum,Tue,16,43,Asprak
+COA,COM60014,Pemrograman Dasar,lecture,Fri,8,F2.2,76
+COA,COM60014,Pemrograman Dasar,lecture,Tue,11,F3.12,76
+COA,COM60014,Pemrograman Dasar,lecture,Tue,16,F4.14,76
+COA,COM60014,Pemrograman Dasar,lecture,Fri,17,F4.7,76
+COA,COM60014,Pemrograman Dasar,practicum,Tue,13,66,Asprak
+COA,COM60014,Pemrograman Dasar,lecture,Mon,9,F3.15,82
+COA,COM60014,Pemrograman Dasar,lecture,Wed,17,F4.6,82
+COA,COM60014,Pemrograman Dasar,lecture,Wed,14,F3.13,82
+COA,COM60014,Pemrograman Dasar,lecture,Tue,7,F3.15,82
+COA,COM60014,Pemrograman Dasar,practicum,Fri,13,17,Asprak
+COA,COM60014,Pemrograman Dasar,lecture,Thu,13,F2.6,91
+COA,COM60014,Pemrograman Dasar,lecture,Thu,15,F3.15,91
+COA,COM60014,Pemrograman Dasar,lecture,Mon,16,F3.14,91
+COA,COM60014,Pemrograman Dasar,lecture,Wed,14,F3.1,91
+COA,COM60014,Pemrograman Dasar,practicum,Wed,15,24,Asprak
+COA,COM60014,Pemrograman Dasar,lecture,Fri,7,F4.10,103
+COA,COM60014,Pemrograman Dasar,lecture,Mon,11,F4.13,103
+COA,COM60014,Pemrograman Dasar,lecture,Tue,13,F3.16,103
+COA,COM60014,Pemrograman Dasar,lecture,Fri,15,F4.14,103
+COA,COM60014,Pemrograman Dasar,practicum,Tue,14,77,Asprak
+COA,COM60014,Pemrograman Dasar,lecture,Tue,8,F3.16,47
+COA,COM60014,Pemrograman Dasar,lecture,Fri,9,F3.18,47
+COA,COM60014,Pemrograman Dasar,lecture,Thu,15,F2.6,47
+COA,COM60014,Pemrograman Dasar,lecture,Wed,17,F3.7a,47
+COA,COM60014,Pemrograman Dasar,practicum,Mon,10,35,Asprak
+COA,COM60014,Pemrograman Dasar,lecture,Fri,8,F2.5,4
+COA,COM60014,Pemrograman Dasar,lecture,Fri,10,F3.5a,4
+COA,COM60014,Pemrograman Dasar,lecture,Wed,17,F3.3,4
+COA,COM60014,Pemrograman Dasar,lecture,Fri,8,F3.5b,4
+COA,COM60014,Pemrograman Dasar,practicum,Fri,8,86,Asprak
+COA,COM60014,Pemrograman Dasar,lecture,Mon,11,F3.5a,31
+COA,COM60014,Pemrograman Dasar,lecture,Fri,14,F2.5,31
+COA,COM60014,Pemrograman Dasar,lecture,Thu,17,F3.11,31
+COA,COM60014,Pemrograman Dasar,lecture,Fri,10,F4.12,31
+COA,COM60014,Pemrograman Dasar,practicum,Thu,13,53,Asprak
+COA,COM60014,Pemrograman Dasar,lecture,Fri,9,F3.18,67
+COA,COM60014,Pemrograman Dasar,lecture,Thu,9,F4.6,67
+COA,COM60014,Pemrograman Dasar,lecture,Thu,10,F4.7,67
+COA,COM60014,Pemrograman Dasar,lecture,Tue,7,F4.13,67
+COA,COM60014,Pemrograman Dasar,practicum,Thu,10,31,Asprak
+COA,COM60014,Pemrograman Dasar,lecture,Mon,17,F4.6,76
+COA,COM60014,Pemrograman Dasar,lecture,Tue,17,F11.4,76
+COA,COM60014,Pemrograman Dasar,lecture,Mon,14,F2.8,76
+COA,COM60014,Pemrograman Dasar,lecture,Mon,11,F2.4,76
+COA,COM60014,Pemrograman Dasar,practicum,Fri,17,73,Asprak
+COA,COM60014,Pemrograman Dasar,lecture,Fri,8,F3.9,82
+COA,COM60014,Pemrograman Dasar,lecture,Thu,10,F4.13,82
+COA,COM60014,Pemrograman Dasar,lecture,Thu,13,F4.2,82
+COA,COM60014,Pemrograman Dasar,lecture,Mon,9,F4.3,82
+COA,COM60014,Pemrograman Dasar,practicum,Tue,14,82,Asprak
+COA,COM60014,Pemrograman Dasar,lecture,Mon,17,F4.11,87
+COA,COM60014,Pemrograman Dasar,lecture,Mon,8,F3.7a,87
+COA,COM60014,Pemrograman Dasar,lecture,Fri,10,F2.8,87
+COA,COM60014,Pemrograman Dasar,lecture,Wed,16,F4.3,87
+COA,COM60014,Pemrograman Dasar,practicum,Mon,9,41,Asprak
+COA,COM60014,Pemrograman Dasar,lecture,Tue,14,F3.10,91
+COA,COM60014,Pemrograman Dasar,lecture,Tue,11,F4.4,91
+COA,COM60014,Pemrograman Dasar,lecture,Tue,15,F3.9,91
+COA,COM60014,Pemrograman Dasar,lecture,Wed,13,F4.7,91
+COA,COM60014,Pemrograman Dasar,practicum,Mon,10,78,Asprak
+COA,COM60014,Pemrograman Dasar,lecture,Fri,10,F4.4,23
+COA,COM60014,Pemrograman Dasar,lecture,Fri,16,F4.6,23
+COA,COM60014,Pemrograman Dasar,lecture,Mon,11,F2.8,23
+COA,COM60014,Pemrograman Dasar,lecture,Mon,13,F2.8,23
+COA,COM60014,Pemrograman Dasar,practicum,Mon,14,70,Asprak
+COA,COM60014,Pemrograman Dasar,lecture,Tue,13,F2.1,47
+COA,COM60014,Pemrograman Dasar,lecture,Tue,8,F4.9,47
+COA,COM60014,Pemrograman Dasar,lecture,Tue,14,F3.5a,47
+COA,COM60014,Pemrograman Dasar,lecture,Fri,8,F11.3,47
+COA,COM60014,Pemrograman Dasar,practicum,Mon,10,91,Asprak
+COA,COM60014,Pemrograman Dasar,lecture,Thu,10,F3.8,4
+COA,COM60014,Pemrograman Dasar,lecture,Fri,9,F2.2,4
+COA,COM60014,Pemrograman Dasar,lecture,Fri,9,F2.4,4
+COA,COM60014,Pemrograman Dasar,lecture,Tue,16,F3.5a,4
+COA,COM60014,Pemrograman Dasar,practicum,Wed,14,32,Asprak
+COA,COM60014,Pemrograman Dasar,lecture,Fri,17,F4.9,31
+COA,COM60014,Pemrograman Dasar,lecture,Mon,11,F2.9,31
+COA,COM60014,Pemrograman Dasar,lecture,Fri,7,F3.16,31
+COA,COM60014,Pemrograman Dasar,lecture,Tue,17,F3.8,31
+COA,COM60014,Pemrograman Dasar,practicum,Wed,9,75,Asprak
+COA,COM60014,Pemrograman Dasar,lecture,Fri,8,F4.11,75
+COA,COM60014,Pemrograman Dasar,lecture,Thu,10,F3.12,75
+COA,COM60014,Pemrograman Dasar,lecture,Wed,7,F4.14,75
+COA,COM60014,Pemrograman Dasar,lecture,Thu,7,F3.5b,75
+COA,COM60014,Pemrograman Dasar,practicum,Mon,7,75,Asprak
+COA,COM60014,Pemrograman Dasar,lecture,Wed,10,F2.5,76
+COA,COM60014,Pemrograman Dasar,lecture,Thu,13,F3.2,76
+COA,COM60014,Pemrograman Dasar,lecture,Wed,9,F3.10,76
+COA,COM60014,Pemrograman Dasar,lecture,Wed,7,F2.6,76
+COA,COM60014,Pemrograman Dasar,practicum,Mon,11,92,Asprak
+COA,COM60014,Pemrograman Dasar,lecture,Wed,9,F3.8,82
+COA,COM60014,Pemrograman Dasar,lecture,Thu,13,F3.5a,82
+COA,COM60014,Pemrograman Dasar,lecture,Mon,15,F2.2,82
+COA,COM60014,Pemrograman Dasar,lecture,Mon,10,F3.4,82
+COA,COM60014,Pemrograman Dasar,practicum,Mon,11,13,Asprak
+COA,COM60014,Pemrograman Dasar,lecture,Thu,11,F3.2,91
+COA,COM60014,Pemrograman Dasar,lecture,Fri,7,F4.13,91
+COA,COM60014,Pemrograman Dasar,lecture,Tue,11,F2.8,91
+COA,COM60014,Pemrograman Dasar,lecture,Tue,13,F2.5,91
+COA,COM60014,Pemrograman Dasar,practicum,Wed,15,27,Asprak
+COA,COM60014,Pemrograman Dasar,lecture,Mon,14,F3.10,67
+COA,COM60014,Pemrograman Dasar,lecture,Thu,17,F3.17,67
+COA,COM60014,Pemrograman Dasar,lecture,Thu,8,F3.4,67
+COA,COM60014,Pemrograman Dasar,lecture,Wed,10,F3.5a,67
+COA,COM60014,Pemrograman Dasar,practicum,Wed,9,88,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,10,F3.2,16
+COA,COM60024,Pemrograman Lanjut,lecture,Tue,11,F3.5b,16
+COA,COM60024,Pemrograman Lanjut,lecture,Wed,13,F4.13,16
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,9,F3.6,16
+COA,COM60024,Pemrograman Lanjut,practicum,Tue,8,48,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,10,F11.3,20
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,16,F3.2,20
+COA,COM60024,Pemrograman Lanjut,lecture,Tue,11,F4.5,20
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,17,F3.15,20
+COA,COM60024,Pemrograman Lanjut,practicum,Wed,15,60,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Wed,11,F3.1,47
+COA,COM60024,Pemrograman Lanjut,lecture,Mon,13,F11.4,47
+COA,COM60024,Pemrograman Lanjut,lecture,Tue,15,F2.8,47
+COA,COM60024,Pemrograman Lanjut,lecture,Wed,8,F4.7,47
+COA,COM60024,Pemrograman Lanjut,practicum,Mon,13,63,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,13,F4.14,4
+COA,COM60024,Pemrograman Lanjut,lecture,Fri,17,F2.5,4
+COA,COM60024,Pemrograman Lanjut,lecture,Fri,14,F3.9,4
+COA,COM60024,Pemrograman Lanjut,lecture,Mon,14,F3.8,4
+COA,COM60024,Pemrograman Lanjut,practicum,Mon,13,65,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Tue,9,F4.9,52
+COA,COM60024,Pemrograman Lanjut,lecture,Fri,9,F4.11,52
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,11,F11.3,52
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,10,F3.4,52
+COA,COM60024,Pemrograman Lanjut,practicum,Tue,9,97,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,15,F2.1,70
+COA,COM60024,Pemrograman Lanjut,lecture,Wed,14,F3.11,70
+COA,COM60024,Pemrograman Lanjut,lecture,Tue,15,F2.1,70
+COA,COM60024,Pemrograman Lanjut,lecture,Mon,14,F4.10,70
+COA,COM60024,Pemrograman Lanjut,practicum,Thu,16,12,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Mon,8,F3.6,1
+COA,COM60024,Pemrograman Lanjut,lecture,Fri,15,F4.12,1
+COA,COM60024,Pemrograman Lanjut,lecture,Mon,9,F3.7a,1
+COA,COM60024,Pemrograman Lanjut,lecture,Mon,7,F2.5,1
+COA,COM60024,Pemrograman Lanjut,practicum,Wed,7,42,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Fri,13,F3.5a,31
+COA,COM60024,Pemrograman Lanjut,lecture,Tue,13,F3.5a,31
+COA,COM60024,Pemrograman Lanjut,lecture,Tue,11,F3.17,31
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,11,F3.13,31
+COA,COM60024,Pemrograman Lanjut,practicum,Mon,10,17,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Wed,7,F3.17,37
+COA,COM60024,Pemrograman Lanjut,lecture,Wed,11,F3.14,37
+COA,COM60024,Pemrograman Lanjut,lecture,Tue,9,F11.1,37
+COA,COM60024,Pemrograman Lanjut,lecture,Mon,7,F2.9,37
+COA,COM60024,Pemrograman Lanjut,practicum,Mon,17,3,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,13,F3.15,55
+COA,COM60024,Pemrograman Lanjut,lecture,Tue,11,F3.13,55
+COA,COM60024,Pemrograman Lanjut,lecture,Tue,13,F11.3,55
+COA,COM60024,Pemrograman Lanjut,lecture,Mon,17,F3.7a,55
+COA,COM60024,Pemrograman Lanjut,practicum,Tue,17,35,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Wed,17,F3.5a,65
+COA,COM60024,Pemrograman Lanjut,lecture,Fri,13,F4.5,65
+COA,COM60024,Pemrograman Lanjut,lecture,Tue,14,F2.1,65
+COA,COM60024,Pemrograman Lanjut,lecture,Mon,10,F3.2,65
+COA,COM60024,Pemrograman Lanjut,practicum,Wed,11,42,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Mon,13,F4.10,75
+COA,COM60024,Pemrograman Lanjut,lecture,Mon,9,F4.10,75
+COA,COM60024,Pemrograman Lanjut,lecture,Wed,16,F2.9,75
+COA,COM60024,Pemrograman Lanjut,lecture,Mon,13,F4.2,75
+COA,COM60024,Pemrograman Lanjut,practicum,Tue,11,95,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,13,F4.9,76
+COA,COM60024,Pemrograman Lanjut,lecture,Wed,8,F2.5,76
+COA,COM60024,Pemrograman Lanjut,lecture,Tue,7,F3.17,76
+COA,COM60024,Pemrograman Lanjut,lecture,Tue,13,F3.1,76
+COA,COM60024,Pemrograman Lanjut,practicum,Thu,10,90,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,10,F3.9,80
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,8,F2.4,80
+COA,COM60024,Pemrograman Lanjut,lecture,Tue,15,F11.3,80
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,13,F3.13,80
+COA,COM60024,Pemrograman Lanjut,practicum,Thu,7,62,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Mon,10,F11.3,82
+COA,COM60024,Pemrograman Lanjut,lecture,Mon,16,F3.17,82
+COA,COM60024,Pemrograman Lanjut,lecture,Tue,11,F2.4,82
+COA,COM60024,Pemrograman Lanjut,lecture,Tue,14,F3.11,82
+COA,COM60024,Pemrograman Lanjut,practicum,Tue,11,48,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,11,F4.13,87
+COA,COM60024,Pemrograman Lanjut,lecture,Mon,14,F2.4,87
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,13,F3.4,87
+COA,COM60024,Pemrograman Lanjut,lecture,Mon,7,F3.1,87
+COA,COM60024,Pemrograman Lanjut,practicum,Fri,16,46,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Wed,14,F3.15,91
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,7,F3.7a,91
+COA,COM60024,Pemrograman Lanjut,lecture,Fri,16,F3.9,91
+COA,COM60024,Pemrograman Lanjut,lecture,Mon,15,F2.5,91
+COA,COM60024,Pemrograman Lanjut,practicum,Wed,8,15,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,8,F3.8,98
+COA,COM60024,Pemrograman Lanjut,lecture,Mon,8,F3.9,98
+COA,COM60024,Pemrograman Lanjut,lecture,Tue,13,F3.2,98
+COA,COM60024,Pemrograman Lanjut,lecture,Wed,17,F4.7,98
+COA,COM60024,Pemrograman Lanjut,practicum,Thu,9,5,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Fri,13,F2.8,22
+COA,COM60024,Pemrograman Lanjut,lecture,Wed,8,F3.7b,22
+COA,COM60024,Pemrograman Lanjut,lecture,Wed,10,F3.7b,22
+COA,COM60024,Pemrograman Lanjut,lecture,Wed,16,F3.17,22
+COA,COM60024,Pemrograman Lanjut,practicum,Wed,14,39,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,13,F4.7,23
+COA,COM60024,Pemrograman Lanjut,lecture,Fri,14,F3.16,23
+COA,COM60024,Pemrograman Lanjut,lecture,Tue,16,F3.6,23
+COA,COM60024,Pemrograman Lanjut,lecture,Mon,14,F3.17,23
+COA,COM60024,Pemrograman Lanjut,practicum,Wed,11,58,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Tue,9,F2.5,20
+COA,COM60024,Pemrograman Lanjut,lecture,Mon,17,F3.10,20
+COA,COM60024,Pemrograman Lanjut,lecture,Fri,8,F3.15,20
+COA,COM60024,Pemrograman Lanjut,lecture,Tue,11,F3.15,20
+COA,COM60024,Pemrograman Lanjut,practicum,Wed,8,105,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,7,F4.2,47
+COA,COM60024,Pemrograman Lanjut,lecture,Tue,8,F3.4,47
+COA,COM60024,Pemrograman Lanjut,lecture,Tue,13,F3.4,47
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,9,F2.4,47
+COA,COM60024,Pemrograman Lanjut,practicum,Fri,16,94,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Wed,14,F2.4,4
+COA,COM60024,Pemrograman Lanjut,lecture,Fri,16,F3.3,4
+COA,COM60024,Pemrograman Lanjut,lecture,Tue,10,F4.6,4
+COA,COM60024,Pemrograman Lanjut,lecture,Fri,7,F4.11,4
+COA,COM60024,Pemrograman Lanjut,practicum,Tue,16,99,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Wed,9,F2.5,16
+COA,COM60024,Pemrograman Lanjut,lecture,Fri,9,F4.14,16
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,17,F3.9,16
+COA,COM60024,Pemrograman Lanjut,lecture,Fri,15,F11.1,16
+COA,COM60024,Pemrograman Lanjut,practicum,Thu,16,81,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Mon,14,F4.2,22
+COA,COM60024,Pemrograman Lanjut,lecture,Wed,15,F2.4,22
+COA,COM60024,Pemrograman Lanjut,lecture,Tue,16,F3.11,22
+COA,COM60024,Pemrograman Lanjut,lecture,Fri,16,F4.2,22
+COA,COM60024,Pemrograman Lanjut,practicum,Mon,13,31,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,9,F2.6,52
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,17,F3.2,52
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,16,F11.4,52
+COA,COM60024,Pemrograman Lanjut,lecture,Tue,13,F3.17,52
+COA,COM60024,Pemrograman Lanjut,practicum,Wed,10,90,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Fri,14,F3.14,80
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,9,F3.12,80
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,7,F4.10,80
+COA,COM60024,Pemrograman Lanjut,lecture,Fri,9,F3.1,80
+COA,COM60024,Pemrograman Lanjut,practicum,Tue,16,93,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Wed,7,F3.13,1
+COA,COM60024,Pemrograman Lanjut,lecture,Fri,17,F3.1,1
+COA,COM60024,Pemrograman Lanjut,lecture,Fri,15,F4.5,1
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,9,F3.7a,1
+COA,COM60024,Pemrograman Lanjut,practicum,Tue,10,73,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Tue,15,F2.5,31
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,13,F2.4,31
+COA,COM60024,Pemrograman Lanjut,lecture,Tue,8,F3.12,31
+COA,COM60024,Pemrograman Lanjut,lecture,Mon,13,F2.4,31
+COA,COM60024,Pemrograman Lanjut,practicum,Tue,8,92,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,16,F4.9,55
+COA,COM60024,Pemrograman Lanjut,lecture,Wed,17,F3.16,55
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,16,F4.7,55
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,8,F3.13,55
+COA,COM60024,Pemrograman Lanjut,practicum,Tue,8,53,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Wed,9,F3.7b,70
+COA,COM60024,Pemrograman Lanjut,lecture,Tue,16,F2.4,70
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,7,F3.18,70
+COA,COM60024,Pemrograman Lanjut,lecture,Wed,16,F3.1,70
+COA,COM60024,Pemrograman Lanjut,practicum,Tue,13,37,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,14,F2.2,75
+COA,COM60024,Pemrograman Lanjut,lecture,Fri,10,F3.8,75
+COA,COM60024,Pemrograman Lanjut,lecture,Wed,10,F3.7b,75
+COA,COM60024,Pemrograman Lanjut,lecture,Fri,10,F2.2,75
+COA,COM60024,Pemrograman Lanjut,practicum,Thu,13,97,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Wed,16,F11.4,76
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,10,F4.2,76
+COA,COM60024,Pemrograman Lanjut,lecture,Wed,11,F11.3,76
+COA,COM60024,Pemrograman Lanjut,lecture,Tue,14,F2.4,76
+COA,COM60024,Pemrograman Lanjut,practicum,Tue,14,104,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Mon,7,F3.2,82
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,13,F3.5b,82
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,7,F4.3,82
+COA,COM60024,Pemrograman Lanjut,lecture,Wed,7,F2.1,82
+COA,COM60024,Pemrograman Lanjut,practicum,Mon,8,16,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Tue,11,F3.14,91
+COA,COM60024,Pemrograman Lanjut,lecture,Fri,17,F4.4,91
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,7,F3.7b,91
+COA,COM60024,Pemrograman Lanjut,lecture,Mon,17,F4.10,91
+COA,COM60024,Pemrograman Lanjut,practicum,Tue,7,37,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Fri,8,F3.18,98
+COA,COM60024,Pemrograman Lanjut,lecture,Wed,8,F2.1,98
+COA,COM60024,Pemrograman Lanjut,lecture,Mon,11,F3.7b,98
+COA,COM60024,Pemrograman Lanjut,lecture,Mon,14,F2.2,98
+COA,COM60024,Pemrograman Lanjut,practicum,Wed,17,102,Asprak
+COA,COM60024,Pemrograman Lanjut,lecture,Wed,10,F2.6,67
+COA,COM60024,Pemrograman Lanjut,lecture,Thu,14,F3.6,67
+COA,COM60024,Pemrograman Lanjut,lecture,Tue,15,F11.1,67
+COA,COM60024,Pemrograman Lanjut,lecture,Wed,13,F3.15,67
+COA,COM60024,Pemrograman Lanjut,practicum,Wed,16,16,Asprak
+COA,CSD60705,Pemrograman SQL,lecture,Wed,17,F3.1,22
+COA,CSD60705,Pemrograman SQL,lecture,Thu,15,F3.16,22
+COA,CSD60705,Pemrograman SQL,practicum,Mon,13,41,Asprak
+COA,CSD60705,Pemrograman SQL,lecture,Tue,14,F4.10,72
+COA,CSD60705,Pemrograman SQL,lecture,Wed,15,F2.8,72
+COA,CSD60705,Pemrograman SQL,practicum,Tue,9,109,Asprak
+COA,CSD60705,Pemrograman SQL,lecture,Tue,16,F3.7b,73
+COA,CSD60705,Pemrograman SQL,lecture,Thu,10,F4.14,73
+COA,CSD60705,Pemrograman SQL,practicum,Wed,8,52,Asprak
+COA,CSD60705,Pemrograman SQL,lecture,Thu,16,F11.1,102
+COA,CSD60705,Pemrograman SQL,lecture,Tue,11,F3.12,102
+COA,CSD60705,Pemrograman SQL,practicum,Wed,17,59,Asprak
+COA,CSD60705,Pemrograman SQL,lecture,Mon,13,F4.5,1
+COA,CSD60705,Pemrograman SQL,lecture,Fri,10,F2.9,1
+COA,CSD60705,Pemrograman SQL,practicum,Tue,11,108,Asprak
+COA,CSD60705,Pemrograman SQL,lecture,Wed,8,F3.1,20
+COA,CSD60705,Pemrograman SQL,lecture,Mon,8,F3.2,20
+COA,CSD60705,Pemrograman SQL,practicum,Tue,9,9,Asprak
+COA,CSD60705,Pemrograman SQL,lecture,Wed,13,F3.5b,60
+COA,CSD60705,Pemrograman SQL,lecture,Thu,11,F3.14,60
+COA,CSD60705,Pemrograman SQL,practicum,Mon,17,73,Asprak
+COA,CSD60705,Pemrograman SQL,lecture,Tue,10,F4.7,60
+COA,CSD60705,Pemrograman SQL,lecture,Mon,14,F4.14,60
+COA,CSD60705,Pemrograman SQL,practicum,Fri,9,62,Asprak
+COA,CSD60705,Pemrograman SQL,lecture,Wed,11,F3.12,70
+COA,CSD60705,Pemrograman SQL,lecture,Wed,17,F3.7b,70
+COA,CSD60705,Pemrograman SQL,practicum,Wed,9,86,Asprak
+COA,CSD60705,Pemrograman SQL,lecture,Mon,15,F4.12,91
+COA,CSD60705,Pemrograman SQL,lecture,Mon,15,F4.11,91
+COA,CSD60705,Pemrograman SQL,practicum,Tue,13,33,Asprak
+COA,CSD60705,Pemrograman SQL,lecture,Fri,7,F4.5,98
+COA,CSD60705,Pemrograman SQL,lecture,Tue,9,F11.4,98
+COA,CSD60705,Pemrograman SQL,practicum,Wed,15,46,Asprak
+COA,CSD60705,Pemrograman SQL,lecture,Thu,14,F2.6,16
+COA,CSD60705,Pemrograman SQL,lecture,Mon,17,F3.16,16
+COA,CSD60705,Pemrograman SQL,practicum,Mon,16,26,Asprak
+COA,CSD60705,Pemrograman SQL,lecture,Fri,16,F3.14,102
+COA,CSD60705,Pemrograman SQL,lecture,Mon,10,F2.2,102
+COA,CSD60705,Pemrograman SQL,practicum,Thu,9,46,Asprak
+COA,CSD60705,Pemrograman SQL,lecture,Mon,8,F3.11,60
+COA,CSD60705,Pemrograman SQL,lecture,Mon,7,F11.3,60
+COA,CSD60705,Pemrograman SQL,practicum,Fri,15,9,Asprak
+COA,CSD60705,Pemrograman SQL,lecture,Wed,15,F3.7b,91
+COA,CSD60705,Pemrograman SQL,lecture,Tue,8,F3.13,91
+COA,CSD60705,Pemrograman SQL,practicum,Tue,11,64,Asprak
+COA,CIE61205,Pemrograman Web,lecture,Mon,11,F3.11,103
+COA,CIE61205,Pemrograman Web,lecture,Tue,11,F2.1,103
+COA,CIE61205,Pemrograman Web,practicum,Fri,17,38,Asprak
+COA,CIE61205,Pemrograman Web,lecture,Wed,17,F4.5,4
+COA,CIE61205,Pemrograman Web,lecture,Thu,11,F4.2,4
+COA,CIE61205,Pemrograman Web,practicum,Thu,17,91,Asprak
+COA,CIE61205,Pemrograman Web,lecture,Tue,8,F3.3,47
+COA,CIE61205,Pemrograman Web,lecture,Wed,16,F3.6,47
+COA,CIE61205,Pemrograman Web,practicum,Tue,13,48,Asprak
+COA,CIE61205,Pemrograman Web,lecture,Thu,7,F3.11,75
+COA,CIE61205,Pemrograman Web,lecture,Wed,8,F3.15,75
+COA,CIE61205,Pemrograman Web,practicum,Thu,10,32,Asprak
+COA,CIE61205,Pemrograman Web,lecture,Wed,10,F3.9,82
+COA,CIE61205,Pemrograman Web,lecture,Mon,8,F11.1,82
+COA,CIE61205,Pemrograman Web,practicum,Wed,16,105,Asprak
+COA,CIE61205,Pemrograman Web,lecture,Tue,16,F4.9,105
+COA,CIE61205,Pemrograman Web,lecture,Tue,13,F2.6,105
+COA,CIE61205,Pemrograman Web,practicum,Thu,16,63,Asprak
+COA,CIS62106,Pemrograman Web,lecture,Fri,13,F4.6,16
+COA,CIS62106,Pemrograman Web,lecture,Wed,14,F2.1,16
+COA,CIS62106,Pemrograman Web,lecture,Mon,13,F4.9,16
+COA,CIS62106,Pemrograman Web,lecture,Thu,13,F2.5,16
+COA,CIS62106,Pemrograman Web,lecture,Thu,8,F2.8,4
+COA,CIS62106,Pemrograman Web,lecture,Wed,8,F3.8,4
+COA,CIS62106,Pemrograman Web,lecture,Wed,10,F3.17,4
+COA,CIS62106,Pemrograman Web,lecture,Wed,17,F3.10,4
+COA,CIS62106,Pemrograman Web,lecture,Thu,16,F3.17,22
+COA,CIS62106,Pemrograman Web,lecture,Thu,13,F3.7b,22
+COA,CIS62106,Pemrograman Web,lecture,Thu,14,F3.18,22
+COA,CIS62106,Pemrograman Web,lecture,Wed,9,F2.6,22
+COA,CIS62106,Pemrograman Web,lecture,Fri,17,F3.13,47
+COA,CIS62106,Pemrograman Web,lecture,Wed,16,F4.13,47
+COA,CIS62106,Pemrograman Web,lecture,Tue,16,F2.9,47
+COA,CIS62106,Pemrograman Web,lecture,Thu,16,F2.5,47
+COA,CIS62106,Pemrograman Web,lecture,Fri,9,F3.11,1
+COA,CIS62106,Pemrograman Web,lecture,Fri,7,F2.4,1
+COA,CIS62106,Pemrograman Web,lecture,Tue,13,F3.6,1
+COA,CIS62106,Pemrograman Web,lecture,Tue,7,F3.7b,1
+COA,CIS62106,Pemrograman Web,lecture,Fri,9,F11.4,31
+COA,CIS62106,Pemrograman Web,lecture,Thu,15,F3.7b,31
+COA,CIS62106,Pemrograman Web,lecture,Mon,13,F3.12,31
+COA,CIS62106,Pemrograman Web,lecture,Thu,17,F3.9,31
+COA,CIS62106,Pemrograman Web,lecture,Fri,16,F11.1,37
+COA,CIS62106,Pemrograman Web,lecture,Mon,8,F4.7,37
+COA,CIS62106,Pemrograman Web,lecture,Mon,15,F4.12,37
+COA,CIS62106,Pemrograman Web,lecture,Wed,7,F4.4,37
+COA,CIS62106,Pemrograman Web,lecture,Fri,14,F3.3,75
+COA,CIS62106,Pemrograman Web,lecture,Mon,11,F3.16,75
+COA,CIS62106,Pemrograman Web,lecture,Wed,15,F3.11,75
+COA,CIS62106,Pemrograman Web,lecture,Thu,17,F3.6,75
+COA,CIS62106,Pemrograman Web,lecture,Thu,17,F4.11,82
+COA,CIS62106,Pemrograman Web,lecture,Thu,17,F2.6,82
+COA,CIS62106,Pemrograman Web,lecture,Wed,15,F4.10,82
+COA,CIS62106,Pemrograman Web,lecture,Mon,7,F4.11,82
+COA,CIS62106,Pemrograman Web,lecture,Mon,8,F2.4,98
+COA,CIS62106,Pemrograman Web,lecture,Tue,17,F3.3,98
+COA,CIS62106,Pemrograman Web,lecture,Fri,13,F4.11,98
+COA,CIS62106,Pemrograman Web,lecture,Mon,7,F3.7b,98
+COA,CIS62106,Pemrograman Web,lecture,Thu,14,F4.11,105
+COA,CIS62106,Pemrograman Web,lecture,Thu,13,F4.10,105
+COA,CIS62106,Pemrograman Web,lecture,Wed,7,F3.14,105
+COA,CIS62106,Pemrograman Web,lecture,Thu,11,F4.14,105
+COA,CIS62106,Pemrograman Web,lecture,Fri,13,F3.8,70
+COA,CIS62106,Pemrograman Web,lecture,Wed,16,F4.6,70
+COA,CIS62106,Pemrograman Web,lecture,Wed,11,F3.7b,70
+COA,CIS62106,Pemrograman Web,lecture,Tue,8,F3.6,70
+COA,CIS62106,Pemrograman Web,lecture,Mon,13,F3.5b,103
+COA,CIS62106,Pemrograman Web,lecture,Wed,7,F3.12,103
+COA,CIS62106,Pemrograman Web,lecture,Mon,7,F4.12,103
+COA,CIS62106,Pemrograman Web,lecture,Wed,16,F3.10,103
+COA,CIS60103,Pemrograman Web Lanjut,lecture,Thu,15,F11.4,1
+COA,CIS60103,Pemrograman Web Lanjut,lecture,Thu,9,F2.2,1
+COA,CIS60103,Pemrograman Web Lanjut,lecture,Thu,9,F4.14,1
+COA,CIS60103,Pemrograman Web Lanjut,lecture,Mon,11,F3.17,16
+COA,CIS60103,Pemrograman Web Lanjut,lecture,Thu,13,F4.3,16
+COA,CIS60103,Pemrograman Web Lanjut,lecture,Fri,9,F2.6,16
+COA,CIS60103,Pemrograman Web Lanjut,lecture,Tue,7,F3.9,22
+COA,CIS60103,Pemrograman Web Lanjut,lecture,Fri,8,F4.7,22
+COA,CIS60103,Pemrograman Web Lanjut,lecture,Tue,17,F2.1,22
+COA,CIS60103,Pemrograman Web Lanjut,lecture,Tue,7,F3.7b,31
+COA,CIS60103,Pemrograman Web Lanjut,lecture,Thu,17,F11.1,31
+COA,CIS60103,Pemrograman Web Lanjut,lecture,Thu,16,F3.8,31
+COA,CSD60708,Penambangan Data,lecture,Tue,15,F3.15,102
+COA,CSD60708,Penambangan Data,lecture,Wed,9,F11.1,102
+COA,CSD60708,Penambangan Data,lecture,Thu,8,F3.1,102
+COA,CSD60708,Penambangan Data,lecture,Tue,10,F3.6,92
+COA,CSD60708,Penambangan Data,lecture,Mon,11,F3.15,92
+COA,CSD60708,Penambangan Data,lecture,Wed,11,F4.10,92
+COA,CSD60708,Penambangan Data,lecture,Tue,8,F3.8,30
+COA,CSD60708,Penambangan Data,lecture,Mon,13,F3.5b,30
+COA,CSD60708,Penambangan Data,lecture,Wed,15,F3.2,30
+COA,CSD60708,Penambangan Data,lecture,Fri,14,F3.2,52
+COA,CSD60708,Penambangan Data,lecture,Thu,9,F4.7,52
+COA,CSD60708,Penambangan Data,lecture,Fri,10,F4.12,52
+COA,CSD60708,Penambangan Data,lecture,Mon,9,F3.13,107
+COA,CSD60708,Penambangan Data,lecture,Fri,10,F2.2,107
+COA,CSD60708,Penambangan Data,lecture,Thu,16,F3.10,107
+COA,CSD60708,Penambangan Data,lecture,Mon,17,F3.17,1
+COA,CSD60708,Penambangan Data,lecture,Fri,15,F3.13,1
+COA,CSD60708,Penambangan Data,lecture,Wed,8,F3.10,1
+COA,CSD60708,Penambangan Data,lecture,Fri,10,F3.8,16
+COA,CSD60708,Penambangan Data,lecture,Fri,9,F4.6,16
+COA,CSD60708,Penambangan Data,lecture,Wed,11,F3.16,16
+COA,CSD60708,Penambangan Data,lecture,Tue,7,F4.2,20
+COA,CSD60708,Penambangan Data,lecture,Tue,7,F3.12,20
+COA,CSD60708,Penambangan Data,lecture,Mon,10,F4.13,20
+COA,CSD60708,Penambangan Data,lecture,Mon,7,F3.4,29
+COA,CSD60708,Penambangan Data,lecture,Thu,7,F3.1,29
+COA,CSD60708,Penambangan Data,lecture,Thu,17,F2.9,29
+COA,CSD60708,Penambangan Data,lecture,Tue,14,F2.2,72
+COA,CSD60708,Penambangan Data,lecture,Wed,13,F3.6,72
+COA,CSD60708,Penambangan Data,lecture,Mon,11,F4.3,72
+COA,CSD60708,Penambangan Data,lecture,Mon,10,F4.7,80
+COA,CSD60708,Penambangan Data,lecture,Thu,16,F2.2,80
+COA,CSD60708,Penambangan Data,lecture,Mon,13,F3.11,80
+COA,CSD60708,Penambangan Data,lecture,Tue,17,F2.5,102
+COA,CSD60708,Penambangan Data,lecture,Mon,16,F3.10,102
+COA,CSD60708,Penambangan Data,lecture,Wed,14,F2.8,102
+COA,CSD60708,Penambangan Data,lecture,Tue,16,F11.1,89
+COA,CSD60708,Penambangan Data,lecture,Thu,13,F3.7a,89
+COA,CSD60708,Penambangan Data,lecture,Mon,11,F11.3,89
+COA,CSD60708,Penambangan Data,lecture,Wed,15,F3.4,97
+COA,CSD60708,Penambangan Data,lecture,Fri,15,F4.2,97
+COA,CSD60708,Penambangan Data,lecture,Tue,8,F4.10,97
+COA,CSD60708,Penambangan Data,lecture,Wed,17,F2.2,92
+COA,CSD60708,Penambangan Data,lecture,Fri,13,F2.5,92
+COA,CSD60708,Penambangan Data,lecture,Tue,15,F3.5b,92
+COA,CSD60708,Penambangan Data,lecture,Mon,16,F4.3,30
+COA,CSD60708,Penambangan Data,lecture,Tue,7,F4.14,30
+COA,CSD60708,Penambangan Data,lecture,Mon,14,F3.1,30
+COA,CSD60708,Penambangan Data,lecture,Mon,15,F4.13,107
+COA,CSD60708,Penambangan Data,lecture,Wed,7,F2.8,107
+COA,CSD60708,Penambangan Data,lecture,Mon,13,F3.1,107
+COA,CSD60708,Penambangan Data,lecture,Tue,11,F2.9,1
+COA,CSD60708,Penambangan Data,lecture,Tue,9,F4.14,1
+COA,CSD60708,Penambangan Data,lecture,Mon,13,F3.10,1
+COA,CSD60708,Penambangan Data,lecture,Tue,7,F3.2,16
+COA,CSD60708,Penambangan Data,lecture,Wed,14,F3.3,16
+COA,CSD60708,Penambangan Data,lecture,Wed,14,F4.11,16
+COA,CSD60708,Penambangan Data,lecture,Wed,9,F2.4,20
+COA,CSD60708,Penambangan Data,lecture,Thu,16,F4.2,20
+COA,CSD60708,Penambangan Data,lecture,Wed,14,F11.4,20
+COA,CSD60708,Penambangan Data,lecture,Thu,11,F3.7b,29
+COA,CSD60708,Penambangan Data,lecture,Mon,14,F4.4,29
+COA,CSD60708,Penambangan Data,lecture,Mon,8,F2.5,29
+COA,CSD60708,Penambangan Data,lecture,Tue,14,F4.12,52
+COA,CSD60708,Penambangan Data,lecture,Wed,14,F3.15,52
+COA,CSD60708,Penambangan Data,lecture,Wed,14,F11.3,52
+COA,CSD60708,Penambangan Data,lecture,Wed,10,F11.1,80
+COA,CSD60708,Penambangan Data,lecture,Mon,16,F4.11,80
+COA,CSD60708,Penambangan Data,lecture,Thu,14,F3.3,80
+COA,CSD60708,Penambangan Data,lecture,Fri,15,F3.13,93
+COA,CSD60708,Penambangan Data,lecture,Thu,7,F4.9,93
+COA,CSD60708,Penambangan Data,lecture,Tue,15,F11.3,93
+COA,CSD60708,Penambangan Data,lecture,Tue,15,F4.6,102
+COA,CSD60708,Penambangan Data,lecture,Fri,9,F3.16,102
+COA,CSD60708,Penambangan Data,lecture,Tue,15,F3.4,102
+COA,CSD60708,Penambangan Data,lecture,Thu,14,F3.15,97
+COA,CSD60708,Penambangan Data,lecture,Wed,17,F3.16,97
+COA,CSD60708,Penambangan Data,lecture,Thu,16,F4.11,97
+COA,CIE61114,Pendidikan Orang Dewasa dan Berkelanjutan,lecture,Mon,15,F3.16,39
+COA,CIE61114,Pendidikan Orang Dewasa dan Berkelanjutan,lecture,Mon,13,F4.6,39
+COA,CIE61114,Pendidikan Orang Dewasa dan Berkelanjutan,lecture,Wed,17,F11.1,39
+COA,CIE61114,Pendidikan Orang Dewasa dan Berkelanjutan,lecture,Fri,14,F11.3,39
+COA,CIE61114,Pendidikan Orang Dewasa dan Berkelanjutan,lecture,Fri,13,F3.8,39
+COA,CIE61114,Pendidikan Orang Dewasa dan Berkelanjutan,lecture,Tue,16,F3.8,39
+COA,CIE61114,Pendidikan Orang Dewasa dan Berkelanjutan,lecture,Thu,17,F3.10,59
+COA,CIE61114,Pendidikan Orang Dewasa dan Berkelanjutan,lecture,Thu,15,F4.14,59
+COA,CIE61114,Pendidikan Orang Dewasa dan Berkelanjutan,lecture,Tue,16,F3.7a,59
+COA,CIS61125,Pengantar GeoInformasi,lecture,Mon,11,F4.9,87
+COA,CIS61125,Pengantar GeoInformasi,lecture,Wed,9,F4.9,87
+COA,CIS61125,Pengantar GeoInformasi,practicum,Wed,15,81,Asprak
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Tue,17,F2.9,47
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Mon,14,F3.6,47
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Fri,7,F3.7b,4
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Tue,15,F2.9,4
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Fri,13,F11.3,83
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Tue,11,F11.1,83
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Thu,15,F4.5,90
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Tue,13,F3.7a,90
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Fri,15,F4.13,108
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Fri,7,F3.18,108
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Tue,11,F3.4,103
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Mon,15,F3.3,103
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Mon,11,F4.11,47
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Thu,7,F3.15,47
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Fri,7,F3.5b,4
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Thu,10,F2.6,4
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Mon,15,F3.13,108
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Mon,16,F4.6,108
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Wed,8,F3.13,83
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Tue,7,F3.12,83
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Thu,9,F4.13,90
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Tue,14,F4.14,90
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Wed,15,F3.7a,103
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Thu,17,F3.4,103
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Wed,16,F4.2,47
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Wed,10,F3.6,47
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Mon,7,F3.18,4
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Tue,13,F11.3,4
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Fri,9,F4.2,83
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Tue,16,F4.3,83
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Wed,9,F3.12,90
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Wed,13,F4.4,90
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Wed,15,F2.5,102
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Wed,15,F2.4,102
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Fri,17,F4.3,108
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Thu,7,F3.2,108
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Mon,10,F4.4,62
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Tue,10,F11.3,62
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Tue,16,F4.4,103
+COA,COM60016,Pengantar Keilmuan Komputer,lecture,Wed,8,F3.16,103
+COA,CIS62105,Pengantar Sains Data,lecture,Tue,16,F3.12,16
+COA,CIS62105,Pengantar Sains Data,lecture,Wed,15,F11.4,16
+COA,CIS62105,Pengantar Sains Data,lecture,Mon,16,F3.11,52
+COA,CIS62105,Pengantar Sains Data,lecture,Tue,16,F4.11,52
+COA,CIS62105,Pengantar Sains Data,lecture,Tue,10,F3.8,72
+COA,CIS62105,Pengantar Sains Data,lecture,Wed,9,F4.4,72
+COA,CIS62105,Pengantar Sains Data,lecture,Wed,9,F3.2,73
+COA,CIS62105,Pengantar Sains Data,lecture,Tue,10,F3.3,73
+COA,CIS62105,Pengantar Sains Data,lecture,Mon,16,F4.2,94
+COA,CIS62105,Pengantar Sains Data,lecture,Thu,15,F3.5b,94
+COA,CIS62105,Pengantar Sains Data,lecture,Mon,15,F11.3,20
+COA,CIS62105,Pengantar Sains Data,lecture,Mon,16,F11.4,20
+COA,CIS62105,Pengantar Sains Data,lecture,Mon,14,F11.4,37
+COA,CIS62105,Pengantar Sains Data,lecture,Thu,10,F3.16,37
+COA,CIS62105,Pengantar Sains Data,lecture,Fri,14,F4.14,63
+COA,CIS62105,Pengantar Sains Data,lecture,Tue,17,F4.13,63
+COA,CIS62105,Pengantar Sains Data,lecture,Fri,8,F3.7a,63
+COA,CIS62105,Pengantar Sains Data,lecture,Fri,13,F3.15,63
+COA,CIS62105,Pengantar Sains Data,lecture,Tue,11,F3.6,80
+COA,CIS62105,Pengantar Sains Data,lecture,Tue,14,F4.5,80
+COA,CIS62105,Pengantar Sains Data,lecture,Wed,16,F3.9,87
+COA,CIS62105,Pengantar Sains Data,lecture,Wed,14,F3.10,87
+COA,CIS62105,Pengantar Sains Data,lecture,Wed,13,F2.8,92
+COA,CIS62105,Pengantar Sains Data,lecture,Thu,7,F4.4,92
+COA,CIS62105,Pengantar Sains Data,lecture,Mon,8,F4.5,97
+COA,CIS62105,Pengantar Sains Data,lecture,Tue,7,F3.4,97
+COA,CIS62105,Pengantar Sains Data,lecture,Fri,7,F3.7a,102
+COA,CIS62105,Pengantar Sains Data,lecture,Wed,9,F3.17,102
+COA,CIS62105,Pengantar Sains Data,lecture,Thu,8,F4.7,11
+COA,CIS62105,Pengantar Sains Data,lecture,Fri,15,F11.1,11
+COA,CIS62105,Pengantar Sains Data,lecture,Wed,17,F3.15,21
+COA,CIS62105,Pengantar Sains Data,lecture,Tue,15,F3.3,21
+COA,CIS62105,Pengantar Sains Data,lecture,Tue,14,F11.1,89
+COA,CIS62105,Pengantar Sains Data,lecture,Fri,9,F3.13,89
+COA,CIS61104,Pengantar Sistem informasi,lecture,Tue,7,F4.10,47
+COA,CIS61104,Pengantar Sistem informasi,lecture,Wed,14,F3.5b,47
+COA,CIS61104,Pengantar Sistem informasi,lecture,Tue,17,F3.17,108
+COA,CIS61104,Pengantar Sistem informasi,lecture,Fri,9,F3.5b,108
+COA,CIS61104,Pengantar Sistem informasi,lecture,Mon,8,F11.3,67
+COA,CIS61104,Pengantar Sistem informasi,lecture,Wed,11,F11.3,67
+COA,CIS61104,Pengantar Sistem informasi,lecture,Fri,14,F4.10,102
+COA,CIS61104,Pengantar Sistem informasi,lecture,Tue,8,F2.8,102
+COA,CIS61110,Pengembangan Aplikasi Mobile,lecture,Mon,17,F11.4,4
+COA,CIS61110,Pengembangan Aplikasi Mobile,lecture,Wed,7,F3.18,4
+COA,CIS61110,Pengembangan Aplikasi Mobile,lecture,Mon,13,F4.10,4
+COA,CIS61110,Pengembangan Aplikasi Mobile,lecture,Wed,14,F3.6,47
+COA,CIS61110,Pengembangan Aplikasi Mobile,lecture,Thu,14,F3.2,47
+COA,CIS61110,Pengembangan Aplikasi Mobile,lecture,Fri,17,F3.8,47
+COA,CIS61110,Pengembangan Aplikasi Mobile,lecture,Mon,16,F2.4,31
+COA,CIS61110,Pengembangan Aplikasi Mobile,lecture,Wed,8,F3.12,31
+COA,CIS61110,Pengembangan Aplikasi Mobile,lecture,Fri,7,F11.3,31
+COA,CIS61110,Pengembangan Aplikasi Mobile,lecture,Fri,14,F3.12,60
+COA,CIS61110,Pengembangan Aplikasi Mobile,lecture,Tue,13,F4.4,60
+COA,CIS61110,Pengembangan Aplikasi Mobile,lecture,Thu,11,F3.8,60
+COA,CIS61110,Pengembangan Aplikasi Mobile,lecture,Fri,7,F4.4,75
+COA,CIS61110,Pengembangan Aplikasi Mobile,lecture,Wed,7,F4.13,75
+COA,CIS61110,Pengembangan Aplikasi Mobile,lecture,Thu,15,F4.3,75
+COA,CIT62012,Pengembangan Aplikasi Mobile,lecture,Tue,16,F2.5,16
+COA,CIT62012,Pengembangan Aplikasi Mobile,lecture,Wed,9,F3.7a,16
+COA,CIT62012,Pengembangan Aplikasi Mobile,lecture,Wed,9,F3.11,16
+COA,CIT62012,Pengembangan Aplikasi Mobile,practicum,Tue,14,57,Asprak
+COA,CIT62012,Pengembangan Aplikasi Mobile,lecture,Mon,10,F4.10,47
+COA,CIT62012,Pengembangan Aplikasi Mobile,lecture,Fri,10,F3.12,47
+COA,CIT62012,Pengembangan Aplikasi Mobile,lecture,Fri,14,F2.2,47
+COA,CIT62012,Pengembangan Aplikasi Mobile,practicum,Mon,11,39,Asprak
+COA,CIT62012,Pengembangan Aplikasi Mobile,lecture,Mon,7,F4.7,20
+COA,CIT62012,Pengembangan Aplikasi Mobile,lecture,Fri,14,F2.9,20
+COA,CIT62012,Pengembangan Aplikasi Mobile,lecture,Mon,11,F2.2,20
+COA,CIT62012,Pengembangan Aplikasi Mobile,practicum,Wed,11,105,Asprak
+COA,CIT62012,Pengembangan Aplikasi Mobile,lecture,Thu,8,F4.6,31
+COA,CIT62012,Pengembangan Aplikasi Mobile,lecture,Wed,15,F2.1,31
+COA,CIT62012,Pengembangan Aplikasi Mobile,lecture,Wed,8,F3.10,31
+COA,CIT62012,Pengembangan Aplikasi Mobile,practicum,Fri,8,42,Asprak
+COA,CIT62012,Pengembangan Aplikasi Mobile,lecture,Thu,15,F3.8,60
+COA,CIT62012,Pengembangan Aplikasi Mobile,lecture,Mon,11,F11.1,60
+COA,CIT62012,Pengembangan Aplikasi Mobile,lecture,Tue,13,F3.10,60
+COA,CIT62012,Pengembangan Aplikasi Mobile,practicum,Thu,17,79,Asprak
+COA,CIT62012,Pengembangan Aplikasi Mobile,lecture,Wed,9,F3.1,70
+COA,CIT62012,Pengembangan Aplikasi Mobile,lecture,Mon,14,F4.5,70
+COA,CIT62012,Pengembangan Aplikasi Mobile,lecture,Mon,17,F2.5,70
+COA,CIT62012,Pengembangan Aplikasi Mobile,practicum,Wed,8,32,Asprak
+COA,CIT62012,Pengembangan Aplikasi Mobile,lecture,Mon,16,F3.18,75
+COA,CIT62012,Pengembangan Aplikasi Mobile,lecture,Mon,11,F4.10,75
+COA,CIT62012,Pengembangan Aplikasi Mobile,lecture,Fri,15,F2.4,75
+COA,CIT62012,Pengembangan Aplikasi Mobile,practicum,Wed,11,82,Asprak
+COA,CIT62012,Pengembangan Aplikasi Mobile,lecture,Fri,10,F2.6,22
+COA,CIT62012,Pengembangan Aplikasi Mobile,lecture,Tue,13,F3.18,22
+COA,CIT62012,Pengembangan Aplikasi Mobile,lecture,Fri,8,F4.12,22
+COA,CIT62012,Pengembangan Aplikasi Mobile,practicum,Tue,14,67,Asprak
+COA,CIT62012,Pengembangan Aplikasi Mobile,lecture,Thu,11,F2.5,96
+COA,CIT62012,Pengembangan Aplikasi Mobile,lecture,Thu,7,F2.8,96
+COA,CIT62012,Pengembangan Aplikasi Mobile,lecture,Tue,13,F4.2,96
+COA,CIT62012,Pengembangan Aplikasi Mobile,practicum,Fri,10,2,Asprak
+COA,CIS62114,Pengembangan Aplikasi Mobile Lanjut,lecture,Fri,8,F3.2,16
+COA,CIS62114,Pengembangan Aplikasi Mobile Lanjut,lecture,Thu,7,F3.12,16
+COA,CIS62114,Pengembangan Aplikasi Mobile Lanjut,lecture,Thu,10,F3.7b,16
+COA,CIS62114,Pengembangan Aplikasi Mobile Lanjut,lecture,Fri,17,F4.14,60
+COA,CIS62114,Pengembangan Aplikasi Mobile Lanjut,lecture,Tue,8,F3.1,60
+COA,CIS62114,Pengembangan Aplikasi Mobile Lanjut,lecture,Fri,9,F3.15,60
+COA,CIS62114,Pengembangan Aplikasi Mobile Lanjut,lecture,Wed,7,F4.11,47
+COA,CIS62114,Pengembangan Aplikasi Mobile Lanjut,lecture,Tue,11,F3.11,47
+COA,CIS62114,Pengembangan Aplikasi Mobile Lanjut,lecture,Wed,16,F2.1,47
+COA,CIS62114,Pengembangan Aplikasi Mobile Lanjut,lecture,Thu,17,F11.1,70
+COA,CIS62114,Pengembangan Aplikasi Mobile Lanjut,lecture,Thu,17,F3.13,70
+COA,CIS62114,Pengembangan Aplikasi Mobile Lanjut,lecture,Thu,8,F4.10,70
+COA,CIT60052,Pengembangan Aplikasi Mobile Terapan,lecture,Fri,8,F3.13,16
+COA,CIT60052,Pengembangan Aplikasi Mobile Terapan,lecture,Fri,15,F3.4,16
+COA,CIT60052,Pengembangan Aplikasi Mobile Terapan,lecture,Thu,9,F2.8,16
+COA,CIT60052,Pengembangan Aplikasi Mobile Terapan,lecture,Thu,15,F4.4,20
+COA,CIT60052,Pengembangan Aplikasi Mobile Terapan,lecture,Tue,17,F2.1,20
+COA,CIT60052,Pengembangan Aplikasi Mobile Terapan,lecture,Fri,16,F4.10,20
+COA,CIT60052,Pengembangan Aplikasi Mobile Terapan,lecture,Thu,9,F2.4,47
+COA,CIT60052,Pengembangan Aplikasi Mobile Terapan,lecture,Thu,10,F3.3,47
+COA,CIT60052,Pengembangan Aplikasi Mobile Terapan,lecture,Mon,8,F3.5b,47
+COA,CIS60102,Pengembangan Aplikasi Multiplatform,lecture,Thu,17,F11.3,16
+COA,CIS60102,Pengembangan Aplikasi Multiplatform,lecture,Wed,17,F4.4,16
+COA,CIS60102,Pengembangan Aplikasi Multiplatform,lecture,Thu,16,F4.14,47
+COA,CIS60102,Pengembangan Aplikasi Multiplatform,lecture,Wed,11,F3.4,47
+COA,CIS60102,Pengembangan Aplikasi Multiplatform,lecture,Thu,10,F3.13,1
+COA,CIS60102,Pengembangan Aplikasi Multiplatform,lecture,Tue,15,F4.4,1
+COA,CIS60102,Pengembangan Aplikasi Multiplatform,lecture,Mon,15,F4.3,70
+COA,CIS60102,Pengembangan Aplikasi Multiplatform,lecture,Wed,13,F3.3,70
+COA,CIE61215,Pengembangan Aplikasi Peranti Bergerak,lecture,Fri,9,F3.7b,47
+COA,CIE61215,Pengembangan Aplikasi Peranti Bergerak,lecture,Thu,11,F4.4,47
+COA,CIE61215,Pengembangan Aplikasi Peranti Bergerak,lecture,Thu,9,F4.9,47
+COA,CIT61006,Pengembangan Aplikasi Web,lecture,Tue,11,F2.2,4
+COA,CIT61006,Pengembangan Aplikasi Web,lecture,Mon,8,F2.9,4
+COA,CIT61006,Pengembangan Aplikasi Web,lecture,Thu,8,F3.5a,4
+COA,CIT61006,Pengembangan Aplikasi Web,practicum,Tue,11,26,Asprak
+COA,CIT61006,Pengembangan Aplikasi Web,lecture,Wed,15,F4.3,47
+COA,CIT61006,Pengembangan Aplikasi Web,lecture,Mon,15,F2.1,47
+COA,CIT61006,Pengembangan Aplikasi Web,lecture,Fri,15,F3.2,47
+COA,CIT61006,Pengembangan Aplikasi Web,practicum,Fri,8,46,Asprak
+COA,CIT61006,Pengembangan Aplikasi Web,lecture,Thu,8,F3.12,105
+COA,CIT61006,Pengembangan Aplikasi Web,lecture,Fri,17,F3.17,105
+COA,CIT61006,Pengembangan Aplikasi Web,lecture,Mon,15,F11.4,105
+COA,CIT61006,Pengembangan Aplikasi Web,practicum,Fri,8,67,Asprak
+COA,CIT61006,Pengembangan Aplikasi Web,lecture,Mon,8,F4.13,31
+COA,CIT61006,Pengembangan Aplikasi Web,lecture,Thu,10,F3.10,31
+COA,CIT61006,Pengembangan Aplikasi Web,lecture,Fri,10,F2.2,31
+COA,CIT61006,Pengembangan Aplikasi Web,practicum,Fri,16,48,Asprak
+COA,CIT61006,Pengembangan Aplikasi Web,lecture,Thu,8,F3.18,60
+COA,CIT61006,Pengembangan Aplikasi Web,lecture,Tue,9,F4.3,60
+COA,CIT61006,Pengembangan Aplikasi Web,lecture,Mon,14,F3.2,60
+COA,CIT61006,Pengembangan Aplikasi Web,practicum,Wed,8,68,Asprak
+COA,CIT61006,Pengembangan Aplikasi Web,lecture,Fri,13,F4.14,75
+COA,CIT61006,Pengembangan Aplikasi Web,lecture,Wed,17,F2.2,75
+COA,CIT61006,Pengembangan Aplikasi Web,lecture,Wed,17,F4.3,75
+COA,CIT61006,Pengembangan Aplikasi Web,practicum,Mon,8,17,Asprak
+COA,CIT61006,Pengembangan Aplikasi Web,lecture,Thu,15,F3.12,82
+COA,CIT61006,Pengembangan Aplikasi Web,lecture,Tue,15,F11.1,82
+COA,CIT61006,Pengembangan Aplikasi Web,lecture,Wed,9,F3.7a,82
+COA,CIT61006,Pengembangan Aplikasi Web,practicum,Fri,16,23,Asprak
+COA,CIT61006,Pengembangan Aplikasi Web,lecture,Tue,7,F3.18,103
+COA,CIT61006,Pengembangan Aplikasi Web,lecture,Mon,13,F2.1,103
+COA,CIT61006,Pengembangan Aplikasi Web,lecture,Thu,9,F3.5a,103
+COA,CIT61006,Pengembangan Aplikasi Web,practicum,Mon,10,69,Asprak
+COA,CIT61006,Pengembangan Aplikasi Web,lecture,Mon,10,F3.17,62
+COA,CIT61006,Pengembangan Aplikasi Web,lecture,Mon,15,F4.12,62
+COA,CIT61006,Pengembangan Aplikasi Web,lecture,Thu,14,F3.18,62
+COA,CIT61006,Pengembangan Aplikasi Web,practicum,Wed,15,16,Asprak
+COA,CIT60039,Pengembangan Aplikasi Web Lanjut,lecture,Wed,7,F2.5,4
+COA,CIT60039,Pengembangan Aplikasi Web Lanjut,lecture,Fri,7,F4.2,4
+COA,CIT60039,Pengembangan Aplikasi Web Lanjut,lecture,Wed,11,F4.9,4
+COA,CIT60039,Pengembangan Aplikasi Web Lanjut,lecture,Wed,16,F3.5b,16
+COA,CIT60039,Pengembangan Aplikasi Web Lanjut,lecture,Wed,8,F3.13,16
+COA,CIT60039,Pengembangan Aplikasi Web Lanjut,lecture,Fri,13,F2.8,16
+COA,CIT60039,Pengembangan Aplikasi Web Lanjut,lecture,Mon,15,F3.15,47
+COA,CIT60039,Pengembangan Aplikasi Web Lanjut,lecture,Fri,17,F3.9,47
+COA,CIT60039,Pengembangan Aplikasi Web Lanjut,lecture,Fri,8,F3.7b,47
+COA,CIT60039,Pengembangan Aplikasi Web Lanjut,lecture,Tue,10,F4.3,1
+COA,CIT60039,Pengembangan Aplikasi Web Lanjut,lecture,Thu,14,F4.6,1
+COA,CIT60039,Pengembangan Aplikasi Web Lanjut,lecture,Tue,8,F2.2,1
+COA,CIT60039,Pengembangan Aplikasi Web Lanjut,lecture,Fri,15,F4.2,31
+COA,CIT60039,Pengembangan Aplikasi Web Lanjut,lecture,Tue,13,F2.4,31
+COA,CIT60039,Pengembangan Aplikasi Web Lanjut,lecture,Tue,7,F2.8,31
+COA,CIT60039,Pengembangan Aplikasi Web Lanjut,lecture,Mon,13,F3.6,75
+COA,CIT60039,Pengembangan Aplikasi Web Lanjut,lecture,Mon,9,F3.15,75
+COA,CIT60039,Pengembangan Aplikasi Web Lanjut,lecture,Thu,7,F4.11,75
+COA,CIS61127,Pengembangan Berorientasi Penggunaan Ulang,lecture,Thu,10,F11.1,4
+COA,CIS61127,Pengembangan Berorientasi Penggunaan Ulang,lecture,Wed,13,F2.6,4
+COA,CIS61124,Pengembangan Gim,lecture,Tue,10,F2.9,47
+COA,CIS61124,Pengembangan Gim,lecture,Tue,14,F3.16,47
+COA,CIS61124,Pengembangan Gim,lecture,Wed,13,F4.5,103
+COA,CIS61124,Pengembangan Gim,lecture,Tue,11,F4.14,103
+COA,CIT60053,Pengembangan Gim,lecture,Mon,7,F3.5b,16
+COA,CIT60053,Pengembangan Gim,lecture,Fri,14,F3.15,16
+COA,CIT60053,Pengembangan Gim,lecture,Fri,14,F3.3,16
+COA,CIE62104,Pengembangan Kurikulum,lecture,Tue,15,F4.11,105
+COA,CIE62104,Pengembangan Kurikulum,lecture,Fri,14,F4.3,105
+COA,CIE62104,Pengembangan Kurikulum,lecture,Wed,14,F4.9,105
+COA,CIE62104,Pengembangan Kurikulum,lecture,Mon,17,F3.15,105
+COA,CIE62104,Pengembangan Kurikulum,lecture,Tue,15,F3.3,105
+COA,CIE62104,Pengembangan Kurikulum,lecture,Fri,7,F3.16,105
+COA,CIE61113,Pengembangan Program Pelatihan Teknologi Informasi,lecture,Thu,15,F4.9,59
+COA,CIE61113,Pengembangan Program Pelatihan Teknologi Informasi,lecture,Wed,16,F4.9,59
+COA,CIE61113,Pengembangan Program Pelatihan Teknologi Informasi,lecture,Mon,11,F3.8,59
+COA,CIE61113,Pengembangan Program Pelatihan Teknologi Informasi,lecture,Thu,9,F2.9,47
+COA,CIE61113,Pengembangan Program Pelatihan Teknologi Informasi,lecture,Wed,9,F11.1,47
+COA,CIE61113,Pengembangan Program Pelatihan Teknologi Informasi,lecture,Fri,15,F11.1,47
+COA,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,lecture,Fri,7,F3.3,16
+COA,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,lecture,Thu,9,F4.2,16
+COA,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,practicum,Tue,9,65,Asprak
+COA,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,lecture,Fri,7,F2.8,47
+COA,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,lecture,Fri,7,F3.18,47
+COA,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,practicum,Wed,7,20,Asprak
+COA,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,lecture,Fri,13,F2.9,1
+COA,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,lecture,Tue,16,F3.17,1
+COA,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,practicum,Fri,13,64,Asprak
+COA,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,lecture,Wed,17,F3.16,6
+COA,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,lecture,Wed,16,F4.2,6
+COA,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,practicum,Thu,16,103,Asprak
+COA,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,lecture,Fri,10,F4.10,40
+COA,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,lecture,Thu,14,F4.10,40
+COA,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,practicum,Tue,15,54,Asprak
+COA,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,lecture,Wed,13,F4.5,60
+COA,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,lecture,Fri,17,F3.4,60
+COA,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,practicum,Thu,14,12,Asprak
+COA,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,lecture,Mon,7,F4.5,67
+COA,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,lecture,Tue,14,F4.7,67
+COA,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,practicum,Wed,10,61,Asprak
+COA,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,lecture,Wed,16,F4.9,76
+COA,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,lecture,Wed,14,F2.9,76
+COA,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,practicum,Mon,13,3,Asprak
+COA,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,lecture,Wed,9,F4.11,22
+COA,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,lecture,Wed,17,F3.17,22
+COA,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,practicum,Fri,15,81,Asprak
+COA,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,lecture,Mon,11,F3.12,62
+COA,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,lecture,Fri,17,F3.5b,62
+COA,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,practicum,Tue,10,69,Asprak
+COA,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,lecture,Tue,11,F3.7a,62
+COA,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,lecture,Tue,15,F3.11,62
+COA,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,practicum,Tue,13,44,Asprak
+COA,CIE61111,Pengenalan Lapangan Persekolahan 1,lecture,Wed,13,F3.9,103
+COA,CIE61111,Pengenalan Lapangan Persekolahan 1,lecture,Mon,11,F2.6,39
+COA,CIE61111,Pengenalan Lapangan Persekolahan 1,lecture,Wed,8,F3.3,39
+COA,CIE61111,Pengenalan Lapangan Persekolahan 1,lecture,Mon,8,F4.14,59
+COA,CIE61112,Pengenalan Lapangan Persekolahan 2,lecture,Tue,10,F2.1,103
+COA,CIE61112,Pengenalan Lapangan Persekolahan 2,lecture,Wed,14,F3.7b,103
+COA,CIE61112,Pengenalan Lapangan Persekolahan 2,lecture,Mon,16,F4.3,103
+COA,CIE61112,Pengenalan Lapangan Persekolahan 2,lecture,Tue,8,F4.4,39
+COA,CIE61112,Pengenalan Lapangan Persekolahan 2,lecture,Thu,10,F2.8,39
+COA,CIE61112,Pengenalan Lapangan Persekolahan 2,lecture,Tue,8,F3.11,39
+COA,CIE61112,Pengenalan Lapangan Persekolahan 2,lecture,Wed,9,F11.4,39
+COA,CIE61112,Pengenalan Lapangan Persekolahan 2,lecture,Fri,8,F3.14,39
+COA,CIE61112,Pengenalan Lapangan Persekolahan 2,lecture,Mon,7,F3.16,39
+COA,CIE61112,Pengenalan Lapangan Persekolahan 2,lecture,Wed,9,F2.6,59
+COA,CIE61112,Pengenalan Lapangan Persekolahan 2,lecture,Wed,13,F3.12,59
+COA,CIE61112,Pengenalan Lapangan Persekolahan 2,lecture,Mon,15,F2.8,59
+COA,CIS62109,Pengujian dan Evaluasi Sistem Informasi,lecture,Tue,17,F4.10,4
+COA,CIS62109,Pengujian dan Evaluasi Sistem Informasi,lecture,Thu,15,F3.1,4
+COA,CIS62109,Pengujian dan Evaluasi Sistem Informasi,lecture,Wed,8,F4.6,67
+COA,CIS62109,Pengujian dan Evaluasi Sistem Informasi,lecture,Wed,17,F2.6,67
+COA,CIE61108,Penilaian Hasil Belajar,lecture,Mon,13,F11.3,100
+COA,CIE61108,Penilaian Hasil Belajar,lecture,Wed,14,F4.6,100
+COA,CIE61108,Penilaian Hasil Belajar,lecture,Fri,9,F3.8,100
+COA,CIE62201,Perancangan Antarmuka Pengguna,lecture,Wed,8,F11.1,22
+COA,CIE62201,Perancangan Antarmuka Pengguna,lecture,Tue,10,F4.12,22
+COA,CIE62201,Perancangan Antarmuka Pengguna,practicum,Tue,10,87,Asprak
+COA,CIE62201,Perancangan Antarmuka Pengguna,lecture,Tue,14,F4.2,45
+COA,CIE62201,Perancangan Antarmuka Pengguna,lecture,Fri,14,F4.12,45
+COA,CIE62201,Perancangan Antarmuka Pengguna,practicum,Wed,11,47,Asprak
+COA,CIE62201,Perancangan Antarmuka Pengguna,lecture,Mon,16,F4.10,47
+COA,CIE62201,Perancangan Antarmuka Pengguna,lecture,Tue,7,F2.9,47
+COA,CIE62201,Perancangan Antarmuka Pengguna,practicum,Wed,11,54,Asprak
+COA,CIE62201,Perancangan Antarmuka Pengguna,lecture,Thu,16,F3.3,4
+COA,CIE62201,Perancangan Antarmuka Pengguna,lecture,Mon,13,F3.7a,4
+COA,CIE62201,Perancangan Antarmuka Pengguna,practicum,Thu,17,75,Asprak
+COA,CIE62201,Perancangan Antarmuka Pengguna,lecture,Mon,16,F4.9,16
+COA,CIE62201,Perancangan Antarmuka Pengguna,lecture,Fri,7,F3.13,16
+COA,CIE62201,Perancangan Antarmuka Pengguna,practicum,Mon,17,17,Asprak
+COA,CIE62201,Perancangan Antarmuka Pengguna,lecture,Mon,15,F4.6,60
+COA,CIE62201,Perancangan Antarmuka Pengguna,lecture,Thu,7,F4.12,60
+COA,CIE62201,Perancangan Antarmuka Pengguna,practicum,Wed,11,33,Asprak
+COA,CIE62201,Perancangan Antarmuka Pengguna,lecture,Tue,17,F3.14,62
+COA,CIE62201,Perancangan Antarmuka Pengguna,lecture,Fri,13,F3.3,62
+COA,CIE62201,Perancangan Antarmuka Pengguna,practicum,Wed,15,94,Asprak
+COA,CIE62201,Perancangan Antarmuka Pengguna,lecture,Wed,16,F3.4,62
+COA,CIE62201,Perancangan Antarmuka Pengguna,lecture,Mon,16,F2.6,62
+COA,CIE62201,Perancangan Antarmuka Pengguna,practicum,Wed,11,52,Asprak
+COA,CIE62201,Perancangan Antarmuka Pengguna,lecture,Fri,7,F2.5,12
+COA,CIE62201,Perancangan Antarmuka Pengguna,lecture,Tue,14,F4.5,12
+COA,CIE62201,Perancangan Antarmuka Pengguna,practicum,Thu,11,54,Asprak
+COA,CIE62201,Perancangan Antarmuka Pengguna,lecture,Tue,14,F2.5,98
+COA,CIE62201,Perancangan Antarmuka Pengguna,lecture,Fri,17,F3.16,98
+COA,CIE62201,Perancangan Antarmuka Pengguna,practicum,Wed,16,1,Asprak
+COA,CIE61110,Perancangan Pembelajaran,lecture,Mon,11,F3.10,39
+COA,CIE61110,Perancangan Pembelajaran,lecture,Wed,16,F4.4,39
+COA,CIE61110,Perancangan Pembelajaran,lecture,Tue,9,F3.5b,39
+COA,CIE61110,Perancangan Pembelajaran,lecture,Fri,16,F2.9,39
+COA,CIE61110,Perancangan Pembelajaran,lecture,Thu,9,F4.9,39
+COA,CIE61110,Perancangan Pembelajaran,lecture,Wed,15,F3.10,39
+COA,CIE61110,Perancangan Pembelajaran,lecture,Tue,17,F2.8,100
+COA,CIE61110,Perancangan Pembelajaran,lecture,Wed,10,F4.3,100
+COA,CIE61110,Perancangan Pembelajaran,lecture,Fri,14,F4.11,100
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Thu,17,F4.14,22
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Mon,11,F3.3,22
+COA,CSD60711,Perancangan Pengalaman Pengguna,practicum,Tue,10,103,Asprak
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Mon,17,F3.5a,45
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Mon,15,F3.15,45
+COA,CSD60711,Perancangan Pengalaman Pengguna,practicum,Tue,9,30,Asprak
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Fri,16,F4.4,47
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Fri,10,F3.2,47
+COA,CSD60711,Perancangan Pengalaman Pengguna,practicum,Wed,17,11,Asprak
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Mon,7,F3.7b,4
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Wed,15,F2.8,4
+COA,CSD60711,Perancangan Pengalaman Pengguna,practicum,Thu,17,83,Asprak
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Thu,16,F3.9,16
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Wed,13,F2.2,16
+COA,CSD60711,Perancangan Pengalaman Pengguna,practicum,Mon,7,67,Asprak
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Mon,7,F4.9,62
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Fri,14,F4.4,62
+COA,CSD60711,Perancangan Pengalaman Pengguna,practicum,Mon,8,58,Asprak
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Thu,13,F3.13,12
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Wed,16,F3.7a,12
+COA,CSD60711,Perancangan Pengalaman Pengguna,practicum,Fri,7,16,Asprak
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Tue,7,F3.1,47
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Thu,13,F4.12,47
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Thu,17,F4.5,47
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Tue,9,F3.11,4
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Thu,14,F3.8,4
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Fri,14,F3.4,4
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Fri,7,F3.4,60
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Fri,14,F11.4,60
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Fri,17,F4.2,60
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Mon,16,F2.6,62
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Fri,8,F4.9,62
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Mon,16,F4.12,62
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Mon,13,F3.11,87
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Wed,10,F2.9,87
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Wed,8,F2.1,87
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Mon,8,F3.18,22
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Mon,16,F4.14,22
+COA,CSD60711,Perancangan Pengalaman Pengguna,practicum,Wed,9,33,Asprak
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Fri,14,F3.5b,45
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Fri,7,F4.13,45
+COA,CSD60711,Perancangan Pengalaman Pengguna,practicum,Tue,15,72,Asprak
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Thu,7,F3.9,47
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Wed,11,F3.15,47
+COA,CSD60711,Perancangan Pengalaman Pengguna,practicum,Wed,10,66,Asprak
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Tue,14,F3.14,4
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Wed,8,F3.18,4
+COA,CSD60711,Perancangan Pengalaman Pengguna,practicum,Thu,7,91,Asprak
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Thu,9,F2.5,16
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Tue,10,F4.12,16
+COA,CSD60711,Perancangan Pengalaman Pengguna,practicum,Tue,11,50,Asprak
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Thu,10,F11.1,55
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Thu,10,F2.4,55
+COA,CSD60711,Perancangan Pengalaman Pengguna,practicum,Tue,14,61,Asprak
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Mon,8,F2.6,60
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Thu,14,F3.9,60
+COA,CSD60711,Perancangan Pengalaman Pengguna,practicum,Tue,7,81,Asprak
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Mon,13,F3.17,62
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Thu,13,F3.12,62
+COA,CSD60711,Perancangan Pengalaman Pengguna,practicum,Fri,14,46,Asprak
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Tue,10,F3.7b,12
+COA,CSD60711,Perancangan Pengalaman Pengguna,lecture,Wed,13,F4.12,12
+COA,CSD60711,Perancangan Pengalaman Pengguna,practicum,Mon,13,8,Asprak
+COA,CIS61120,Perbaikan Proses Bisnis,lecture,Wed,13,F3.7b,6
+COA,CIS61120,Perbaikan Proses Bisnis,lecture,Tue,7,F4.6,6
+COA,CIS61120,Perbaikan Proses Bisnis,lecture,Wed,8,F4.12,108
+COA,CIS61120,Perbaikan Proses Bisnis,lecture,Mon,7,F3.13,108
+COA,CIS62110,Perencanaan Strategis Sistem Informasi,lecture,Fri,14,F11.1,6
+COA,CIS62110,Perencanaan Strategis Sistem Informasi,lecture,Thu,15,F3.5a,6
+COA,CIS62110,Perencanaan Strategis Sistem Informasi,lecture,Fri,17,F2.8,6
+COA,CIS62110,Perencanaan Strategis Sistem Informasi,lecture,Thu,14,F3.8,47
+COA,CIS62110,Perencanaan Strategis Sistem Informasi,lecture,Tue,9,F3.9,47
+COA,CIS62110,Perencanaan Strategis Sistem Informasi,lecture,Wed,16,F4.11,47
+COA,CIE61101,Perkembangan Peserta Didik,lecture,Thu,13,F3.14,39
+COA,CIE61101,Perkembangan Peserta Didik,lecture,Mon,7,F3.12,39
+COA,CIE61101,Perkembangan Peserta Didik,lecture,Thu,15,F3.13,39
+COA,CIE61101,Perkembangan Peserta Didik,lecture,Wed,9,F3.17,39
+COA,CIE61101,Perkembangan Peserta Didik,lecture,Tue,8,F11.3,39
+COA,CIE61101,Perkembangan Peserta Didik,lecture,Wed,13,F4.11,39
+COA,CIE61101,Perkembangan Peserta Didik,lecture,Mon,15,F3.17,59
+COA,CIE61101,Perkembangan Peserta Didik,lecture,Mon,11,F11.1,59
+COA,CIE61101,Perkembangan Peserta Didik,lecture,Tue,17,F3.2,59
+COA,CIS60101,Perkembangan dan Tren Teknologi Digital,lecture,Thu,13,F3.9,94
+COA,CIS60101,Perkembangan dan Tren Teknologi Digital,lecture,Thu,15,F3.15,94
+COA,CIS60101,Perkembangan dan Tren Teknologi Digital,lecture,Mon,9,F2.9,47
+COA,CIS60101,Perkembangan dan Tren Teknologi Digital,lecture,Thu,14,F3.14,47
+COA,CIS60101,Perkembangan dan Tren Teknologi Digital,lecture,Mon,13,F4.7,108
+COA,CIS60101,Perkembangan dan Tren Teknologi Digital,lecture,Thu,14,F11.4,108
+COA,CIS60101,Perkembangan dan Tren Teknologi Digital,lecture,Mon,10,F2.6,16
+COA,CIS60101,Perkembangan dan Tren Teknologi Digital,lecture,Tue,17,F3.1,16
+COA,CIS60101,Perkembangan dan Tren Teknologi Digital,lecture,Mon,16,F3.15,21
+COA,CIS60101,Perkembangan dan Tren Teknologi Digital,lecture,Thu,10,F3.18,21
+COA,CIS60101,Perkembangan dan Tren Teknologi Digital,lecture,Fri,15,F2.9,40
+COA,CIS60101,Perkembangan dan Tren Teknologi Digital,lecture,Wed,15,F3.14,40
+COA,CIS60101,Perkembangan dan Tren Teknologi Digital,lecture,Thu,8,F4.3,40
+COA,CIS60101,Perkembangan dan Tren Teknologi Digital,lecture,Mon,13,F2.1,40
+COA,CIS60101,Perkembangan dan Tren Teknologi Digital,lecture,Fri,17,F4.11,87
+COA,CIS60101,Perkembangan dan Tren Teknologi Digital,lecture,Wed,14,F3.7b,87
+COA,CIS60101,Perkembangan dan Tren Teknologi Digital,lecture,Mon,17,F3.1,12
+COA,CIS60101,Perkembangan dan Tren Teknologi Digital,lecture,Tue,16,F4.13,12
+COA,CIS62113,Pola-Pola Perancangan,lecture,Mon,15,F4.10,16
+COA,CIS62113,Pola-Pola Perancangan,lecture,Tue,10,F3.4,16
+COA,CIS62113,Pola-Pola Perancangan,lecture,Thu,13,F2.1,4
+COA,CIS62113,Pola-Pola Perancangan,lecture,Thu,16,F3.8,4
+COA,CIS62113,Pola-Pola Perancangan,lecture,Wed,8,F4.14,37
+COA,CIS62113,Pola-Pola Perancangan,lecture,Thu,7,F4.13,37
+COA,CIS62113,Pola-Pola Perancangan,lecture,Tue,9,F3.14,76
+COA,CIS62113,Pola-Pola Perancangan,lecture,Thu,14,F4.2,76
+COA,CSD60712,Probabilitas dan Statistika,lecture,Tue,10,F4.9,92
+COA,CSD60712,Probabilitas dan Statistika,lecture,Wed,11,F4.5,92
+COA,CSD60712,Probabilitas dan Statistika,lecture,Tue,17,F2.2,92
+COA,CSD60712,Probabilitas dan Statistika,lecture,Tue,7,F3.14,100
+COA,CSD60712,Probabilitas dan Statistika,lecture,Wed,7,F3.5a,100
+COA,CSD60712,Probabilitas dan Statistika,lecture,Thu,10,F2.9,100
+COA,CSD60712,Probabilitas dan Statistika,lecture,Thu,9,F11.4,107
+COA,CSD60712,Probabilitas dan Statistika,lecture,Thu,11,F4.11,107
+COA,CSD60712,Probabilitas dan Statistika,lecture,Wed,13,F4.4,107
+COA,CSD60712,Probabilitas dan Statistika,lecture,Mon,11,F3.13,11
+COA,CSD60712,Probabilitas dan Statistika,lecture,Mon,8,F3.3,11
+COA,CSD60712,Probabilitas dan Statistika,lecture,Thu,14,F4.11,11
+COA,CSD60712,Probabilitas dan Statistika,lecture,Fri,8,F2.6,16
+COA,CSD60712,Probabilitas dan Statistika,lecture,Wed,16,F3.16,16
+COA,CSD60712,Probabilitas dan Statistika,lecture,Tue,7,F4.3,16
+COA,CSD60712,Probabilitas dan Statistika,lecture,Fri,9,F2.5,77
+COA,CSD60712,Probabilitas dan Statistika,lecture,Wed,8,F3.6,77
+COA,CSD60712,Probabilitas dan Statistika,lecture,Tue,10,F3.8,77
+COA,CSD60712,Probabilitas dan Statistika,lecture,Thu,17,F2.6,83
+COA,CSD60712,Probabilitas dan Statistika,lecture,Mon,9,F3.4,83
+COA,CSD60712,Probabilitas dan Statistika,lecture,Mon,7,F3.1,83
+COA,CSD60712,Probabilitas dan Statistika,lecture,Mon,17,F3.12,83
+COA,CSD60712,Probabilitas dan Statistika,lecture,Wed,8,F4.13,83
+COA,CSD60712,Probabilitas dan Statistika,lecture,Wed,9,F4.10,83
+COA,CSD60712,Probabilitas dan Statistika,lecture,Fri,15,F3.12,87
+COA,CSD60712,Probabilitas dan Statistika,lecture,Wed,7,F4.6,87
+COA,CSD60712,Probabilitas dan Statistika,lecture,Thu,16,F2.2,87
+COA,CSD60712,Probabilitas dan Statistika,lecture,Wed,11,F2.9,100
+COA,CSD60712,Probabilitas dan Statistika,lecture,Wed,8,F11.3,100
+COA,CSD60712,Probabilitas dan Statistika,lecture,Wed,10,F2.8,100
+COA,CSD60712,Probabilitas dan Statistika,lecture,Wed,15,F3.12,92
+COA,CSD60712,Probabilitas dan Statistika,lecture,Wed,17,F4.7,92
+COA,CSD60712,Probabilitas dan Statistika,lecture,Tue,15,F4.10,92
+COA,CSD60712,Probabilitas dan Statistika,lecture,Mon,16,F4.4,107
+COA,CSD60712,Probabilitas dan Statistika,lecture,Mon,15,F4.10,107
+COA,CSD60712,Probabilitas dan Statistika,lecture,Tue,10,F2.5,107
+COA,CSD60712,Probabilitas dan Statistika,lecture,Mon,13,F4.14,11
+COA,CSD60712,Probabilitas dan Statistika,lecture,Wed,9,F3.5b,11
+COA,CSD60712,Probabilitas dan Statistika,lecture,Fri,15,F3.10,11
+COA,CSD60712,Probabilitas dan Statistika,lecture,Mon,13,F11.3,16
+COA,CSD60712,Probabilitas dan Statistika,lecture,Wed,8,F2.4,16
+COA,CSD60712,Probabilitas dan Statistika,lecture,Thu,13,F4.4,16
+COA,CSD60712,Probabilitas dan Statistika,lecture,Tue,9,F4.4,83
+COA,CSD60712,Probabilitas dan Statistika,lecture,Mon,16,F3.4,83
+COA,CSD60712,Probabilitas dan Statistika,lecture,Mon,10,F2.1,83
+COA,CSD60712,Probabilitas dan Statistika,lecture,Tue,9,F3.5b,93
+COA,CSD60712,Probabilitas dan Statistika,lecture,Wed,8,F2.1,93
+COA,CSD60712,Probabilitas dan Statistika,lecture,Mon,9,F2.2,93
+COA,CSD60712,Probabilitas dan Statistika,lecture,Mon,13,F4.12,100
+COA,CSD60712,Probabilitas dan Statistika,lecture,Thu,14,F3.9,100
+COA,CSD60712,Probabilitas dan Statistika,lecture,Fri,15,F4.7,100
+COA,CIS61118,Rekayasa Kebutuhan Sistem Informasi,lecture,Thu,11,F4.12,4
+COA,CIS61118,Rekayasa Kebutuhan Sistem Informasi,lecture,Tue,10,F11.1,4
+COA,CIS61108,Rekayasa Sistem Informasi,lecture,Fri,16,F2.5,4
+COA,CIS61108,Rekayasa Sistem Informasi,lecture,Thu,15,F3.3,4
+COA,CIS61108,Rekayasa Sistem Informasi,lecture,Tue,15,F3.5b,4
+COA,CIS61108,Rekayasa Sistem Informasi,lecture,Tue,9,F3.14,4
+COA,CIS61108,Rekayasa Sistem Informasi,practicum,Fri,7,12,Asprak
+COA,CIS61108,Rekayasa Sistem Informasi,lecture,Thu,7,F3.5a,47
+COA,CIS61108,Rekayasa Sistem Informasi,lecture,Wed,10,F4.2,47
+COA,CIS61108,Rekayasa Sistem Informasi,lecture,Mon,11,F4.14,47
+COA,CIS61108,Rekayasa Sistem Informasi,lecture,Mon,9,F3.9,47
+COA,CIS61108,Rekayasa Sistem Informasi,practicum,Mon,17,102,Asprak
+COA,CIS61108,Rekayasa Sistem Informasi,lecture,Wed,7,F4.13,67
+COA,CIS61108,Rekayasa Sistem Informasi,lecture,Thu,11,F3.6,67
+COA,CIS61108,Rekayasa Sistem Informasi,lecture,Fri,7,F3.17,67
+COA,CIS61108,Rekayasa Sistem Informasi,lecture,Wed,9,F3.5a,67
+COA,CIS61108,Rekayasa Sistem Informasi,practicum,Wed,14,95,Asprak
+COA,CIS61108,Rekayasa Sistem Informasi,lecture,Mon,17,F2.6,108
+COA,CIS61108,Rekayasa Sistem Informasi,lecture,Tue,8,F3.18,108
+COA,CIS61108,Rekayasa Sistem Informasi,lecture,Mon,9,F3.1,108
+COA,CIS61108,Rekayasa Sistem Informasi,lecture,Fri,17,F3.7b,108
+COA,CIS61108,Rekayasa Sistem Informasi,practicum,Wed,11,34,Asprak
+COA,CIS61113,Sistem Enterprise,lecture,Mon,16,F2.9,76
+COA,CIS61113,Sistem Enterprise,lecture,Thu,15,F4.4,76
+COA,CIS61113,Sistem Enterprise,lecture,Tue,10,F4.12,76
+COA,CIT60033,Sistem Forensik Digital,lecture,Tue,17,F3.18,94
+COA,CIT60033,Sistem Forensik Digital,lecture,Thu,14,F2.1,94
+COA,CIT60033,Sistem Forensik Digital,lecture,Wed,13,F2.9,94
+COA,CIT60033,Sistem Forensik Digital,lecture,Wed,7,F2.5,35
+COA,CIT60033,Sistem Forensik Digital,lecture,Thu,15,F2.6,35
+COA,CIT60033,Sistem Forensik Digital,lecture,Tue,10,F3.8,35
+COA,CIT60033,Sistem Forensik Digital,lecture,Wed,7,F11.3,41
+COA,CIT60033,Sistem Forensik Digital,lecture,Tue,8,F11.1,41
+COA,CIT60033,Sistem Forensik Digital,lecture,Fri,13,F2.6,41
+COA,CIT60033,Sistem Forensik Digital,lecture,Tue,8,F11.4,75
+COA,CIT60033,Sistem Forensik Digital,lecture,Tue,13,F4.14,75
+COA,CIT60033,Sistem Forensik Digital,lecture,Mon,9,F11.1,75
+COA,CIT60033,Sistem Forensik Digital,lecture,Mon,14,F3.11,83
+COA,CIT60033,Sistem Forensik Digital,lecture,Tue,15,F4.3,83
+COA,CIT60033,Sistem Forensik Digital,lecture,Thu,9,F3.5b,83
+COA,CIS60106,Sistem Informasi Berkelanjutan,lecture,Tue,11,F3.2,53
+COA,CIS60106,Sistem Informasi Berkelanjutan,lecture,Mon,10,F3.10,53
+COA,CIS60106,Sistem Informasi Berkelanjutan,lecture,Mon,8,F11.3,94
+COA,CIS60106,Sistem Informasi Berkelanjutan,lecture,Fri,16,F2.1,94
+COA,CIS60106,Sistem Informasi Berkelanjutan,lecture,Thu,7,F3.12,16
+COA,CIS60106,Sistem Informasi Berkelanjutan,lecture,Mon,10,F3.7a,16
+COA,CIS60106,Sistem Informasi Berkelanjutan,lecture,Tue,15,F4.11,16
+COA,CIS60106,Sistem Informasi Berkelanjutan,lecture,Thu,11,F4.9,16
+COA,CIS60106,Sistem Informasi Berkelanjutan,lecture,Mon,10,F3.8,108
+COA,CIS60106,Sistem Informasi Berkelanjutan,lecture,Fri,7,F3.5a,108
+COA,CSD60710,Sistem Informasi Geografis,lecture,Mon,13,F2.5,87
+COA,CSD60710,Sistem Informasi Geografis,lecture,Tue,9,F3.5b,87
+COA,CSD60710,Sistem Informasi Geografis,practicum,Mon,9,38,Asprak
+COA,CSD60710,Sistem Informasi Geografis,lecture,Thu,10,F4.9,11
+COA,CSD60710,Sistem Informasi Geografis,lecture,Wed,15,F4.13,11
+COA,CSD60710,Sistem Informasi Geografis,practicum,Mon,16,7,Asprak
+COA,CIS61111,Sistem Informasi berbasis Kecerdasan Buatan,lecture,Thu,11,F4.12,87
+COA,CIS61111,Sistem Informasi berbasis Kecerdasan Buatan,lecture,Mon,9,F4.2,87
+COA,CIS61111,Sistem Informasi berbasis Kecerdasan Buatan,lecture,Thu,17,F4.14,89
+COA,CIS61111,Sistem Informasi berbasis Kecerdasan Buatan,lecture,Tue,8,F2.1,89
+COA,CIS61111,Sistem Informasi berbasis Kecerdasan Buatan,lecture,Wed,11,F3.17,108
+COA,CIS61111,Sistem Informasi berbasis Kecerdasan Buatan,lecture,Mon,15,F3.18,108
+COA,CIT62010,Sistem Operasi,lecture,Tue,10,F2.9,94
+COA,CIT62010,Sistem Operasi,lecture,Tue,9,F3.5b,94
+COA,CIT62010,Sistem Operasi,lecture,Fri,10,F4.7,94
+COA,CIT62010,Sistem Operasi,lecture,Mon,8,F4.14,16
+COA,CIT62010,Sistem Operasi,lecture,Mon,13,F3.14,16
+COA,CIT62010,Sistem Operasi,lecture,Thu,8,F3.15,16
+COA,CIT62010,Sistem Operasi,lecture,Fri,16,F3.18,20
+COA,CIT62010,Sistem Operasi,lecture,Thu,7,F4.4,20
+COA,CIT62010,Sistem Operasi,lecture,Thu,8,F2.4,20
+COA,CIT62010,Sistem Operasi,lecture,Fri,8,F3.6,75
+COA,CIT62010,Sistem Operasi,lecture,Wed,16,F3.5b,75
+COA,CIT62010,Sistem Operasi,lecture,Thu,14,F11.3,75
+COA,CIT62010,Sistem Operasi,lecture,Tue,11,F3.9,75
+COA,CIT62010,Sistem Operasi,lecture,Wed,11,F2.4,75
+COA,CIT62010,Sistem Operasi,lecture,Wed,11,F2.6,75
+COA,CIT62010,Sistem Operasi,lecture,Fri,9,F4.5,79
+COA,CIT62010,Sistem Operasi,lecture,Thu,16,F3.5a,79
+COA,CIT62010,Sistem Operasi,lecture,Wed,17,F4.12,79
+COA,CIT62010,Sistem Operasi,lecture,Fri,10,F2.1,58
+COA,CIT62010,Sistem Operasi,lecture,Thu,8,F4.11,58
+COA,CIT62010,Sistem Operasi,lecture,Thu,13,F3.8,58
+COA,CIT62010,Sistem Operasi,lecture,Thu,10,F4.4,65
+COA,CIT62010,Sistem Operasi,lecture,Thu,14,F2.5,65
+COA,CIT62010,Sistem Operasi,lecture,Fri,16,F4.14,65
+COA,CIT62010,Sistem Operasi,lecture,Wed,15,F4.7,103
+COA,CIT62010,Sistem Operasi,lecture,Mon,11,F3.6,103
+COA,CIT62010,Sistem Operasi,lecture,Fri,9,F11.1,103
+COA,CIE62307,"Sistem Pembelajaran Berbasis Multimedia, Gim, dan Peranti Bergerak",lecture,Fri,7,F11.3,47
+COA,CIE62307,"Sistem Pembelajaran Berbasis Multimedia, Gim, dan Peranti Bergerak",lecture,Wed,17,F4.3,47
+COA,CIE62307,"Sistem Pembelajaran Berbasis Multimedia, Gim, dan Peranti Bergerak",lecture,Mon,11,F3.9,47
+COA,CIE62307,"Sistem Pembelajaran Berbasis Multimedia, Gim, dan Peranti Bergerak",lecture,Tue,15,F3.6,103
+COA,CIE62307,"Sistem Pembelajaran Berbasis Multimedia, Gim, dan Peranti Bergerak",lecture,Mon,10,F3.11,103
+COA,CIE62307,"Sistem Pembelajaran Berbasis Multimedia, Gim, dan Peranti Bergerak",lecture,Tue,7,F3.13,103
+COA,CIE62307,"Sistem Pembelajaran Berbasis Multimedia, Gim, dan Peranti Bergerak",lecture,Tue,7,F4.13,16
+COA,CIE62307,"Sistem Pembelajaran Berbasis Multimedia, Gim, dan Peranti Bergerak",lecture,Thu,8,F2.5,16
+COA,CIE62307,"Sistem Pembelajaran Berbasis Multimedia, Gim, dan Peranti Bergerak",lecture,Wed,16,F3.15,16
+COA,CIE62307,"Sistem Pembelajaran Berbasis Multimedia, Gim, dan Peranti Bergerak",lecture,Mon,9,F3.18,62
+COA,CIE62307,"Sistem Pembelajaran Berbasis Multimedia, Gim, dan Peranti Bergerak",lecture,Tue,11,F3.1,62
+COA,CIE62307,"Sistem Pembelajaran Berbasis Multimedia, Gim, dan Peranti Bergerak",lecture,Fri,13,F2.2,62
+COA,CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,lecture,Wed,13,F2.4,47
+COA,CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,lecture,Wed,16,F3.2,47
+COA,CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,lecture,Wed,8,F3.2,47
+COA,CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,lecture,Wed,16,F4.7,103
+COA,CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,lecture,Thu,8,F3.11,103
+COA,CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,lecture,Thu,17,F4.12,103
+COA,CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,lecture,Wed,10,F3.12,40
+COA,CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,lecture,Mon,14,F4.6,40
+COA,CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,lecture,Fri,15,F3.14,40
+COA,CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,lecture,Wed,13,F3.7a,16
+COA,CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,lecture,Fri,7,F4.7,16
+COA,CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,lecture,Mon,8,F4.9,16
+COA,CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,lecture,Thu,14,F3.17,16
+COA,CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,lecture,Mon,13,F4.7,16
+COA,CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,lecture,Mon,10,F3.18,16
+COA,CIE62308,Sistem Pembelajaran Jarak Jauh,lecture,Wed,8,F2.2,47
+COA,CIE62308,Sistem Pembelajaran Jarak Jauh,lecture,Wed,17,F11.4,47
+COA,CIE62308,Sistem Pembelajaran Jarak Jauh,lecture,Wed,9,F3.6,47
+COA,CIE62308,Sistem Pembelajaran Jarak Jauh,lecture,Fri,7,F3.3,16
+COA,CIE62308,Sistem Pembelajaran Jarak Jauh,lecture,Thu,10,F3.11,16
+COA,CIE62308,Sistem Pembelajaran Jarak Jauh,lecture,Wed,17,F3.8,16
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Thu,14,F4.5,83
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Mon,10,F3.1,83
+COA,CSD60702,Sistem Pendukung Keputusan,practicum,Tue,17,59,Asprak
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Fri,8,F4.2,108
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Thu,14,F2.4,108
+COA,CSD60702,Sistem Pendukung Keputusan,practicum,Mon,15,98,Asprak
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Wed,11,F3.18,94
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Tue,7,F4.2,94
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Tue,9,F3.17,94
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Fri,16,F4.7,30
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Fri,10,F3.18,30
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Wed,11,F11.3,30
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Mon,7,F3.14,52
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Tue,7,F2.2,52
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Mon,11,F3.4,52
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Tue,7,F4.4,107
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Mon,13,F3.5a,107
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Tue,16,F4.12,107
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Fri,13,F4.4,108
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Thu,8,F11.3,108
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Mon,13,F2.4,108
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Tue,15,F3.7a,15
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Fri,14,F4.9,15
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Tue,7,F3.11,15
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Tue,11,F2.2,16
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Tue,13,F3.13,16
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Tue,11,F11.3,16
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Mon,15,F3.9,20
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Thu,14,F11.1,20
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Thu,11,F3.1,20
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Mon,10,F4.5,29
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Thu,17,F4.9,29
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Thu,17,F3.7b,29
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Wed,14,F2.2,73
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Thu,16,F4.13,73
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Tue,16,F2.9,73
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Mon,13,F2.2,83
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Wed,15,F3.3,83
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Wed,8,F2.6,83
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Fri,7,F2.9,92
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Fri,13,F3.13,92
+COA,CSD60702,Sistem Pendukung Keputusan,lecture,Mon,15,F3.4,92
+COA,CIS60105,Strategi Transformasi Digital,lecture,Fri,7,F3.10,53
+COA,CIS60105,Strategi Transformasi Digital,lecture,Wed,7,F4.2,53
+COA,CIS60105,Strategi Transformasi Digital,lecture,Fri,8,F4.6,94
+COA,CIS60105,Strategi Transformasi Digital,lecture,Mon,10,F4.6,94
+COA,CIS60105,Strategi Transformasi Digital,lecture,Thu,16,F3.15,94
+COA,CIS60105,Strategi Transformasi Digital,lecture,Thu,10,F3.17,94
+COA,CIS60105,Strategi Transformasi Digital,lecture,Tue,10,F2.2,108
+COA,CIS60105,Strategi Transformasi Digital,lecture,Mon,15,F3.2,108
+COA,CSD60703,Tata Kelola Teknologi Informasi,lecture,Wed,7,F3.1,6
+COA,CSD60703,Tata Kelola Teknologi Informasi,lecture,Mon,16,F3.11,6
+COA,CSD60703,Tata Kelola Teknologi Informasi,lecture,Mon,10,F3.3,6
+COA,CSD60703,Tata Kelola Teknologi Informasi,lecture,Mon,7,F4.2,87
+COA,CSD60703,Tata Kelola Teknologi Informasi,lecture,Fri,14,F11.1,87
+COA,CSD60703,Tata Kelola Teknologi Informasi,lecture,Tue,16,F3.3,87
+COA,CSD60703,Tata Kelola Teknologi Informasi,lecture,Mon,10,F2.9,108
+COA,CSD60703,Tata Kelola Teknologi Informasi,lecture,Wed,10,F4.11,108
+COA,CSD60703,Tata Kelola Teknologi Informasi,lecture,Thu,17,F4.14,108
+COA,CSD60703,Tata Kelola Teknologi Informasi,lecture,Thu,8,F3.15,6
+COA,CSD60703,Tata Kelola Teknologi Informasi,lecture,Tue,16,F4.7,6
+COA,CSD60703,Tata Kelola Teknologi Informasi,lecture,Mon,14,F11.1,6
+COA,CSD60703,Tata Kelola Teknologi Informasi,lecture,Mon,16,F2.8,15
+COA,CSD60703,Tata Kelola Teknologi Informasi,lecture,Fri,13,F3.5b,15
+COA,CSD60703,Tata Kelola Teknologi Informasi,lecture,Tue,17,F4.14,15
+COA,CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,lecture,Thu,17,F3.5a,14
+COA,CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,lecture,Tue,11,F4.10,14
+COA,CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,lecture,Mon,13,F3.12,94
+COA,CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,lecture,Thu,8,F3.9,94
+COA,CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,lecture,Wed,15,F2.9,17
+COA,CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,lecture,Fri,10,F4.9,17
+COA,CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,lecture,Wed,15,F2.2,17
+COA,CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,lecture,Mon,16,F4.11,17
+COA,CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,lecture,Mon,8,F3.17,46
+COA,CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,lecture,Mon,10,F3.7b,46
+COA,CIT60049,Teknologi Basis Data Non Relational,lecture,Mon,14,F3.5a,102
+COA,CIT60049,Teknologi Basis Data Non Relational,lecture,Mon,8,F11.3,102
+COA,CIT60049,Teknologi Basis Data Non Relational,lecture,Wed,7,F3.4,102
+COA,CIT60049,Teknologi Basis Data Non Relational,lecture,Fri,10,F3.6,16
+COA,CIT60049,Teknologi Basis Data Non Relational,lecture,Tue,15,F4.6,16
+COA,CIT60049,Teknologi Basis Data Non Relational,lecture,Fri,10,F2.2,16
+COA,CIT60049,Teknologi Basis Data Non Relational,lecture,Wed,7,F3.8,16
+COA,CIT60049,Teknologi Basis Data Non Relational,lecture,Thu,10,F3.16,16
+COA,CIT60049,Teknologi Basis Data Non Relational,lecture,Fri,13,F3.16,16
+COA,CIT60036,Teknologi Berbasis Cloud,lecture,Thu,15,F2.4,16
+COA,CIT60036,Teknologi Berbasis Cloud,lecture,Tue,17,F3.7b,16
+COA,CIT60036,Teknologi Berbasis Cloud,lecture,Fri,17,F2.9,16
+COA,CIT60036,Teknologi Berbasis Cloud,lecture,Wed,11,F3.13,20
+COA,CIT60036,Teknologi Berbasis Cloud,lecture,Tue,9,F4.6,20
+COA,CIT60036,Teknologi Berbasis Cloud,lecture,Tue,7,F2.6,20
+COA,CIT60036,Teknologi Berbasis Cloud,lecture,Mon,17,F2.1,35
+COA,CIT60036,Teknologi Berbasis Cloud,lecture,Tue,9,F2.1,35
+COA,CIT60036,Teknologi Berbasis Cloud,lecture,Thu,13,F3.7a,35
+COA,CIT60036,Teknologi Berbasis Cloud,lecture,Wed,10,F3.7a,46
+COA,CIT60036,Teknologi Berbasis Cloud,lecture,Fri,14,F4.7,46
+COA,CIT60036,Teknologi Berbasis Cloud,lecture,Thu,15,F2.9,46
+COA,CIT60036,Teknologi Berbasis Cloud,lecture,Thu,17,F4.10,75
+COA,CIT60036,Teknologi Berbasis Cloud,lecture,Tue,9,F3.13,75
+COA,CIT60036,Teknologi Berbasis Cloud,lecture,Wed,16,F3.18,75
+COA,CIT60036,Teknologi Berbasis Cloud,lecture,Thu,7,F3.8,104
+COA,CIT60036,Teknologi Berbasis Cloud,lecture,Wed,17,F4.2,104
+COA,CIT60036,Teknologi Berbasis Cloud,lecture,Mon,14,F2.2,104
+COA,CSD60717,Teknologi Blockchain dan Platform Keuangan Digital,lecture,Tue,7,F2.4,14
+COA,CSD60717,Teknologi Blockchain dan Platform Keuangan Digital,lecture,Thu,14,F4.11,14
+COA,CSD60717,Teknologi Blockchain dan Platform Keuangan Digital,lecture,Wed,13,F4.2,47
+COA,CSD60717,Teknologi Blockchain dan Platform Keuangan Digital,lecture,Fri,14,F3.11,47
+COA,CSD60717,Teknologi Blockchain dan Platform Keuangan Digital,lecture,Tue,15,F11.1,17
+COA,CSD60717,Teknologi Blockchain dan Platform Keuangan Digital,lecture,Wed,15,F3.1,17
+COA,CSD60717,Teknologi Blockchain dan Platform Keuangan Digital,lecture,Thu,9,F2.4,17
+COA,CSD60717,Teknologi Blockchain dan Platform Keuangan Digital,lecture,Wed,14,F4.4,17
+COA,CSD60717,Teknologi Blockchain dan Platform Keuangan Digital,lecture,Thu,16,F3.14,105
+COA,CSD60717,Teknologi Blockchain dan Platform Keuangan Digital,lecture,Thu,14,F4.12,105
+COA,CIT60042,Teknologi Blockchain dan Platform Keuangan Digital,lecture,Thu,11,F3.12,14
+COA,CIT60042,Teknologi Blockchain dan Platform Keuangan Digital,lecture,Wed,13,F4.6,14
+COA,CIT60042,Teknologi Blockchain dan Platform Keuangan Digital,lecture,Thu,14,F3.10,47
+COA,CIT60042,Teknologi Blockchain dan Platform Keuangan Digital,lecture,Fri,15,F3.6,47
+COA,CIT60042,Teknologi Blockchain dan Platform Keuangan Digital,lecture,Fri,14,F4.11,46
+COA,CIT60042,Teknologi Blockchain dan Platform Keuangan Digital,lecture,Wed,10,F4.12,46
+COA,CIT62017,Teknologi Integrasi Sistem,lecture,Tue,13,F4.11,16
+COA,CIT62017,Teknologi Integrasi Sistem,lecture,Thu,10,F2.1,16
+COA,CIT62017,Teknologi Integrasi Sistem,lecture,Thu,9,F3.15,16
+COA,CIT62017,Teknologi Integrasi Sistem,practicum,Tue,9,15,Asprak
+COA,CIT62017,Teknologi Integrasi Sistem,lecture,Mon,15,F3.7b,20
+COA,CIT62017,Teknologi Integrasi Sistem,lecture,Tue,17,F2.4,20
+COA,CIT62017,Teknologi Integrasi Sistem,lecture,Fri,16,F4.5,20
+COA,CIT62017,Teknologi Integrasi Sistem,practicum,Mon,17,93,Asprak
+COA,CIT62017,Teknologi Integrasi Sistem,lecture,Wed,17,F3.14,20
+COA,CIT62017,Teknologi Integrasi Sistem,lecture,Mon,8,F3.1,20
+COA,CIT62017,Teknologi Integrasi Sistem,lecture,Mon,10,F3.7b,20
+COA,CIT62017,Teknologi Integrasi Sistem,practicum,Thu,14,35,Asprak
+COA,CIT62017,Teknologi Integrasi Sistem,lecture,Thu,11,F3.5a,22
+COA,CIT62017,Teknologi Integrasi Sistem,lecture,Mon,17,F4.4,22
+COA,CIT62017,Teknologi Integrasi Sistem,lecture,Fri,7,F4.2,22
+COA,CIT62017,Teknologi Integrasi Sistem,practicum,Thu,7,57,Asprak
+COA,CIT61024,Teknologi Keamanan Siber,lecture,Fri,17,F4.10,17
+COA,CIT61024,Teknologi Keamanan Siber,lecture,Wed,9,F3.7a,17
+COA,CIT61024,Teknologi Keamanan Siber,lecture,Thu,17,F2.4,17
+COA,CIT61024,Teknologi Keamanan Siber,lecture,Fri,15,F3.15,35
+COA,CIT61024,Teknologi Keamanan Siber,lecture,Wed,14,F4.5,35
+COA,CIT61024,Teknologi Keamanan Siber,lecture,Tue,17,F4.6,35
+COA,CIT61024,Teknologi Keamanan Siber,lecture,Thu,14,F4.12,75
+COA,CIT61024,Teknologi Keamanan Siber,lecture,Wed,9,F3.15,75
+COA,CIT61024,Teknologi Keamanan Siber,lecture,Thu,17,F11.1,75
+COA,CIT61024,Teknologi Keamanan Siber,lecture,Fri,17,F4.10,46
+COA,CIT61024,Teknologi Keamanan Siber,lecture,Mon,17,F11.1,46
+COA,CIT61024,Teknologi Keamanan Siber,lecture,Tue,13,F4.6,46
+COA,CIE62116,Teknologi Komputasi Awan,lecture,Tue,8,F3.1,17
+COA,CIE62116,Teknologi Komputasi Awan,lecture,Thu,16,F3.1,17
+COA,CIE62116,Teknologi Komputasi Awan,lecture,Mon,15,F3.11,17
+COA,CIE62116,Teknologi Komputasi Awan,lecture,Mon,17,F4.5,20
+COA,CIE62116,Teknologi Komputasi Awan,lecture,Mon,16,F3.7a,20
+COA,CIE62116,Teknologi Komputasi Awan,lecture,Thu,14,F3.5a,20
+COA,CIE62116,Teknologi Komputasi Awan,lecture,Wed,15,F4.2,20
+COA,CIE62116,Teknologi Komputasi Awan,lecture,Mon,11,F11.3,20
+COA,CIE62116,Teknologi Komputasi Awan,lecture,Fri,17,F3.9,20
+COA,CIE62117,Teknologi Peranti Internet,lecture,Mon,11,F4.6,17
+COA,CIE62117,Teknologi Peranti Internet,lecture,Tue,15,F3.8,17
+COA,CIE62117,Teknologi Peranti Internet,lecture,Wed,11,F2.8,17
+COA,CIE62117,Teknologi Peranti Internet,lecture,Wed,7,F4.9,16
+COA,CIE62117,Teknologi Peranti Internet,lecture,Mon,17,F3.6,16
+COA,CIE62117,Teknologi Peranti Internet,lecture,Mon,11,F3.3,16
+COA,CIE62117,Teknologi Peranti Internet,lecture,Thu,8,F4.4,20
+COA,CIE62117,Teknologi Peranti Internet,lecture,Fri,9,F3.4,20
+COA,CIE62117,Teknologi Peranti Internet,lecture,Tue,13,F11.3,20
+COA,CIE62117,Teknologi Peranti Internet,lecture,Tue,13,F4.12,79
+COA,CIE62117,Teknologi Peranti Internet,lecture,Fri,13,F3.11,79
+COA,CIE62117,Teknologi Peranti Internet,lecture,Fri,9,F3.7b,79
+COA,CIE62117,Teknologi Peranti Internet,lecture,Thu,15,F4.14,79
+COA,CIE62117,Teknologi Peranti Internet,lecture,Tue,8,F4.2,79
+COA,CIE62117,Teknologi Peranti Internet,lecture,Wed,9,F3.4,79
+COA,CIE62117,Teknologi Peranti Internet,lecture,Wed,7,F3.10,103
+COA,CIE62117,Teknologi Peranti Internet,lecture,Wed,7,F3.4,103
+COA,CIE62117,Teknologi Peranti Internet,lecture,Tue,8,F4.6,103
+COA,CIE62202,Teknologi Platform,lecture,Fri,10,F3.8,17
+COA,CIE62202,Teknologi Platform,lecture,Wed,17,F4.13,17
+COA,CIE62202,Teknologi Platform,lecture,Mon,17,F3.8,47
+COA,CIE62202,Teknologi Platform,lecture,Thu,16,F3.15,47
+COA,CIE62202,Teknologi Platform,lecture,Mon,17,F3.9,16
+COA,CIE62202,Teknologi Platform,lecture,Wed,14,F2.5,16
+COA,CIE62202,Teknologi Platform,lecture,Thu,9,F3.1,16
+COA,CIE62202,Teknologi Platform,lecture,Tue,7,F2.4,16
+COA,CIT60051,Teknologi Smart City,lecture,Wed,14,F3.18,47
+COA,CIT60051,Teknologi Smart City,lecture,Mon,9,F3.17,47
+COA,CIT60051,Teknologi Smart City,lecture,Tue,13,F4.10,20
+COA,CIT60051,Teknologi Smart City,lecture,Tue,9,F4.10,20
+COA,CIT60051,Teknologi Smart City,lecture,Fri,9,F4.7,67
+COA,CIT60051,Teknologi Smart City,lecture,Fri,17,F3.12,67
+COA,CIT60051,Teknologi Smart City,lecture,Wed,17,F3.11,105
+COA,CIT60051,Teknologi Smart City,lecture,Fri,15,F3.18,105
+COA,CIT60051,Teknologi Smart City,lecture,Fri,13,F2.5,6
+COA,CIT60051,Teknologi Smart City,lecture,Fri,13,F4.2,6
+COA,CIT60051,Teknologi Smart City,lecture,Tue,13,F4.13,58
+COA,CIT60051,Teknologi Smart City,lecture,Fri,15,F3.13,58
+COA,CIE62106,Teori dan Sains Belajar,lecture,Fri,15,F11.4,103
+COA,CIE62106,Teori dan Sains Belajar,lecture,Fri,14,F4.7,103
+COA,CIE62106,Teori dan Sains Belajar,lecture,Thu,11,F3.16,103
+COA,CIE62106,Teori dan Sains Belajar,lecture,Thu,15,F3.15,103
+COA,CIE62106,Teori dan Sains Belajar,lecture,Mon,7,F3.5a,103
+COA,CIE62106,Teori dan Sains Belajar,lecture,Thu,8,F4.13,103
+COA,CIE62106,Teori dan Sains Belajar,lecture,Thu,17,F3.9,100
+COA,CIE62106,Teori dan Sains Belajar,lecture,Mon,15,F11.1,100
+COA,CIE62106,Teori dan Sains Belajar,lecture,Wed,11,F4.14,100
+COA,CIS60104,Transformasi Pemerintah,lecture,Wed,10,F4.5,94
+COA,CIS60104,Transformasi Pemerintah,lecture,Wed,10,F4.4,94
+COA,CIS60104,Transformasi Pemerintah,lecture,Mon,14,F3.4,11
+COA,CIS60104,Transformasi Pemerintah,lecture,Wed,7,F3.15,11
+COA,CIS60104,Transformasi Pemerintah,lecture,Mon,13,F3.15,21
+COA,CIS60104,Transformasi Pemerintah,lecture,Tue,7,F2.4,21
+COA,CIS60104,Transformasi Pemerintah,lecture,Fri,15,F4.11,21
+COA,CIS60104,Transformasi Pemerintah,lecture,Thu,14,F3.13,21
+COA,CIS60104,Transformasi Pemerintah,lecture,Mon,11,F3.4,108
+COA,CIS60104,Transformasi Pemerintah,lecture,Tue,13,F4.13,108
+COA,CIS60104,Transformasi Pemerintah,lecture,Mon,16,F3.5a,47
+COA,CIS60104,Transformasi Pemerintah,lecture,Fri,9,F3.2,47
+COA,CIS60104,Transformasi Pemerintah,lecture,Tue,11,F3.9,12
+COA,CIS60104,Transformasi Pemerintah,lecture,Mon,9,F4.10,12
